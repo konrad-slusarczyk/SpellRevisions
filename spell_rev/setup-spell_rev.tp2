@@ -42,6 +42,15 @@ LANGUAGE ~French~
          ~spell_rev\languages\french\divine.tra~
          ~spell_rev\languages\french\setup.tra~
 
+LANGUAGE ~Polski~
+         ~polish~
+         ~spell_rev\languages\english\arcane.tra~
+         ~spell_rev\languages\english\divine.tra~
+         ~spell_rev\languages\english\setup.tra~
+         ~spell_rev\languages\polish\arcane.tra~
+         ~spell_rev\languages\polish\divine.tra~
+         ~spell_rev\languages\polish\setup.tra~
+
 /* LANGUAGE ~Russian~
          ~russian~
          ~spell_rev\languages\english\arcane.tra~
@@ -59,15 +68,7 @@ LANGUAGE ~Spanish~
          ~spell_rev\languages\spanish\arcane.tra~
          ~spell_rev\languages\spanish\divine.tra~
          ~spell_rev\languages\spanish\setup.tra~
-
-LANGUAGE ~Polish by dradiel (djc@poczta.fm)~
-         ~polish~
-         ~spell_rev\languages\english\arcane.tra~
-         ~spell_rev\languages\english\divine.tra~
-         ~spell_rev\languages\english\setup.tra~
-         ~spell_rev\languages\polish\arcane.tra~
-         ~spell_rev\languages\polish\divine.tra~
-         ~spell_rev\languages\polish\setup.tra~ */
+*/
 
 
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\\\

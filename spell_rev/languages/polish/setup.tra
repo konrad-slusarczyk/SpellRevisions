@@ -1,16 +1,31 @@
 @9996=~Spell Revisions~
-@9995=~Aktualizacja animacji Devy i Planetara o skrzydla~
-@9994=~Poprawka obrony przed efektami czaru "Uspienie"~
-@9992=~Poprawka czaru "Lustrzane Odbicia"~
-@9991=~Poprawka czaru "Rozproszenie Magii"~
-@9990=~Usun wylaczone czary z ekranow tworzenia postaci oraz awansowania~
-@9989=~Zaktualizuj Ksiege Maga dla przylaczalnych NPC~
+@9995=~Animacje Devy i Planetara (ze skrzyd³ami)~
+@9994=~Poprawka obrony przed efektami czaru "Uœpienie"~
+@9992=~Poprawka czaru "Lustrzane obrazy"~
+@9991=~Poprawka czaru "Rozproszenie magii"~
+@9990=~Usuñ wy³¹czone czary z ekranów wyboru czarów (tworzenie postaci, awans czarownika)~
+@9989=~Zaktualizuj ksiêgi czarów przy³¹czalnych NPC~
 
-@8999=~Ten komponent wymaga zainstalowanego glownego komponentu Spell Revisions.~
+@8999=~Ten komponent wymaga zainstalowanego g³ównego komponentu Spell Revisions.~
 @8997=~Ten komponent wymaga zainstalowanego dodatku Tron Bhaala.~
-@8996=~Ten mod jest zaprojektowany dla silnika Baldur's Gate II i nie bedzie dzialal z innymi grami.~
-@8995=~Ten komponent nie bedzie dzialal prawidlowo jezeli zostal zainstalowany mod Divine Remix.~
+@8996=~Ten mod jest zaprojektowany dla silnika Baldur's Gate II i nie bêdzie dzia³a³ z innymi grami.~
+@8995=~Ten komponent nie bêdzie dzia³a³ prawid³owo, je¿eli zosta³ zainstalowany mod Divine Remix.~
 
-@7999=~Prosimy o cierpliwoÅ›Ä‡, moÅ¼e to chwilÄ™ potrwaÄ‡...~
+@7999=~Prosimy o cierpliwoœæ, mo¿e to chwilê potrwaæ...~
 @7998=~Gotowe!~
-@7997=~Nie mozna byÅ‚o znalezc odpowiednich adresow dla poprawek w pliku bgmain.exe. Zainstaluj wczesniej "Saga Baldur's Gate Conversion"~
+@7997=~Nie mo¿na by³o znaleŸæ odpowiednich miejsc do poprawienia w pliku bgmain.exe~
+
+@10000=~Poprawione zdolnoœci wysokiego poziomu wojownika~
+@10001=~Wytrzyma³oœæ~
+@10002=~Wytrzyma³oœæ
+Czerpi¹c z ukrytych rezerw si³y w czasie zagro¿enia wojownik mo¿e wykorzystaæ zdolnoœæ Wytrzyma³oœæ, aby zdobyæ 20% odpornoœci na wszystkie formy obra¿eñ. Zdolnoœæ trwa 1 rundê na ka¿de 2 poziomy wojownika.~
+@10003 = ~M³yniec~
+@10004 = ~M³yniec
+Zdolnoœæ ta pozwala wojownikowi zadaæ seriê niezwykle szybkich ciosów. Przez 2 rundy szybkoœæ ruchu i liczba ataków zostaj¹ podwojone, ale wszystkie ataki s¹ wykonywane z kar¹ -4 do trafienia i obra¿eñ.~
+@10005 = ~Wiêkszy m³yniec~
+@10006 = ~Wiêkszy m³yniec
+Jest to potê¿niejsza wersja m³yñca, która zapewnia wojownikowi te same premie, ale nie otrzymuje on przy tym ¿adnych modyfikatorów ujemnych.
+
+Wymagania: M³yniec~
+
+@10010 = ~Poprawione rzuty obronne~

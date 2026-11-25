@@ -1,0 +1,3569 @@
+/*-------------------------level 1------------------------*/
+
+@401=~Œliskoœæ~ 
+@402=~Œliskoœæ
+Poziom: 1
+Szko³a: Sprowadzanie
+Zasiêg: œredni
+Czas trwania: 1 tura
+Czas rzucania: 1
+Obszar dzia³ania: w promieniu 10 stóp
+Rzut obronny: zioniêcia
+
+Czar ten pokrywa pod³o¿e œlisk¹ i t³ust¹ warstw¹. Ka¿da istota znajduj¹ca siê w obszarze dzia³ania w chwili rzucenia czaru musi wykonaæ rzut obronny przeciw zioniêciom z premi¹ +2 albo upadnie na ziemiê na jedn¹ rundê. Istoty, które wejd¹ w obszar dzia³ania lub w nim pozostan¹, musz¹ wykonywaæ rzut obronny w ka¿dej rundzie, dopóki nie dotr¹ do najbli¿szej niepokrytej powierzchni. Istota, której uda siê rzut obronny, mo¿e chodziæ po obszarze dzia³ania czaru lub przez niego przejœæ, jednak jej ruchy zostan¹ znacznie spowolnione. Stworzenia niematerialne i lataj¹ce s¹ odporne na dzia³anie tego czaru, podobnie jak wyj¹tkowo du¿e istoty, którym œliska pow³oka nie sprawia wiêkszego k³opotu.~
+
+@403=~Zbroja maga~ 
+@404=~Zbroja maga
+Poziom: 1
+Szko³a: Sprowadzanie
+Zasiêg: rzucaj¹cy czar
+Czas trwania: 8 godzin
+Czas rzucania: 1 runda
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+Czar ten tworzy magiczne pole si³owe, które ustala bazow¹ Klasê Pancerza czarodzieja na 6. Poprawia siê ona o 1 co cztery poziomy rzucaj¹cego, a¿ do bazowej KP 3 na 12. poziomie. Zbroja ta nie ogranicza ruchów, nie ma ciê¿aru, nie zwiêksza obci¹¿enia ani nie uniemo¿liwia rzucania czarów. Trwa do skutecznego rozproszenia lub wygaœniêcia czasu dzia³ania.~
+
+@405=~P³on¹ce d³onie~ 
+@406=~P³on¹ce d³onie
+Poziom: 1
+Szko³a: Wywo³ywanie
+Zasiêg: specjalny
+Czas dzia³ania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Kiedy mag rzuci to zaklêcie, z czubków jego palców wystrzeliwuje w wybranym kierunku sto¿ek pal¹cych p³omieni. Czarodziej uk³ada d³onie w taki sposób, by wys³aæ przed siebie strumieñ p³omieni w kszta³cie wachlarza: kciuki musz¹ siê stykaæ, a pozosta³e palce musz¹ byæ roz³o¿one. P³omienie maj¹ d³ugoœæ 10 stóp i tworz¹ przed rzucaj¹cym poziomy ³uk o k¹cie oko³o 60 stopni. Ka¿da istota znajduj¹ca siê w p³omieniach otrzymuje 1k6 obra¿eñ od ognia plus 1k6 na ka¿de 2 kolejne poziomy rzucaj¹cego (maksymalnie 5k6).~
+
+@407=~Zauroczenie osoby~
+@408=~Zauroczenie osoby
+Poziom: 1
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: pole widzenia rzucaj¹cego czar
+Czas trwania: 5 rund
+Czas rzucania: 1
+Obszar dzia³ania: 1 osoba
+Rzut obronny: neguje
+
+Zaklêcie to dzia³a tylko na jedn¹ osobê tzn. t¹ na któr¹ zosta³o rzucone. Za osobê uwa¿a siê w tym wypadku dwuno¿nych ludzi, pó³ludzi oraz humanoidy wielkoœci cz³owieka lub mniejsze, takie jak krasnoludy, elfy, gnolle, gnomy, pó³elfy, nizio³ki, pó³orkowie, hobgobliny, koboldy itp. Jeœli celowi czaru nie powiedzie siê rzut obronny, zaczyna ona postrzegaæ rzucaj¹cego zaklêcie jako zaufanego przyjaciela i sprzymierzeñca, którego nale¿y ochraniaæ. Rzucaj¹cy czar mo¿e wydawaæ zauroczonej istocie rozkazy, które ta bêdzie wykonywa³a mo¿liwie jak najszybciej.
+
+Istoty, które s¹ neutrale wzglêdem rzucaj¹cego s¹ bardziej podatne na efekty zaklêcia i wykonuja swój rzut obronny bez bonusów, istoty wrogie s¹ wyraŸnie trudniejsze do zauroczenia i otrzymuj¹ bonus +4 do swojego rzutu obronnego. Jeœli rzucaj¹cy czar spróbuje skrzywdziæ zauroczon¹ istotê, efekt Zauroczenia zostaje przerwany a jego obiekt staje siê wrogi czarodziejowi. Jeœli na istotê dzia³aj¹ jednoczeœnie dwa Zauroczenia, pierwszeñstwo bêdzie mieæ to, które by³o rzucone póŸniej. Po up³yniêciu czasu trwania zaklêcia lub jego rozproszeniu, istota nim objêta wraca do swoich powraca do swojego poprzedniego zachowania sprzed zauroczenia.~
+
+@409=~Migocz¹ce barwy~
+@410=~Migocz¹ce barwy
+Poziom: 1
+Szko³a: Przemiany
+Zasiêg: specjalny
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: specjalny
+Rzut obronny: czary
+
+Czar ten tworzy wachlarz jaskrawych, gryz¹cych siê ze sob¹ barw, wystrzeliwuj¹cych wprost z d³oni rzucaj¹cego. Wachlarz ma d³ugoœæ 15 stóp i rozpoœciera siê przed czarodziejem w poziomym ³uku o k¹cie oko³o 60 stopni. Efekt zaklêcia zale¿y od poziomu rzucaj¹cego - istoty, których kostki wytrzyma³oœci/poziom s¹ ni¿sze lub równe poziomowi czarodzieja, zostaj¹ spowolnione na 5 rund, istoty o jeden lub dwa poziomy wy¿sze od rzucaj¹cego zostaj¹ oœlepione na 3 rundy, a wszystkie pozosta³e wpadaj¹ w zamêt na 1 rundê. Istoty maj¹ce wiêcej ni¿ 22 kostki wytrzyma³oœci/poziomy wykonuj¹ rzut obronny jedynie przeciw efektowi zamêtu, bez wzglêdu na poziom czarodzieja.~
+
+@411=~Nieprzenikniona mg³a~
+@412=~Nieprzenikniona mg³a
+Poziom: 1
+Szko³a: Sprowadzanie
+Zasiêg: daleki
+Czas trwania: 6 rund
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: brak
+
+Kiedy to zaklêcie zostanie rzucone, z wyznaczonego punktu rozchodzi siê nienaturalnie gêsta mg³a, zakrywaj¹c wskazany obszar. Wszyscy znajduj¹cy siê we mgle otrzymuj¹ karê -2 do testów ataku i maj¹ o po³owê mniejsze pole widzenia. Ka¿dy, wewn¹trz lub na zewn¹trz chmury, próbuj¹cy zaatakowaæ istotê ukryt¹ we mgle za pomoc¹ broni dystansowej, zrobi to z kar¹ -4 do testów ataku. Istoty obdarzone œlepowidzeniem lub te, które nie polegaj¹ na wzroku, mog¹ walczyæ w magicznej mgle bez kar.~
+
+@413=~Przywo³anie potwora I~ 
+@414=~Przywo³anie potwora I 
+Poziom: 1
+Szko³a: Sprowadzanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa okreœlon¹ iloœæ potworów, które bezwzglêdnie mu s³u¿¹. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿y od poziomu rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+Poziom 1 : 2 gibberlingi
+Poziom 3 : 3 gibberlingi
+Poziom 5 : 4 gibberlingi
+Poziom 7 i wy¿ej : 5 gibberlingów
+
+Gibberling (1 Kostka):
+Si³a 10, zrêcznoœæ 10, kondycja 10, inteligencja 6, wiedza 7, charyzma 4;  Charakter: chaotyczny neutralny
+P¯ 8, KP: 10, TraKo: 19, rzuty obronne: 13/17/15/13/17
+1 atak w rundzie, 1k6 obra¿eñ kutych (krótki miecz)~
+
+@415=~Szybki odwrót~ 
+@416=~Szybki odwrót
+Poziom: 1
+Szko³a: Przemiany
+Zasiêg: specjalny
+Czas trwania: 3 rundy
+Czas rzucania: 1
+Obszar dzia³ania: jedna istota
+Rzut obronny: brak
+
+Rzucenie tego zaklêcie zapewnia wszystkim przyjaznym stworzeniom na obszarze niesamowit¹ szybkoœæ poruszania siê. Szybkoœæ ruchu dotkniêtych stworzeñ jest prawie trzykrotnie wiêksza na czas trwania zaklêcia, ale taka nienaturalna prêdkoœæ nie pozwala na podjêcie ¿adnych  dzia³añ z wyj¹tkiem biegania.~
+
+@417=~Identyfikacja~
+@418=~Identyfikacja
+Poziom: 1
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: specjalny
+Obszar dzia³ania: 1 przedmiot
+Rzut obronny: brak
+
+Po rzuceniu tego czaru nazwa i w³aœciwoœci magiczne (w tym kl¹twy) jednego przedmiotu, którego nastêpnie dotknie czarodziej, zostaj¹ niezawodnie ujawnione. Wiele niezidentyfikowanych przedmiotów mo¿na u¿ywaæ, ale wi¹¿e siê to z wielkim ryzykiem.~
+
+@419=~Celne uderzenie~ 
+@420=~Celne uderzenie
+Poziom: 1
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy czar
+Czas trwania: 3 rundy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+Zaklêcie to zapewnia rzucaj¹cemu sokoli wzrok, co skutkuje nadnaturaln¹ celnoœci¹ na krótki okres czasu. Kiedy zaklêcie dzia³a, rzuty ataku s¹ wykonywane z premi¹ do percepcji +4, a szansa na trafienie krytyczne wzrasta o 5%.~
+
+@421=~Magiczny pocisk~ 
+@422=~Magiczny pocisk
+Poziom: 1
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: jedna istota
+Rzut obronny: brak
+
+Jest to jeden z najpopularniejszych czarów pierwszego poziomu. Dziêki niemu mag tworzy z magicznej energii do piêciu pocisków, które wylatuj¹ z jego palca i bezb³êdnie trafiaj¹ w cel, który musi byæ jak¹œ istot¹. Ka¿dy pocisk zadaje 1k4+1 obra¿eñ. Na ka¿de dwa dodatkowe poziomy doœwiadczenia mag otrzymuje jeden dodatkowy pocisk, tzn. na trzecim ma dwa, na pi¹tym - trzy, na siódmym - cztery i maksymalnie piêæ na dziewi¹tym poziomie.~
+
+@423=~Ochrona przed z³em~
+@424=~Ochrona przed z³em
+Poziom: 1
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 5 tur
+Czas rzucania: 1
+Obszar dzia³ania: jedna istota
+Rzut obronny: brak
+
+Czar ten tworzy wokó³ wybranej istoty magiczn¹ barierê, rozci¹gaj¹c¹ siê na odleg³oœæ trzydziestu centymetrów. Bariera ta przemieszcza siê wraz z ni¹ i dzia³a na dwa sposoby. Po pierwsze, wszystkie stworzenia o charakterze z³ym, lub których charakter sta³ siê z³y za pomoc¹ magii, otrzymuj¹ modyfikator -2 do ka¿dego testu ataku wykonywanego przeciw istocie chronionej barier¹. Po drugie, ka¿dy rzut obronny spowodowany tymi atakami jest wykonywany z bonusem +2.~ 
+
+@425=~Tarcza~
+@426=~Tarcza
+Poziom: 1
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy czar
+Czas trwania: 5 tur
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+Po rzuceniu tego czaru, przed czarodziejem pojawia siê niewidzialna bariera, zapewniaj¹ca mu niewra¿liwoœæ na dzia³anie zaklêcia Magiczny pocisk. Ponad to, ta faluj¹ca bariera bariera mocy jest podobna do zwyk³ej tarczy i zwiêksza KP o 2 (+4 przeciw pociskom). Efekt ten utrzymuje siê przez ca³y okres dzia³ania czaru lub do momentu jego rozproszenia.~
+
+@427=~Pora¿aj¹cy uœcisk~
+@428=~Pora¿aj¹cy uœcisk
+Poziom: 1
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Kiedy czarodziej dotknie istoty podczas dzia³ania tego czaru, ³adunek elektryczny zada jej 1k6 obra¿eñ i og³uszy j¹ na 1 rundê. Jeœli cel wykona udany rzut obronny przeciw czarom, nie zostanie og³uszony. Na ka¿de dwa dodatkowe poziomy doœwiadczenia rzucaj¹cego istota otrzymuje dodatkowe 1k6 obra¿eñ, a jej rzut obronny obci¹¿ony jest dodatkow¹ kar¹ -1 (maksymalnie 5k6 obra¿eñ i kara -4 do rzutu obronnego na 9. poziomie). Czar wygasa, gdy rzucaj¹cy wykona udany atak wrêcz albo po up³ywie 1 tury. Czarodziej otrzymuje premiê +4 do trafienia celu.~
+
+@429=~Uœpienie~
+@430=~Uœpienie
+Poziom: 1
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 5 rund
+Czas rzucania: 1
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: przeciw czarom neguje
+
+Czar ten wprowadza jedn¹ lub wiêcej istot w podobny do œpi¹czki stan. Istoty znajduj¹ce siê w obszarze dzia³ania czaru musz¹ wykonaæ rzut obronny przeciw czarom lub padn¹ jego ofiar¹. Próby skrzywdzenia istot bêd¹cych pod wp³ywem zaklêcia je zbudz¹. Potwory o liczbie Kostek wiêkszej ni¿ czarodziej s¹ odporne na dzia³anie tego czaru. Elfy i pó³-elfy s¹ czêœciowo odporne na uœpienie, natomiast nieumarli i inne okreœlone kreatury takie jak smoki i ¿ywio³aki s¹ ca³kowicie odporne.~
+
+@431=~Zamra¿aj¹cy dotyk~
+@432=~Zamra¿aj¹cy dotyk
+Poziom: 1
+Szko³a: Nekromancja
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 tura
+Czas rzucania: 1
+Obszar dzia³ania: specjalny
+Rzut obronny: specjalny
+
+Z chwil¹, gdy mag ukoñczy rzucanie tego zaklêcia, jego rêkê spowijaæ zaczyna b³êkitna poœwiata. Wytworzona przy tym energia atakuje si³y ¿yciowe ka¿dej ¿yj¹cej istoty, przeciw której mag wykona udany atak dotykowy. Dotkniêta istota otrzymuje 1k6 obra¿eñ od zimna i musi wykonaæ rzut przeciw œmierci inaczej traci jeden punkt si³y na czas 1 godziny. Atak jest wykonywany z premi¹ +4 do TraKo a d³oñ czarodzieja jest traktowana jakby posiada³a umagicznienie +1 na potrzeby okreslenia kogo mo¿e trafiæ.~
+
+@433=~Zmiennobarwna kula~
+@434=~Zmiennobarwna kula
+Poziom: 1
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: czary, czêœciowy
+
+Zaklêcie to sprawia, ¿e w rêku maga pojawia siê kula o œrednicy dwóch stóp. Rzucona, bezb³êdnie mknie w kierunku wybranego celu. Kula zadaje magiczne obra¿enia i wywo³uje ró¿ne efekty zale¿nie od swojego koloru. Wraz ze wzrostem poziomu czarodzieja rosn¹ zarówno zadawane obra¿enia, jak i liczba znanych kolorów. Kolor kuli jest losowo wybierany spoœród kolorów znanych na danym poziomie czarodzieja. Ofiara mo¿e wykonaæ rzut obronny przeciw czarom przeciw wszystkim efektom specjalnym, ale nie przeciw obra¿eniom. Wszystkie efekty specjalne trwaj¹ 5 rund.
+
+1. poziom : zadaje 1k3 obra¿eñ, bia³a, œwiat³o ( -4 kary do rzutu obronnego)
+2. poziom : zadaje 1k4 obra¿eñ, akwamarynowa, magnetyzm ( -4 kary do KP)
+4. poziom : zadaje 1k6 obra¿eñ, czerwona, ból ( -1 kary do si³y i zrêcznoœci)
+6. poziom : zadaje 1k8 obra¿eñ, zielona, trucizna ( 2 P¯ na rundê)
+8. poziom : zadaje 1k10 obra¿eñ, ¿ó³ta, oœlepienie
+10. poziom : zadaje 2k6 obra¿eñ, fioletowa, spowolnienie
+12.+ poziom : zadaje 2k8 obra¿eñ, niebieska, parali¿~
+
+@1001=~Bia³a kula~
+@1002=~Czerwona kula~
+@1003=~¯ó³ta kula~
+@1004=~Zielona kula~
+@1005=~Akwamarynowa kula~
+@1006=~Niebieska kula~
+@1007=~Fioletowa kula~
+
+@435=~Pomniejsze dr¹¿enie Larlocha~
+@436=~Pomniejsze dr¹¿enie Larlocha
+Poziom: 1
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Czarodziej dziêki temu zaklêciu mo¿e pozbawiæ ofiarê si³ ¿yciowych, które go wzmocni¹. Nieszczêsna istota traci 2 punkty ¿ycia, a mag zyskuje 2 punkty ¿ycia. Na ka¿de dwa poziomy czarodzieja, efekt jest wzmocniony o 2 punkty (maksymalnie 10 P¯ na 9. poziomie) Jeœli zdobyte si³y ¿yciowe przekrocz¹ maksymaln¹ wartoœæ punktów ¿ycia czarodzieja, to straci je on po 1 turze.~
+
+@437=~Odbity obraz~
+@438=~Odbity obraz
+Poziom: 1
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 4 rundy +1 runda/3 poziomy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego czaru mag tworzy jeden iluzoryczny obraz samego siebie, który pod¹¿a wraz z nim. Obraz wykonuje te same czynnoœci co czarodziej i wydaje siê normalnie reagowaæ na obra¿enia fizyczne i magiczne (np. wygl¹da na poparzony po trafieniu ognist¹ kul¹), tak wiêc wrogowie próbuj¹cy zaatakowaæ maga nie wiedz¹, która postaæ jest prawdziwa. Istnieje 50% szans, ¿e przeciwnik zaatakuje obraz, i 50% szans, ¿e zaatakuje rzucaj¹cego. Obraz jest odporny na wszelkie obra¿enia, ale znika, jeœli zostanie na niego rzucone Rozproszenie magii lub Wykrycie iluzji albo gdy up³ynie czas dzia³ania czaru. Zaklêcia nie mo¿na rzuciæ na nikogo, kto znajduje siê pod wp³ywem Lustrzanych obrazów, a wielokrotne rzucenie tego czaru nie stworzy dodatkowych obrazów.~
+
+@439=~Przywo³anie chowañca~
+@440=~Przywo³anie chowañca
+Poziom: 1
+Szko³a: Uniwersalna
+Zasiêg: krótki
+Czas trwania: sta³y
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten pozwala rzucaj¹cemu podj¹æ próbê przywo³ania chowañca, który bêdzie mu s³u¿y³ za pomocnika i towarzysza. Ta zazwyczaj niewielka istota mo¿e przynieœæ czarodziejowi wiele korzyœci, przekazuj¹c mu informacje swymi wyostrzonymi zmys³ami, zabawiaj¹c go rozmow¹ lub s³u¿¹c za stra¿nika, zwiadowcê, czy szpiega. Czarodziej mo¿e mieæ tylko jednego chowañca na raz i nie ma wp³ywu na to, jak¹ istotê przywo³a i czy w ogóle mu siê to uda. Nale¿y pamiêtaæ, ¿e ten czar mo¿e rzuciæ wy³¹cznie g³ówny bohater.
+
+Wezwana istota zawsze jest inteligentniejsza od przeciêtnego przedstawiciela swojej rasy (zazwyczaj o 2-3 punkty Inteligencji), a wiêŸ z czarodziejem zapewnia jej wyj¹tkow¹ d³ugowiecznoœæ. Czarodziej posiada empatyczn¹ wiêŸ z chowañcem i mo¿e wydawaæ mu polecenia w myœlach. Rzucaj¹cy otrzymuje po³owê wszystkich punktów ¿ycia chowañca jako premiê do w³asnych punktów ¿ycia. Musi jednak dobrze traktowaæ swego podopiecznego, gdy¿ jeœli chowaniec zginie, czarodziej straci premiowe punkty ¿ycia i dodatkowo otrzyma obra¿enia równe po³owie punktów ¿ycia chowañca. Ponadto w przypadku œmierci chowañca czarodziej traci na sta³e 1 punkt Kondycji.
+
+Przyk³ad: Czarodziej posiadaj¹cy 15 punktów ¿ycia przywo³uje chowañca. Wezwany chochlik ma 24 P¯, tak wiêc czarodziej uzyskuje dodatkowe 12 P¯. Ma wiêc teraz 27 P¯. Jeœli chowaniec umrze, czarodziej straci dodatkowe 12 P¯, jeden punkt Kondycji na sta³e (co mo¿e skutkowaæ kolejn¹ utrat¹ P¯), a ponadto otrzymuje 12 obra¿eñ.
+
+Poni¿ej znajduje siê lista chowañców jakie gracz uzyskuje zale¿nie od charakteru:
+
+PRAWORZ¥DNY DOBRY, NEUTRALNY DOBRY: Pseudosmok
+CHAOTYCZNY DOBRY: Baœniowy smok
+
+PRAWORZ¥DNY NEUTRALNY: Fretka
+NEUTRALNY: Królik
+CHAOTYCZNY NEUTRALNY: Kot
+
+PRAWORZ¥DNY Z£Y: Chochlik
+NEUTRALNY Z£Y: Mefit py³u
+CHAOTYCZNY Z£Y: Quasit
+
+Mo¿na obejrzeæ statystyki chowañca w swoim ekwipunku.~
+
+@441=~Lekkomyœlne zaklêcie Nahala~
+@442=~Lekkomyœlne zaklêcie Nahala
+Poziom: 1
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: specjalny
+Rzut obronny: specjalny
+
+Czar ten to dla dzikich magów przewa¿nie ostatnia deska ratunku. Po jego rzuceniu mag uwalnia niekontrolowany potok dzikiej magicznej energii w nadziei, ¿e bêdzie w stanie j¹ okie³znaæ i ukszta³towaæ w po¿¹dany sposób. Starania te zazwyczaj spe³zaj¹ na niczym, niemniej jednak w ich wyniku zawsze generowany jest jakiœ efekt magiczny.
+
+Aby u¿yæ Lekkomyœlnego zaklêcia Nahala, wystarczy rzuciæ je w normalny sposób, a nastêpnie wybraæ czar z dostêpnej listy znanych czarów. Uwalniana jest wówczas eksplozja magicznej energii, któr¹ mag stara siê uformowaæ w po¿¹dany dla siebie sposób. Faktyczny efekt zaklêcia okreœlany jest losowym rzutem koœci¹, którego wynik odczytywany jest z Tabeli dzikiej energii znajduj¹cej siê w instrukcji do gry.
+
+Poniewa¿ uwolnienie dzikiej energii jest nastêpstwem planowanego dzia³ania maga, jego poziom dodawany jest do powy¿szego rzutu kostk¹. Je¿eli wynik okaza³ siê sukcesem, magowi uda³o siê ukszta³towaæ magiczn¹ energiê w po¿¹dany sposób, jednak znacznie czêœciej efekt dzia³ania zaklêcia jest zupe³nie nieoczekiwany. Rezultat mo¿e byæ dla rzucaj¹cego korzystny lub okazaæ siê ca³kowit¹ katastrof¹, jest to jednak ryzyko, które musi ponieœæ ka¿dy dziki mag decyduj¹cy siê na rzucenie Lekkomyœlnego zaklêcia Nahala.~
+
+@443=~Przera¿enie~
+@444=~Przera¿enie
+Poziom: 1
+Szko³a: Iluzje/Urojenia
+Zasiêg: daleki
+Czas trwania: 5 rund
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Przera¿enie to zaklêcie pozwalaj¹ce czarodziejowi wywo³aæ u ofiary jej wrodzone lêki, dziêki czemu ta postrzega go jako kogoœ lub coœ nieprzyjaznego, co zdaje siê zbli¿aæ ku niej z wrogimi zamiarami. Je¿eli ofiara nie wykona rzutu obronnego przeciw czarom, odwraca siê i zaczyna uciekaæ od czarodzieja z maksymaln¹ mo¿liw¹ szybkoœci¹. Stworzenie otrzymuje równie¿ modyfikator do wszystkich rzutów obronnych, wynosz¹cy -1 na ka¿de dwa poziomy czaruj¹cego (maksymalnie -4 na 9. poziomie). Mimo i¿ sam czarodziej nie œciga uciekaj¹cej istoty, robi to wytwór jego wyobraŸni. Nieumarli, okreœlone potê¿ne stworzenia, które potrafi¹ ³atwo dostrzec iluzjê takie jak smoki oraz te pozbawione inteligencji s¹ ca³kowicie niepodatne na dzia³anie Przera¿enia tak jakby by³y pod wp³ywem zaklêcia Prawdziwego widzenia.~
+
+@445=~Ochrona przed petryfikacj¹~
+@446=~Ochrona przed petryfikacj¹
+Poziom: 1
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 godzina
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Zaklêcie to zapewnia osobie, na któr¹ zostanie rzucony, odpornoœæ na wszelkie ataki powoduj¹ce petryfikacjê. Do ataków tych zalicza siê spojrzenie bazyliszka lub meduzy, przeklête pergaminy przemieniaj¹ce czytaj¹cych w kamieñ itp.~
+
+/*-------------------level 2---------------------*/
+
+@451    = ~Rozmycie~
+@452    = ~Rozmycie
+Poziom: 2
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 2
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego czaru kontury postaci czarodzieja staj¹ siê rozmyte, ulegaj¹ przesuniêciu i migocz¹. Zniekszta³cenia te sprawiaj¹, ¿e czarodziej otrzymuje premiê +3 do wszystkich rzutów obronnych, a wszystkie ataki, czy to dystansowe, czy w zwarciu, wykonywane s¹ przeciw niemu z modyfikatorem -3 do testów trafienia. Wielokrotne rzucenie tego zaklêcia nie kumuluje jego efektów.~
+
+@453=~Poznanie charakteru~
+@454=~Poznanie charakteru
+Poziom: 2
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 2
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Ten czar pozwala magowi odczytaæ zamiary i uczucia wszystkich istot na obecnym obszarze. Kiedy czar zadzia³a, ofiara zaœwieci czerwieni¹, je¿eli jest z³a, b³êkitem - jeœli jest dobra, a biel¹ - w przypadku, gdy jest neutralna. Odpornoœæ na magie nie zak³óca tego zaklêcia.~
+//Detect alignment in level 1.
+@2000=~Poznanie charakteru
+Poziom: 1
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 2
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Ten czar pozwala magowi odczytaæ zamiary i uczucia wszystkich istot na obecnym obszarze. Kiedy czar zadzia³a, ofiara zaœwieci czerwieni¹, je¿eli jest z³a, b³êkitem - jeœli jest dobra, a biel¹ - w przypadku, gdy jest neutralna. Odpornoœæ na magie nie zak³óca tego zaklêcia.~
+
+@455=~Wykrycie niewidzialnego~
+@456=~Wykrycie niewidzialnego
+Poziom: 2
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 rund
+Czas rzucania: 2
+Obszar dzia³ania: w promieniu 50 stóp
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia czarodziej jest w stanie wyraŸnie zobaczyæ wszystkie niewidzialne przedmioty i istoty w promieniu 50 stóp, a tak¿e istoty astralne, eteryczne lub znajduj¹ce siê w innej fazie. Natychmiast po rzuceniu czaru, a nastêpnie raz na rundê przez 5 rund, wszyscy ukryci wrogowie w obszarze dzia³ania staj¹ siê widoczni dla rzucaj¹cego i jego sojuszników. Niewidzialne przedmioty wniesione w obszar dzia³ania czaru równie¿ staj¹ siê widoczne. Zaklêcie to nie pozwala przejrzeæ iluzji ani widzieæ przez przedmioty materialne. Odpornoœæ na magiê nie ma wp³ywu na to zaklêcie.~
+
+@457=~Groza~
+@458=~Groza
+Poziom: 2
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 5 rund
+Czas rzucania: 2
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: przeciw czarom neguje
+
+Wszyscy wrogowie znajduj¹cy siê w obszarze dzia³ania tego zaklêcia, musz¹ wykonaæ rzut obronny przeciw czarom lub zaczn¹ uciekaæ z przera¿enia. Niektóre istoty, w tym wszyscy nieumarli, s¹ niewra¿liwe na dzia³anie tego czaru.~
+
+@459=~Niewidzialnoœæ~
+@460=~Niewidzialnoœæ
+Poziom: 2
+Szko³a: Iluzje/Urojenia
+Zasiêg: dotyk
+Czas trwania: specjalny
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+To zaklêcie powoduje, i¿ dotkniêta przez maga istota znika i staje siê niewykrywalna przy pomocy normalnego wzroku, a nawet infrawizji. Oczywiœcie dotkniêta istota nie zostaje magicznie uciszona, wiêc istniej¹ inne sposoby jej wykrycia. Nawet przyjaciele nie mog¹ widzieæ ani jej, ani jej ekwipunku, chyba ¿e w sposób „naturalny” widz¹ rzeczy niewidzialne lub te¿ u¿ywaj¹ odpowiedniej magii. Przedmioty od³o¿one lub upuszczone przez znajduj¹c¹ siê pod wp³ywem tego czaru istotê staj¹ siê z powrotem widzialne, zaœ podniesione - znikaj¹, pod warunkiem jednak, ¿e zostan¹ schowane pod ubraniem niewidzialnego lub w inny sposób ukryte. Zaklêcie dzia³a do czasu, a¿ zostanie magicznie przerwane lub rozproszone; dopóki mag lub istota objêta tym czarem sobie tego ¿ycz¹ lub a¿ istota nim objêta wykona jakikolwiek czynnoœæ wp³ywaj¹c¹ na otoczenie. Jeœli nic takiego siê nie zdarzy, czar samoistnie przestaje dzia³aæ po up³ywie 8 godzin. Tak wiêc niewidzialna istota mo¿e wypiæ miksturê lub rzuciæ na siebie nieofensywny czar pozostaj¹c ukryta otwieraæ drzwi, skrzyñ czy rozbrajaæ pu³apek.~
+
+@461=~Taran~
+@462=~Taran
+Poziom: 2
+Szko³a: Wywo³ywanie
+Zasiêg: œredni
+Czas trwania: natychmiastowy
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota or object
+Rzut obronny: specjalny
+
+Zaklêcie to pozwo³ujê taranuj¹c¹ si³ê któr¹ mo¿na uderzyæ ze znacz¹ moc¹. Si³a mo¿e byæ wykorzystana do otwarcia zamkniêtych na klucz, zablokowanych lub magicznie zamkniêtych drzwi oraz zamkniêtych skrzyni czy pude³. Nie podnosi jednak opuszczonych krat, czy innych tego typu wrót. Czar uzyty przeciwko istocie ¿ywej zadaje jej 2k6 obra¿eñ obuchowych i zmusz¹ j¹ do wykonania rzutu przeciwko zioniêciom albo zostanie og³uszona na 1 rundê.~
+
+@463=~Poznanie przeciwnika~
+@464=~Poznanie przeciwnika
+Poziom: 2
+Szko³a: Poznanie
+Zasiêg: daleki
+Czas trwania: 2 tury
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy to zaklêcie zostanie wyzwolone, oczy czarodzieja jaœniej¹ blaskiem od magicznej energii pozwalaj¹c mu odczytaæ aurê innej istoty i tym sposobem obna¿yæ jej mocne i s³abe strony. Na czas trwania, odpornoœæ fizyczna celu zostaje obni¿ona o 10% i jego wszystkie ataki s¹ wykonywane z kar¹ +2 do TraKo. Niektóre magiczne urz¹dzenia neguj¹ dzia³anie czaru. Nie ma on te¿ efektu na istoty nie emanuj¹ce aur¹ takie jak konstrukty. Odpornoœæ na magie nie zak³óca tego zaklêcia.~
+
+@465=~Szczêœcie~
+@466=~Szczêœcie
+Poziom: 2
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: œredni
+Czas trwania: 5 tur
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Istota, na któr¹ zosta³o rzucone to zaklêcie, zyskuje na trzy rundy niebywa³e szczêœcie, otrzymuj¹c w zwi¹zku z tym premiê 5% lub +1 do wszystkich swoich dzia³añ, takich jak: rzuty obronne, rzuty na trafienie, rzuty na zdawane obra¿enia, umiejêtnoœci z³odziejskich itd. Wielokrotne rzucenie zaklêcia nie kumuluje jego efektów.~
+
+@467=~Odpornoœæ na strach~
+@468=~Odpornoœæ na strach
+Poziom: 2
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: 5 tur
+Czas rzucania: 1
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Mag podnosi morale i zwiêksza odwagê osób, na które rzuci zaklêcie. Kiedy dzia³anie czaru dobiegnie koñca, morale wróci do normalnego stanu. Jeœli osoby chronione zaklêciem zostan¹ zaatakowane przy pomocy magicznego strachu, zachowaj¹ spokój.~
+
+@469=~Kwasowa strza³a Melfa~
+@470=~Kwasowa strza³a Melfa
+Poziom: 2
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 runda na 3 poziomy rzucaj¹cego
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Czar ten tworzy magiczn¹ strza³ê, która pêdzi nieomylnie w kierunku wyznaczonego celu. Strza³a zadaje 1k6 obra¿eñ od pocisków i 2k4 obra¿enia od kwasu. Na ka¿de trzy poziomy czaruj¹cego, kwas utrzymuje siê na ofierze przez nastêpn¹ rundê, chyba ¿e zostanie jakoœ rozproszony, zadaj¹c co rundê kolejne 2k4 obra¿eñ. Tak wiêc, w przypadku gdy czaruj¹cy znajduje siê na poziomach 3-5, kwas utrzymuje siê przez dwie rundy, gdy znajduje siê na poziomach 6-8, kwas utrzymuje siê przez trzy rundy itd. a¿ do osi¹gniêcia maksymalnego czasu szeœciu rund na poziomie 15. ~
+
+@471=~Lustrzane obrazy~
+@472=~Lustrzane obrazy
+Poziom: 2
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 2
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Czar ten przyzywa iluzoryczne kopie czaruj¹cego, które pojawiaj¹ siê wokó³ maga i robi¹ to samo, co on. Tworzonych jest dwie kopie i jedna na ka¿dy 3 poziomy rzucaj¹cego (maksymalnie osiem na poziomie 18). Poniewa¿ zaklêcie to zamazuje obraz czarodzieja i powoduje jego niewielkie zniekszta³cenie, przeciwnicy nigdy nie s¹ pewni, które z nich to iluzje, a które to prawdziwy czarodziej. Jeœli odbicie zostanie trafione w walce wrêcz lub pociskiem (za pomoc¹ magii lub w normalny sposób), znika, ale reszta istniej¹cych kopii pozostaje nietkniêta do momentu ich zniszczenia. Nale¿y jednak zwróciæ uwagê, ¿e zaklêcie to nie chroni rzucaj¹cej go osoby przed ka¿dym atakiem, mo¿e siê bowiem zdarzyæ, ¿e przeciwnik wybierze spoœród wszystkich obrazów prawdziwego maga. Zaklêcie to nie mo¿e byæ rzucone na maga ju¿ bêd¹cego pod wp³ywem Odbitego obrazu a wielokrotne rzucenie zaklêcia nie stworzy dodatkowych kopi.~
+
+@473=~Œmierdz¹ca chmura~
+@474=~Œmierdz¹ca chmura
+Poziom: 2
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 2
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: trucizny, neguje
+
+Œmierdz¹ca chmura tworzy sk³êbion¹ masê wywo³uj¹cych md³oœci oparów, która pojawia siê w miejscu wskazanym przez rzucaj¹cego zaklêcie maga. Ka¿da istota uwiêziona w chmurze musi wykonaæ rzut obronny przeciw truciznom, lub na 1 rundê ogarn¹ j¹ potworne md³oœci, które uniemo¿liwi¹ walkê i rzucanie czarów. Udany rzut obronny sprawia, ¿e istota mo¿e bezpiecznie opuœciæ chmurê, nie odczuwaj¹c przy tym ¿adnych przykrych skutków, aczkolwiek istoty w dalszym ci¹gu przebywaj¹ce w chmurze musz¹ wykonywaæ rzut obronny w ka¿dej rundzie. Rozproszenie magii usunie uczucie md³oœci o konkretnej postaci, lecz jeœli bêdzie ona nadal przebywaæ wewn¹trz chmury, bêdzie dalej podlegaæ szkodliwym efektom jej dzia³ania. Niektóre istoty w tym nieumarli czy istoty, które nie musz¹ oddychaæ takie jak ¿ywio³aki s¹ odporne na efekty zaklêcia.~
+
+@475=~Wzmocnienie si³y~
+@476=~Wzmocnienie si³y
+Poziom: 2
+Szko³a: Przemiany
+Zasiêg: krótki
+Czas trwania: 1 tura/poziom
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Dzia³anie tego zaklêcia zwiêksza Si³ê wybranej postaci do 18, a nastêpnie dodaje premiê 50%. Postaæ otrzymuje dowolne stosowne modyfikatory zwi¹zane z wysok¹ wartoœci¹ Si³y. Przyk³adowo, jeœli postaæ posiada Si³ê pomiêdzy 18/50 i 18/00, wtedy wartoœæ Si³y zostanie ustalona na 18/00. Jeœli posiada Si³ê pomiêdzy 18/01 i 18/50, wówczas jego si³a bêdzie wynosiæ 18/50 + pierwotny procent. Jeœli jego si³a ma wartoœæ mniejsz¹ ni¿ 18, wówczas wynosiæ ona bêdzie 18/50. Czar ten zmniejszy jednak¿e Si³ê postaci, jeœli wynosi ona 19 lub wiêcej.~
+
+@477=~Pajêczyna~
+@478=~Pajêczyna
+Poziom: 2
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: zioniêcia, neguje
+
+Zaklêcie to tworzy masê popl¹tanych, twardych i lepkich splotów podobnych do pajêczych sieci, ale o wiele grubszych i wytrzymalszych. Pajêczyna pokrywa maksymalnie obszar o promieniu 20 stóp. Istoty, które znajd¹ siê w splotach lub po prostu ich dotkn¹, przyklej¹ siê do nich. Ka¿dy, kto znajdzie siê w obszarze dzia³ania zaklêcia, musi wykonaæ rzut obronny przeciw zioniêciom. Jeœli bêdzie on udany, istota mo¿e poruszaæ siê z po³ow¹ swojej normalnej prêdkoœci. Je¿eli jednak zakoñczy siê on niepowodzeniem, zostanie ona uwiêziona w sieci i nie bêdzie mog³a siê poruszaæ. Ofiara musi w ka¿dej rundzie wykonywaæ rzut obronny przeciwko efektom zaklêcia. Istoty bezcielesne i lataj¹ce s¹ odporne na efekty czaru tak jak paj¹ki. Stworzenia wyj¹tkowo wielkie i silne odczuwaj¹ utrudnia w stopniu niewielkim lub ¿adnym.~
+
+@479=~P³omienie Agannazara~
+@480=~P³omienie Agannazara
+Poziom: 2
+Szko³a: Wywo³ywanie
+Zasiêg: œredni
+Czas trwania: 2 rundy
+Czas rzucania: 2
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+W chwili rzucenia tego zaklêcia z koniuszków palców maga wystrzeliwuje strumieñ p³omieni, który leci w kierunku wybranej ofiary. Ogieñ powoduje u ofiary 3k6 obra¿eñ. Strumien p³omieni utrzymuje siê przez nastêpn¹ rundê, trawi¹c ofiarê kolejnymi 3k6 obra¿eñ. Przed zaklêciem nie chroni ¿aden rzut obronny, choæ mog¹ w tym przypadku zadzia³aæ zdolnoœci przeciwogniowe, takie jak na przyk³ad odpornoœæ na ogieñ, które mog¹ zredukowaæ lub nawet wyeliminowaæ otrzymane obra¿enia. Inne istoty, które wejd¹ w strumieñ p³omieni, tak¿e otrzymuj¹ obra¿enia, dopóki bêd¹ siê w nim znajdowaæ.~
+
+@481=~Dotyk ghula~
+@482=~Dotyk ghula
+Poziom: 2
+Szko³a: Nekromancja
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 tura
+Czas rzucania: 2
+Obszar dzia³ania: specjalny
+Rzut obronny: œmieræ, czêœciowy
+
+Rêkê maga, który rzuci³ ten czar, otacza czerwony blask. Po udanym teœcie na trafienie, dotkniêta przez niego istota otrzyma 1k8 magicznych obra¿eñ, a ponadto musi wykonaæ rzut obronny przeciw œmierci z modyfikatorem -1 lub zostanie sparali¿owana na piêæ rund. Atak jest wykonywany z premi¹ +4 do TraKo a d³oñ czarodzieja jest traktowana jakby posiada³a umagicznienie +1 na potrzeby okreœlenia kogo mo¿e trafiæ.~
+
+@483=~Ug³osowienie~
+@484=~Ug³osowienie
+Poziom: 2
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 tura
+Czas rzucania: 2
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Osoba, bêd¹ca pod wp³ywem tego zaklêcia, mo¿e rzucaæ czary wymagaj¹ce komponentów s³ownych nie wydaj¹c ¿adnych dŸwiêków. W praktyce, w czasie trwania, zaklêcie to niweluje efekty uciszenia i czyni cel na nie odpornym. Dziêki temu zaklêciu pozbywa siê jedynie komponentów werbalnych. Czar nie wp³ywa na inne dŸwiêki czy mowê.~
+
+@485=~S³owo mocy: uœpienie~
+@486=~S³owo mocy: uœpienie
+Poziom: 2
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 5 rund
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: przeciw czarom neguje
+
+Po wypowiedzeniu tego s³owa mocy czarodziej pogr¹¿a wybran¹ istotê w g³êbokim, przypominaj¹cym œpi¹czkê œnie. Istoty, które maj¹ w danej chwili 20 lub wiêcej punktów ¿ycia, mog¹ wykonaæ rzut obronny przeciw czarom, aby unikn¹æ efektu, natomiast te, które maj¹ od 1 do 19 punktów ¿ycia, nie s¹ w stanie siê oprzeæ. Elfy i pó³elfy s¹ szczególnie odporne na efekty uœpienia, a nieumarli i niektóre inne istoty, takie jak smoki i ¿ywio³aki, s¹ ca³kowicie odporni na magicznie wywo³any sen.~
+
+@487=~Promieñ os³abienia~
+@488=~Promieñ os³abienia
+Poziom: 2
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: przeciw czarom neguje
+
+Rzucaj¹c zaklêcie Promieñ os³abienia czarodziej sprawia, ¿e si³a wybranego przeciwnika zostaje obni¿ona, przez co zmniejszaj¹ siê jej mo¿liwoœci bojowe. Ofiara, jeœli nie wykona rzutu obronnego przeciw zaklêciom z kar¹ -2, otrzymujê karê -3 do rzutów na trafienie i obra¿eñ, jej prêdkoœæ poruszania zostaje zredukowana o 50%.~
+
+@489=~Tarcza chaosu~
+@490=~Tarcza chaosu
+Poziom: 2
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 rundy na poziom
+Czas rzucania: 2
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Tarcza chaosu zwiêksza szansê dzikiego maga na osi¹gniêcie korzystnego rezultatu w przypadku wyst¹pienia fali dzikiej energii. Do ka¿dego rzutu kostk¹ w tabeli dzikiej energii dodawana jest premia w wysokoœci 15 punktów. Przy rzuceniu Lekkomyœlnego zaklêcia Nahala, premia pochodz¹ca z Tarczy chaosu dodawana jest do premii zwi¹zanej z poziomem dzikiego maga.~
+
+@491=~Uderzenie dŸwiêku~
+@492=~Uderzenie dŸwiêku
+Poziom: 2
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 2
+Obszar dzia³ania: cel i przeciwnicy w promieniu 10 stóp
+Rzut obronny: zioniêcia, czêœciowy
+
+Zaklêcie to wyzwala w wybranym obszarze potê¿n¹ kakofoniê. Przeciwnicy w obszarze dzia³ania czaru otrzymuj¹ 4k4 obra¿eñ obuchowych i zostaj¹ og³uszeni na 1 turê. Udany rzut obronny przeciw zioniêciom z modyfikatorem -2 zmniejsza obra¿enia o po³owê i neguje g³uchotê. G³usi czaruj¹cy maj¹ 50% szans na nieudane rzucenie ka¿dego czaru. G³uchotê tê mo¿na usun¹æ za pomoc¹ zaklêæ Rozproszenie magii lub Leczenie chorób.~
+
+@493=~B³yszcz¹cy py³~
+@494=~B³yszcz¹cy py³
+Poziom: 2
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 4 rundy
+Czas rzucania: 2
+Obszar dzia³ania: w promieniu 10 stóp
+Rzut obronny: specjalny
+
+Czar ten tworzy na obszarze swego dzia³ania chmurê œwiec¹cych cz¹steczek. Lœni¹cy py³ oœlepia wszystkich przeciwników w obszarze dzia³ania (modyfikator -2 do testów ataku) na 4 rundy i ujawnia tych którzy s¹ niewidzialni. Ponadto wszyscy wrogowie, którzy nie wykonaj¹ rzutu obronnego przeciw zioniêciom, zostaj¹ od stóp do g³ów pokryci py³em, którego nie mo¿na usun¹æ i który b³yszczy nieprzerwanie, uniemo¿liwiaj¹c tym ponowne ukrycie siê dopóki nie zniknie po 4 rundach.~
+@494000=~B³yszcz¹cy py³
+Poziom: 2
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 4 rundy
+Czas rzucania: 2
+Obszar dzia³ania: w promieniu 10 stóp
+Rzut obronny: specjalny
+
+Czar ten tworzy na obszarze swego dzia³ania chmurê œwiec¹cych cz¹steczek. Wszyscy wrogowie w obszarze dzia³ania zaklêcia musz¹ wykonaæ rzut obronny przeciw zioniêciu z modyfikatorem -1 albo zostan¹ oœlepieni (kara -10 do testów ataku) na 4 rundy. Wszyscy zostaj¹ od stóp do g³ów pokryci py³em, którego nie mo¿na usun¹æ i który b³yszczy nieprzerwanie dopóki nie zniknie po 4 rundach. Py³ ujawnia wszystkie niewidzialne istoty.~
+
+
+/*-----------------------level 3-------------------------*/
+
+@501=~Jasnowidzenie~
+@502=~Jasnowidzenie
+Poziom: 3
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 tury
+Czas rzucania: 3
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Zaklêcie to zapewnia nadnaturalne postrzeganie tego, co mo¿e nadejœæ. Po rzuceniu Jasnowidzenia rzucaj¹cy stajê siê natychmiastowo zbli¿aj¹cych siê niebezpieczeñstw lub wypadków. Nie mo¿na go zaskoczyæ wiêc równie¿ dŸgn¹æ w plecy. Dodatkowo zaklêcie daje ogólne wyobra¿enie o tym, jakie dzia³ania mo¿na podj¹æ, aby najlepiej siê chroniæ, zapewniaj¹c premiê +2 do KP i rzutów obronnych na zioniêcie. Efekty utrzymuj¹ siê przez czas trwania zaklêcia i nie mo¿na ich rozproszyæ.~
+
+@503=~Rozproszenie magii~
+@504=~Rozproszenie magii
+Poziom: 3
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: specjalny
+
+Rozproszenie magii usuwa magiczne efekty z wszystkich wrogów znajduj¹cych siê w obszarze dzia³ania czaru. Dotyczy to efektów zaklêæ, mikstur i niektórych magicznych przedmiotów, takich jak ró¿d¿ki. Czar nie wp³ywa jednak na zaklête magiczne przedmioty ani na czary ochronne, takie jak Odbicie czaru. Choæ czar ten rozprasza dzia³anie zaklêæ Œliskoœæ, Pajêczyna, Œmierdz¹ca chmura i podobnych na poszczególne istoty, nie usuwa samego obszaru ich dzia³ania. Odpornoœæ na magiê nie ma wp³ywu na to zaklêcie.
+
+Szansa udanego rozproszenia zale¿y od poziomu czaruj¹cego oraz od poziomu rozpraszanej magii. Bazowa szansa na rozproszenie wynosi 50%. Za ka¿dy poziom, o który rzucaj¹cy Rozproszenie magii przewy¿sza istotê, której czar ma zostaæ rozproszony, szansa powodzenia wzrasta o 5%. Z kolei za ka¿dy poziom mniej wobec istoty, której czar ma zostaæ rozproszony, szanse rzucaj¹cego Rozproszenie magii spadaj¹ o 10%. Niezale¿nie od ró¿nicy poziomów, zawsze jednak istnieje przynajmniej 1% szans, ¿e zaklêcie odniesie skutek lub te¿ zakoñczy siê niepowodzeniem.  Tak wiêc, w przypadku gdy rzucaj¹cy posiada dziesiêæ poziomów wiêcej, ni¿ magia, któr¹ chce rozproszyæ, szansa na to, ¿e jego zaklêcie siê nie powiedzie, wyniesie jedynie 1%. Analogicznie, jeœli rzucaj¹cy posiada cztery poziomy mniej, ni¿ magia, któr¹ chce rozproszyæ, szansa na to, ¿e jego zaklêcie siê powiedzie, wyniesie jedynie 10%. Intuicja podpowiada wiêc, i¿ czar ten jest niemal bezu¿yteczny, jeœli cel przewy¿sza rzucaj¹cego o przynajmniej piêæ poziomów.~
+
+@505=~Ognista strza³a~
+@506=~Ognista strza³a
+Poziom: 3
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: specjalny
+Rzut obronny: zioniêcia 1/2
+
+Zaklêcie to pozwala czaruj¹cemu ciskaæ ognistymi strza³ami w jednego ze swych wrogów. Czaruj¹cy mo¿e wystrzeliæ jeden pocisk na ka¿de dwa poziomy doœwiadczenia (maksymalnie piêæ pocisków na 10. poziomie) Ka¿dy pocisk zadaje 1k6 obra¿eñ k³utych plus 1k6 obra¿eñ od ognia. Po wyzwoleniu zaklêcia pierwsza strza³a poleci w stronê istoty wskazanej przez czarodzieja, natomiast kolejne strza³y bêd¹ losowo wybieraæ przeciwników znajduj¹cych siê w zasiêgu.~
+
+@507=~Ognista kula~
+@508=~Ognista kula
+Poziom: 3
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: zioniêcia 1/2
+
+Z palca czarodzieja wystrzeliwuje p³omienna smuga, która - jeœli nie uderzy w materialne cia³o lub tward¹ barierê uniemo¿liwiaj¹c¹ dotarcie do celu - rozwija siê w kulê p³omieni (przedwczesne uderzenie powoduje wczeœniejszy wybuch), zadaj¹c¹ obra¿enia proporcjonalne do poziomu czaruj¹cego: 1k6 obra¿eñ na ka¿dy poziom (maksymalnie 10k6). Rzucaj¹c ten czar, czarodziej okreœla palcem miejsce (odleg³oœæ i wysokoœæ), w którym kula ma wybuchn¹æ. Istoty, które wykonaj¹ rzut obronny przeciw zioniêciu z modyfikatorem -2, uskakuj¹, padaj¹ na ziemiê lub przetaczaj¹ siê, otrzymuj¹c tylko po³owê obra¿eñ.~
+
+@509=~Przyspieszenie~
+@510=~Przyspieszenie
+Poziom: 3
+Szko³a: Przemiany
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia wszystkie istoty znajduj¹ce siê pod jego wp³ywem zyskuj¹ +6 do szybkoœci ruchu oraz premiê 1/2 ataku na rundê. Nie ma to wp³ywu na prêdkoœæ rzucania zaklêæ i prêdkoœæ dzia³ania efektów zaklêæ. Czar ten neguje efekty Spowolnienia. Kiedy zaklêcie siê koñczy, dotkniête nim stworzenia staj¹ siê zmêczone na 3 rundy. Znu¿one, otrzymuj¹ kary -2 do trafienia, obra¿eñ i klasy pancerza. Efekty zaklêcia nie kumuluj¹ siê po jego wielokrotnym u¿yciu lub po rzuceniu podobnego czaru.~
+
+@511=~Unieruchomienie osoby~
+@512=~Unieruchomienie osoby
+Poziom: 3
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: cel i przeciwnicy w promieniu 5 stóp
+Rzut obronny: przeciw czarom neguje
+
+Czar ten unieruchamia jednego lub wiêcej ludzi, pó³-ludzi lub humanoidów na okres jednej tury. Efekt jest skupiony wokó³ wybranej przez czaruj¹cego ofiary, lecz wp³ywa tak¿e na ka¿dego wroga znajduj¹cego siê w promieniu 5 stóp od niej. Istoty, które wykonaj¹ rzut obronny przeciw czarom z modyfikatorem -2, s¹ odporne na dzia³anie zaklêcia. Czar ten nie dzia³a na nieumar³ych.
+
+Unieruchomione istoty nie mog¹ mówiæ ani poruszaæ siê, ale s¹ œwiadome rozgrywanych wokó³ wydarzeñ, mimo i¿ nie s¹ w stanie na nie reagowaæ. Czas mija dla nich normalnie, co oznacza, ¿e ich kondycja mo¿e siê pogarszaæ w wyniku odniesionych wczeœniej obra¿eñ.~
+
+@513=~Sfera niewidzialnoœci~
+@514=~Sfera niewidzialnoœci
+Poziom: 3
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: w promieniu 10 stóp
+Rzut obronny: brak
+
+Czar ten daje niewidzialnoœæ wszystkim przyjaznym istotom w promieniu 10 stóp od rzucaj¹cego. Istoty opuszczaj¹ce obszar nadal podlegaj¹ dzia³aniu czaru, natomiast te, które wejd¹ do niego po zakoñczeniu rzucania, ju¿ nie. Jeœli istota pod wp³ywem czaru zaatakuje, zniweczy niewidzialnoœæ tylko dla siebie. Poza tym czar trwa 1 turê.~
+
+@515=~B³yskawica~
+@516=~B³yskawica
+Poziom: 3
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: zioniêcia 1/2
+
+Po rzuceniu tego czaru mag wypuszcza potê¿ne uderzenie energii, zadaj¹ce ka¿dej istocie znajduj¹cej siê w obszarze dzia³ania 1k6 obra¿eñ od elektrycznoœci na poziom czaruj¹cego (a¿ do maksymalnie 10k6 obra¿eñ). Rzut obronny przeciw zioniêciom z kar¹ -4 redukuje te obra¿enia o po³owê (zaokr¹glaj¹c w dó³).~
+
+@517=~Przywo³anie potwora III~
+@518=~Przywo³anie potwora III
+Poziom: 3
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa okreœlon¹ iloœæ potworów, które bezwzglêdnie mu s³u¿¹. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿y od poziomu rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+Poziom 5: 2 hobgobliny
+Poziom 7: 3 hobgobliny
+Poziom 9+: 3 hobgobliny, 1 szaman
+
+Hobgoblin ³ucznik (3 kostki):
+SI£A 11, ZRÊCZNOŒÆ 14, KONDYCJA 13, INTELIGENCJA 8, M¥DROŒÆ 10, CHARYZMA 8, Praworz¹dny z³y
+P¯ 24, KP 5, TraKo 17, Rzuty obronne 13/15/14/16/16
+2 ataki na rundê, 1k6+3 obra¿eñ k³utych (Strza³y)
+lub 1 atak na rundê, 1k10+2 obra¿eñ ciêtych (Miecz pó³torarêczny)
+
+Hobgoblin szaman (4 kostki):
+SI£A 13, ZRÊCZNOŒÆ 11, KONDYCJA 15, INTELIGENCJA 9, M¥DROŒÆ 14, CHARYZMA 9, Praworz¹dny z³y
+P¯ 36, KP 5, TraKo 16, Rzuty obronne 9/13/12/15/14
+1 atak na rundê, 1k8+1 obra¿eñ ciêtych (D³ugi miecz +1)
+
+Zapamiêtane zaklêcia:
+1. Zbroja wiary, B³ogos³awieñstwo, Leczenie lekkich ran (x2), Odpornoœæ na strach
+2. Psalm, Unieruchomienie osoby, Cisza~
+
+@3517=~Hobgoblin £ucznik~
+@3518=~Hobgoblin Szaman~
+
+@519=~Niewykrywalnoœæ~
+// ***** the following description has been altered in English, needs translation
+@520=~Niewykrywalnoœæ
+Poziom: 3
+Szko³a: Odrzucanie
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Rzucaj¹c to zaklêcie mag sprawia, ¿e ukryta lub niewidzialna istota staje siê niemo¿liwa do wykrycia przez czary poznania, takie jak Wykrycie niewidzialnego, Wyrocznia, Prawdziwe widzenie lub wykrywanie iluzji przez z³odzieja. 
+
+Uwaga: choæ istota chroniona Niewykrywalnoœci¹ nie mo¿e zostaæ ods³oniêta dla wszystkich, nadal mog¹ j¹ obserwowaæ i wykrywaæ osoby, które dziêki czarowi lub wrodzonej zdolnoœci potrafi¹ bezpoœrednio widzieæ przez niewidzialnoœæ. Dotyczy to rzucaj¹cego czary Wykrycie niewidzialnego i Prawdziwe widzenie, i tylko jego.~
+
+@521=~Ochrona przed pociskami~
+@522=~Ochrona przed pociskami
+Poziom: 3
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Dziêki temu zaklêciu mag zapewnia ca³kowit¹ odpornoœæ na pociski, takie jak strza³y, be³ty, ma³e kamienie, strza³ki, toporki i sztylety. Zaklêcie nie chroni przed atakami magicznymi takimi jak Ogniste kule, B³yskawice czy Magiczne pociski ale pozosta³e magicznie stworzone pociski, takie jak Kwasowa strza³a Melfa, Minutowe meteory Melfa czy Ognista strza³a, zostan¹ bezpiecznie odbite.~
+
+@523=~Spowolnienie~
+@524=~Spowolnienie
+Poziom: 3
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: polimorfia, neguje
+
+Czar ten sprawia, ¿e istoty poruszaj¹ siê i atakuj¹ dwukrotnie wolniej, chyba ¿e wykonaj¹ rzut obronny przeciw polimorfii z modyfikatorem -2. Spowolnione istoty otrzymuj¹ równie¿ karê -2 do rzutów na atak, KP i rzutów obronnych przeciw zioniêciom. Czas rzucania czarów ulega podwojeniu, choæ nie wp³ywa to na ich efekty. Ponadto szybkoœæ, z jak¹ te istoty regeneruj¹ siê lub otrzymuj¹ obra¿enia od trucizny, zmniejsza siê o po³owê. W chwili zakoñczenia rzucania czar obejmuje wszystkie wrogie istoty w promieniu 30 stóp od punktu wybranego przez rzucaj¹cego (tak wiêc istoty opuszczaj¹ce obszar nadal podlegaj¹ dzia³aniu czaru, natomiast te, które wejd¹ do niego po zakoñczeniu rzucania, ju¿ nie). Czar neguje dzia³anie zaklêcia Przyspieszenie, ale poza tym nie wp³ywa na istoty przyspieszone lub spowolnione magicznie w inny sposób. Czar nie kumuluje siê sam ze sob¹ ani z inn¹ podobn¹ magi¹.~
+
+@525=~Eksploduj¹ca czaszka~
+@526=~Eksploduj¹ca czaszka
+Poziom: 3
+Szko³a: Nekromancja
+Zasiêg: œredni
+Czas trwania: specjalny
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: zioniêcia 1/2
+
+Po rzuceniu czaru mag wyrzuca czaszkê na wybranym obszarze. Czaszka unosi siê nad tym obszarem, dopóki jakaœ istota nie zbli¿y siê do niej na odleg³oœæ 15 stóp. Kiedy do tego dojdzie, czaszka uaktywni siê i eksploduje, zadaj¹c obra¿enia wszystkim w promieniu 20 stóp. Wybuch zadaje 1k6 obra¿eñ od magii na poziom czaruj¹cego (maksymalnie 10k6) z mo¿liwoœci¹ zmniejszenia ich o po³owê przy udanym rzucie obronnym przeciw zioniêciom wykonanym z kar¹ -2. Podczas rzucania tego czaru m¹drze jest oddaliæ siê od dru¿yny, ¿eby ta przez przypadek jej nie zdetonowa³a. Zaklêcie nie rani nieumar³ych.~
+
+@527=~Wampiryczne dotkniêcie~
+@528=~Wampiryczne dotkniêcie
+Poziom: 3
+Szko³a: Nekromancja
+Zasiêg: dotyk
+Czas trwania: specjalny
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Gdy osoba rzucaj¹ca czar trafi przeciwnika w walce wrêcz, ten traci 3 punkty ¿ycia na ka¿de dwa poziomy czaruj¹cego (maksymalnie 30 punktów ¿ycia na 20 poziomie czaruj¹cego). Te punkty ¿ycia zostan¹ dodane do ca³kowitej puli czaruj¹cego, a jeœli przekrocz¹ one maksymaln¹ dla tej klasy iloœæ, bêd¹ traktowane jako tymczasowe i znikn¹ po up³ywie 5 tur.
+
+Uwaga: Czar tego nie mo¿na rzuciæ wielokrotnie, w celu szybkiego zwiêkszenia iloœci punktów ¿ycia czaruj¹cego. Efekty zaklêcia musz¹ min¹æ by jego ponowne rzucenie odnios³o skutek.~
+
+@3527=~Wampiryczne dotkniêcie jest ju¿ aktywne~
+
+@529=~Okropne zauroczenie~
+@530=~Okropne zauroczenie
+Poziom: 3
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: przeciw czarom neguje
+
+Zaklêcie to dzia³a bardzo podobnie do Zauroczenia osoby, z t¹ ró¿nic¹, ¿e ofiara nie ma premii do rzutu obronnego i zauroczcie trwa d³u¿ej. Okropne zauroczenie dzia³a tylko na jedn¹ osobê tzn. t¹ na któr¹ zosta³o rzucone. Za osobê uwa¿a siê w tym wypadku dwuno¿nych ludzi, pó³ludzi oraz humanoidy wielkoœci cz³owieka lub mniejsze, takie jak krasnoludy, elfy, gnolle, gnomy, pó³elfy, nizio³ki, pó³orkowie, hobgobliny, koboldy itp. Zatem, wojownik 10. poziomu mo¿e byæ zauroczony ale ogr nie. Jeœli celowi czaru nie powiedzie siê rzut obronny, zaczyna ona postrzegaæ rzucaj¹cego zaklêcie jako zaufanego przyjaciela i sprzymierzeñca, którego nale¿y ochraniaæ. Rzucaj¹cy czar mo¿e wydawaæ zauroczonej istocie rozkazy, które ta bêdzie wykonywa³a mo¿liwie jak najszybciej.
+
+Jeœli rzucaj¹cy czar spróbuje skrzywdziæ zauroczon¹ istotê lub zaklêcie zostanie przerwane czarem Rozproszenie magii, efekt Zauroczenia zostaje przerwany. Jeœli na istotê dzia³aj¹ jednoczeœnie dwa Zauroczenia, pierwszeñstwo bêdzie mieæ to, które by³o rzucone póŸniej.~
+
+@531=~Duchowy pancerz~
+@532=~Duchowy pancerz
+Poziom: 3
+Szko³a: Iluzje/Urojenia
+Zasiêg: dotyk
+Czas trwania: 10 tur
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej tworzy niematerialn¹, lecz quasi-rzeczywist¹ zbrojê. Ta pó³iluzoryczna materia okrywa cel i zapewnia mu prawdziw¹ ochronê, o ile przeciwnicy aktywnie nie przestan¹ wierzyæ w zbrojê (wykrywaj¹c iluzjê) i nie zostanie na ni¹ rzucone Rozproszenie magii ani Wykrycie iluzji. Dopóki zbroja nie zostanie rozproszona lub przejrzana, bazowa Klasa Pancerza celu wynosi 2. Czar nie dzia³a w po³¹czeniu z ¿adn¹ inn¹ form¹ magicznej zbroi, ale kumuluje siê z premiami ze Zrêcznoœci, a w przypadku wojowników/magów tak¿e z premi¹ z tarczy. Duchowy pancerz nie ogranicza ruchów, nie ma ciê¿aru, nie zwiêksza obci¹¿enia ani nie uniemo¿liwia rzucania czarów. Ulubiony czar magów/z³odziei - widmowa aureola œwiat³a otaczaj¹ca cel zapewnia premiê +20% do krycia siê w cieniu.~
+
+@533=~Mniejsze odbicie czaru~
+@534=~Mniejsze odbicie czaru
+Poziom: 3
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 3
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie szko³y odrzucania sprawia, ¿e wszystkie czary rzucone na maga zostaj¹ wch³oniête i zniweczone. Poch³oniêtych mo¿e zostaæ ³¹cznie 6 poziomów zaklêæ, przy czym nawet jeœli pozosta³ tylko 1 poziom ochrony, poch³oniêty zostanie zarówno czar 1. poziomu, jak i 4. poziomu. Ochrona nie obejmuje zaklêæ wy¿szych ni¿ 4. poziom. Zaklêcie nie chroni czaruj¹cego przed Rozproszeniem magii, lecz te¿ nie zostanie przez nie rozproszone.
+
+Czar poch³ania zaklêcia rzucone ze zwojów i wrodzonych zdolnoœci czaropodobnych ale nie ochroni przed zaklêciami obszarowymi, które nie s¹ skupione bezpoœrednio na czarodzieju (takimi jak Ognista kula) lub stacjonarnymi zaklêciami obszarowymi (takimi jak Zabójcza chmura i Œmierdz¹ca chmura).~
+
+//Moved to level 4
+@535=~Ochrona przed ogniem~
+@536=~Ochrona przed ogniem
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/poziom
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy ten czar zostanie rzucony zapewnia ca³kowit¹ ochronê przed atakami opartymi na zwyk³ym czy te¿ magicznym ogniu. 100% obra¿eñ za takich ataków jak zioniêcie ognistego smoka zostanie poch³oniêtych przez zaklêcie a cel uzyska ca³kowit¹ ochronê czarami w rodzaju P³on¹cej d³oni, Ognistej kuli, S³upa ognia, Burzy ognia czy Roju meteorów. Wielokrotne rzucenie czaru na ten sam cel nie kumuluje jego efektów.~
+
+//Moved to level 4
+@537=~Ochrona przed zimnem~
+@538=~Ochrona przed zimnem
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/poziom
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy ten czar zostanie rzucony zapewnia ca³kowit¹ ochron przed atakami opartymi na zwyk³ym czy te¿ magicznym zimnie. 100% obra¿eñ za takich ataków jak zioniêcie lodowego smoka zostanie poch³oniêtych przez zaklêcie a cel uzyska ca³kowit¹ ochronê czarami w rodzaju Sto¿ka zimna czy Lodowa nawa³nica. Wielokrotne rzucenie czaru na ten sam cel nie kumuluje jego efektów.~
+
+@539=~Zbicie czaru~
+@540=~Zbicie czaru
+Poziom: 3
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 15 stóp
+Rzut obronny: brak
+
+Z chwil¹, kiedy ten czar zaczyna oddzia³ywaæ na jak¹œ istotê, likwiduje on jedno zaklêcie ochronne do 5. poziomu w³¹cznie z ka¿dego celu w zasiêgu swojego dzia³ania. W pierwszej kolejnoœci rozproszone zostanie zaklêcie najwy¿szego poziomu lub jedno z nich jeœli jest ich aktywnych wiêcej. Posiadana przez cel odpornoœæ na magiê nie ma wp³ywu na dzia³anie tego czaru.
+
+Czary ochronne rozpraszane przez Zbicie czaru to: Mniejsze odbicie czaru, Niewykrywalnoœæ, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary oraz Tarcza przeciw czarom.~
+
+@541=~Wykrycie iluzji~
+@542=~Wykrycie iluzji
+Poziom: 3
+Szko³a: Poznanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Czar ten neguje wszystkie wrogie zaklêcia ze szko³y Iluzji/Urojeñ poziomu 4. lub ni¿szego, które funkcjonuj¹ na obszarze 30 stóp wskazanym przez czaruj¹cego. Posiadana przez cel odpornoœæ na magiê nie ma wp³ywu na dzia³anie tego czaru.
+
+Do rozpraszanych zaklêæ zalicza siê: Odbity obraz, Rozmycie, Niewidzialnoœæ, Lustrzane odbicie, Duchowy pancerz, Sfera niewidzialnoœci oraz Ulepszona niewidzialnoœæ.~
+
+@5410=~Iluzja rozproszona~
+
+@543=~Unieruchomienie nieumar³ego~
+@544=~Unieruchomienie nieumar³ego
+Poziom: 3
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 3
+Obszar dzia³ania: cel i inni nieumarli w promieniu 5 stóp
+Rzut obronny: przeciw czarom neguje
+
+Czar ten unieruchamia, na jedn¹ turê, nieumar³e istoty, znajduj¹ce siê w obszarze o promieniu a 5 stóp wokó³ wybranej przez czaruj¹cego ofiary. Zaklêcie nie wyp³ywa na istoty, które wykona³y rzut obronny przeciw czarom z kar¹ -2. 
+
+Unieruchomione stworzenia nie mog¹ poruszaæ siê ani wydawaæ dŸwiêków i chocia¿ wiedz¹ co siê wokó³ nich dzieje to s¹ bezbronne. Czas up³ywa dla celów w normalnie dlatego unieruchomienie nie powstrzymuje pogorszenia siê ich stanu z powodu urazu lub postêpuj¹cej zgnilizny.~
+
+@545=~Miniaturowe meteory Melfa~
+@546=~Miniaturowe meteory Melfa
+Poziom: 3
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 3
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten pozwala czarodziejowi przywo³aæ niewielkie kule ognia (po jednej na ka¿dy poziom doœwiadczenia rzucaj¹cego), które po rzuceniu wybuchaj¹ przy uderzeniu i zadaj¹ trafionej istocie 1k4 obra¿eñ k³utych oraz 2k4 obra¿eñ od ognia. Czarodziej otrzymuje premiê +5 do trafienia pociskami, a ka¿dy meteor traktowany jest jak broñ o zaczarowaniu +2 przy okreœlaniu, co mo¿e trafiæ. Czarodziej mo¿e wystrzeliæ do piêciu pocisków na rundê.~
+
+@3545=~Miniaturowy meteor Melfa~
+
+@547=~Rozproszenie magii~
+@548=~Rozproszenie magii
+Poziom: 3
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: specjalny
+
+Rozproszenie magii usuwa magiczne efekty z wszystkich wrogów znajduj¹cych siê w obszarze dzia³ania czaru. Dotyczy to efektów zaklêæ, mikstur i niektórych magicznych przedmiotów, takich jak ró¿d¿ki. Czar nie wp³ywa jednak na zaklête magiczne przedmioty ani na czary ochronne, takie jak Odbicie czaru. Choæ czar ten rozprasza dzia³anie zaklêæ Œliskoœæ, Pajêczyna, Œmierdz¹ca chmura i podobnych na poszczególne istoty, nie usuwa samego obszaru ich dzia³ania. Odpornoœæ na magiê nie ma wp³ywu na to zaklêcie.
+
+Szansa udanego rozproszenia zale¿y od poziomu czaruj¹cego oraz od poziomu rozpraszanej magii. Bazowa szansa na rozproszenie wynosi 50%. Za ka¿dy poziom, o który rzucaj¹cy Rozproszenie magii przewy¿sza istotê, której czar ma zostaæ rozproszony, szansa powodzenia wzrasta o 5%. Z kolei za ka¿dy poziom mniej wobec istoty, której czar ma zostaæ rozproszony, szanse rzucaj¹cego Rozproszenie magii spadaj¹ o 10%. Niezale¿nie od ró¿nicy poziomów, zawsze jednak istnieje przynajmniej 1% szans, ¿e zaklêcie odniesie skutek lub te¿ zakoñczy siê niepowodzeniem.  Tak wiêc, w przypadku gdy rzucaj¹cy posiada dziesiêæ poziomów wiêcej, ni¿ magia, któr¹ chce rozproszyæ, szansa na to, ¿e jego zaklêcie siê nie powiedzie, wyniesie jedynie 1%. Analogicznie, jeœli rzucaj¹cy posiada cztery poziomy mniej, ni¿ magia, któr¹ chce rozproszyæ, szansa na to, ¿e jego zaklêcie siê powiedzie, wyniesie jedynie 10%. Intuicja podpowiada wiêc, i¿ czar ten jest niemal bezu¿yteczny, jeœli cel przewy¿sza rzucaj¹cego o przynajmniej piêæ poziomów.~
+
+
+/*------------------level 4------------------*/
+
+@561    = ~Zamêt~
+@562    = ~Zamêt
+Poziom: 4
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 5 rund
+Czas rzucania: 4
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: przeciw czarom neguje
+
+Efektem tego czaru jest niezdecydowanie i niezdolnoœæ do podejmowania skutecznych dzia³añ, które odczuwaj¹ ofiary (jedna lub wiêcej istot znajduj¹cych siê w obszarze dzia³ania). Wszystkie istoty znajduj¹ce siê w obszarze dzia³ania wykonuj¹ rzut obronny przeciw czarom z modyfikatorem -2. Udany rzut oznacza, ¿e dana istota opar³a siê zaklêciu. Istoty, którym nie powiód³ siê rzut obronny, albo wpadaj¹ w sza³, albo stoj¹ zszokowane, albo zaczynaj¹ chodziæ to tu, to tam. Poruszaj¹ce siê istoty oddalaj¹ siê od maga na najwieksz¹ mo¿liw¹ odleg³oœæ w typowy dla siebie sposób (cz³owiek odejdzie, ryba odp³ynie, nietoperz odleci itd.). Zaatakowana ofiara tego zaklêcia uzna agresora za wroga i zachowa siê zgodnie ze swoj¹ natur¹.~
+
+@563    = ~Skok przez wymiary~
+@564    = ~Skok przez wymiary
+Poziom: 1
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie przenosi czarodzieja do dowolnego miejsca, które znajduje siê w jego polu widzenia. Po rzuceniu czaru przed magiem otwiera siê miêdzywymiarowy portal, przez który natychmiast przechodzi. Po przejœciu przez portal rzucaj¹cy znajduje siê w wybranym miejscu. Zawsze trafia dok³adnie tam, gdzie zamierza³, a miêdzywymiarowe drzwi nie przepuszczaj¹ nikogo ani niczego innego. Czary, które mia³y zostaæ rzucone na czarodzieja, koñcz¹ siê niepowodzeniem, a pociski, które mia³y go trafiæ, trafiaj¹ w pró¿niê.~
+
+@565    = ~Kwasowa os³ona Mestila~
+@566    = ~Kwasowa os³ona Mestila
+Poziom: 5
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 tury
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten przywo³uje wokó³ rzucaj¹cego tarczê z kwasu. Tarcza nie tylko daje 50% odpornoœci na kwas, ale te¿ chroni przed atakami w promieniu 5 stóp. Przeciwnicy, którzy z tej odleg³oœci trafi¹ rzucaj¹cego broni¹ lub czarem, otrzymuj¹ 4k4 obra¿eñ od kwasu. Wielokrotne rzucenie tego czaru nie kumuluje siê, ale mo¿na go ³¹czyæ z podobnymi zaklêciami. Maleñkie i ma³e stworzenia lataj¹ce nie mog¹ przenikn¹æ przez ¿r¹c¹ barierê. Odpornoœæ na magiê nie ma wp³ywu na ten czar.~
+
+@567    = ~Lodowa nawa³nica~
+@568    = ~Lodowa nawa³nica
+Poziom: 4
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: 4 rundy
+Czas rzucania: 4
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Zaklêcie to przywo³uje na 4 rundy magiczny grad. Czar dzia³a w promieniu 30 stóp od wskazanego miejca. Wszystkie stworzenia na tym obszarze maj¹ zmniejszon¹ prêdkoœæ poruszania siê o 50% oraz otrzymuj¹ 2k8 obra¿eñ od zimna w ka¿dej rundzie pozostawania wewn¹trz burzy.~
+
+@569    = ~Ulepszona niewidzialnoœæ~
+@570    = ~Ulepszona niewidzialnoœæ
+Poziom: 4
+Szko³a: Iluzje/Urojenia
+Zasiêg: dotyk
+Czas trwania: 3 rundy + 1 runda/poziom
+Czas rzucania: 4
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Ten czar jest podobny do Niewidzialnoœci, jednak istota, która mu podlega, mo¿e atakowaæ pociskami, w walce wrêcz lub rzucaæ zaklêcia i nadal pozostawaæ niewidzialna. Nale¿y jednak pamiêtaæ, ¿e czasem pozostaj¹ zdradzieckie œlady, pewne migotanie, które pozwalaj¹ uwa¿nym przeciwnikom w przybli¿eniu okreœliæ po³o¿enie niewidzialnej postaci. Œlady te mo¿na zauwa¿yæ tylko wtedy, gdy siê ich celowo szuka, po tym jak istota zdradzi³a swoj¹ obecnoœæ. Gdy postaæ siê ujawni, przeciwnicy mog¹ próbowaæ atakowaæ j¹ zwyk³¹ broni¹, choæ z kar¹ -4 do rzutu na atak, lub rzucaæ czary obszarowe w pobli¿u jej po³o¿enia. Przeciwnicy nadal nie mog¹ bezpoœrednio wskazaæ niewidzialnej istoty jako celu czarów, zwojów ani zdolnoœci, dopóki nie up³ynie czas dzia³ania czaru lub niewidzialnoœæ nie zostanie rozproszona.~
+
+@571    = ~Klosz niewra¿liwoœci mniejszej~
+@572    = ~Klosz niewra¿liwoœci mniejszej
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 tury
+Czas rzucania: 4
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Czar ten tworzy wokó³ rzucaj¹cego lekko migocz¹c¹, magiczn¹ kulê, przez któr¹ nie przenikaj¹ efekty czarów pierwszego, drugiego i trzeciego poziomu (tzn. obszar dzia³ania takich czarów nie obejmuje obszaru klosza niewra¿liwoœci). Dotyczy to tak¿e zdolnoœci wrodzonych i efektów dzia³ania przedmiotów. Z wnêtrza kuli mo¿na jednak rzucaæ czary dowolnego rodzaju, które przechodz¹ od rzucaj¹cego do celu bez wp³ywu na klosz. Klosz nie chroni przed czarami czwartego i wy¿szych poziomów. Mo¿e zostaæ zniszczony udanym Rozproszeniem magii.~
+
+@573    = ~Przywo³anie potwora II~
+@574    = ~Przywo³anie potwora II
+Poziom: 2
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa okreœlon¹ iloœæ potworów, które bezwzglêdnie mu s³u¿¹. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿y od poziomu rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+Poziom 3: 2 zielone szlamy
+Poziom 5: 3 zielone szlamy
+Poziom 7+: 4 zielone szlamy
+
+Zielony szlam (2 kostki):
+SI£A 14, ZRÊCZNOŒÆ 9, KONDYCJA -, INTELIGENCJA 3, M¥DROŒÆ 3, CHARYZMA 3, Neutralny
+P¯ 16, KP 10, TraKo 15, Rzuty obronne 13/15/13/17/15
+1 atak na rundê, 2k4 obra¿eñ od kwasu (Nibynó¿ka)
+
+Zdolnoœci specjalne:
+Odpornoœæ na cios w plecy
+Odpornoœæ na efekty zauroczenia, zamêtu, choroby, unieruchomienia, trucizny, uœpienia i og³uszenia
+Odpornoœæ na elektrycznoœæ 100%, odpornoœæ na kwas 50%
+Odpornoœæ na pociski 90%~
+
+@575    = ~Kamienna skóra~
+@576    = ~Kamienna skóra
+Poziom: 4
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 8 godzin
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Kiedy czarodziej rzuca na siebie ten potê¿ny czar, z ziemi unosi siê kamienna skóra i ca³kowicie go okrywa. Ta skóra jest oczywiœcie magiczna i w ¿aden sposób nie przeszkadza czarodziejowi. Czar ten ma chroniæ czarodzieja przed fizycznymi atakami, takimi jak ciosy broni¹ czy pociski. Przy rzuceniu czaru zjawia siê jedna skóra na 2 poziomy, na przyk³ad czarodziej 10 poziomu uzyskuje 5 skór, a 20 poziomu 10. Ka¿da magiczna skóra jest w stanie zatrzymaæ jeden atak, wiêc czarodziej 10 poziomu zyskuje ochronê na 5 najbli¿szych ataków, ale szósty trafi go normalnie. Skóry pozostan¹ na czarodzieju dopóki nie zostanie poddany dzia³aniu rozproszenia magii, dopóki wszystkie skóry nie zostan¹ zniszczone przez ataki, lub minie czas dzia³ania czaru.
+
+Nale¿y pamiêtaæ, i¿ czar nie chroni przed atakami obszarowymi, takimi jak Ognista kula oraz ¿e ka¿da broñ zdolna zadawaæ pewnego rodzaju obra¿enia od ¿ywio³ów mo¿e zaszkodziæ, Kamienna skóra nie chroni przed ogniem, zimnem, kwasem i elektrycznoœci¹, chocia¿ obra¿enia fizyczne s¹ zablokowane. Efekty z wielokrotnie rzuconego czaru nie kumuluj¹ siê.~
+
+@577    = ~Zaraza~
+@578    = ~Zaraza
+Poziom: 4
+Szko³a: Nekromancja
+Zasiêg: krótki
+Czas trwania: 8 godzin
+Czas rzucania: 4
+Obszar dzia³ania: 1 istota
+Rzut obronny: œmieræ, neguje
+
+Ten czar wywo³uje u istoty powa¿n¹ chorobê i os³abienie. Co 2 rundy dotkniêta nim osoba musi wykonaæ rzut obronny przeciw truciznom z modyfikatorem -2 albo otrzyma dodatkow¹ karê -2 do Si³y, Zrêcznoœci, Kondycji i Charyzmy (maksymalnie -8 do ka¿dej z tych cech). Efekty czaru utrzymuj¹ siê do czasu rzucenia na istotê czaru Leczenie chorób lub wygaœniêcia czasu dzia³ania.~
+
+@579    = ~Zdjêcie kl¹twy~
+@580    = ~Zdjêcie kl¹twy
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: krótki
+Czas trwania: sta³y
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Rzucaj¹c ten czar, mag mo¿e uwolniæ poszkodowanego od zauroczeñ i kl¹tw. Zaklêcie likwiduje efekty Zamêtu i Og³upienia, uwalnia ofiary od magicznego snu oraz prze³amuje kl¹twy. Czar ten nie pozwala rozproszyæ kl¹twy z przeklêtej tarczy, broni czy zbroi, ale osoba dzier¿¹ca przedmioty tego typu zostaje uwolniona od ich wp³ywu i mo¿e siê ich pozbyæ. Niektóre z kl¹tw mog¹ byæ zbyt silne, aby mo¿na je by³o usun¹æ za pomoc¹ tego czaru lub te¿ mog¹ wymagaæ od maga wy¿szego poziomu doœwiadczenia albo rytua³u. ~
+
+@581    = ~Emocje: rozpacz~
+@582    = ~Emocje: rozpacz
+Poziom: 4
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 2 rundy na poziom
+Czas rzucania: 4
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: przeciw czarom neguje
+
+Rzucaj¹c zaklêcie, mag zak³óca stan emocjonalny istot wokó³ siebie. Efektem jest poczucie ca³kowitej beznadziei u wrogów w zasiêgu wzroku rzucaj¹cego. Jeœli nie powiedzie im siê rzut obronny przeciw czarom z modyfikatorem -2, otrzymuj¹ karê -4 do rzutów na atak i obra¿eñ od broni oraz karê +4 do Klasy Pancerza. Efekty utrzymuj¹ siê do wygaœniêcia czaru lub jego rozproszenia.~
+
+@583    = ~Wielkie os³abienie~
+@584    = ~Wielkie os³abienie
+Poziom: 4
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 2 tury
+Czas rzucania: 4
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Czar ten pozwala rzucaj¹cemu niekorzystnie wp³ywaæ na rzuty koœæmi jego wrogów. Dzia³a na wszystkie wrogie istoty znajduj¹ce siê w obszarze dzia³ania. Istoty pod jego wp³ywem wykonuj¹ wszystkie rzuty obronne z kar¹ -2, a ponadto otrzymuj¹ karê -1 do szczêœcia. Odpornoœæ na magiê nie ma wp³ywu na to zaklêcie, a wielokrotne rzucenie czaru nie kumuluje siê.~
+
+@3583=~Rzuty obronne obni¿one~
+
+@585    = ~Nienaruszalna sfera Otiluka~
+@586    = ~Nienaruszalna sfera Otiluka
+Poziom: 4
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 4
+Obszar dzia³ania: 1 istota
+Rzut obronny: przeciw czarom neguje
+
+Po rzuceniu tego czaru powstaje kula lœni¹cej energii, która otacza i wiêzi istotê bêd¹c¹ celem, jeœli nie wykona ona udanego rzutu obronnego przeciw zioniêciom z modyfikatorem -4. Nienaruszalna sfera wiêzi cel przez czas dzia³ania czaru. Kula jest ca³kowicie odporna na wszelkie obra¿enia - jedynym sposobem na jej usuniêcie jest udane Rozproszenie magii. Tak wiêc istota wewn¹trz kuli jest ca³kowicie bezpieczna od wszelkich ataków, ale jednoczeœnie nie mo¿e w ¿aden sposób wp³ywaæ na œwiat zewnêtrzny.
+
+Czarodziej ma mo¿liwoœæ rzuciæ ten czar równie¿ na swojego sprzymierzeñca, aby go chroniæ, w takim wypadku odpornoœæ na magiê i rzuty obronne nie maj¹ znaczenia.~
+
+@587    = ~Eteralny pancerz~
+@588    = ~Eteralny pancerz
+Poziom: 4
+Szko³a: Nekromancja
+Zasiêg: dotyk
+Czas trwania: 10 tur
+Czas rzucania: 4
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+To zaklêcie czerpie z si³ ¿yciowych celu, aby stworzyæ wokó³ jego cia³a namacaln¹ barierê. Pancerz nie ma ciê¿aru i w ¿aden sposób nie utrudnia ruchu ani rzucania czarów. Eteralny pancerz nie kumuluje siê z ¿adn¹ inn¹ zbroj¹, ale ³¹czy siê z premiami ze Zrêcznoœci, tarcz i magicznych przedmiotów. Podczas dzia³ania czaru Klasa Pancerza celu wynosi 1, a rzuty obronne przeciw œmierci wykonuje on z premi¹ +3. U¿ywanie tego czaru wi¹¿e siê jednak z niebezpieczeñstwem, poniewa¿ gdy czar wygasa, zewnêtrzna czêœæ ducha celu zostaje chwilowo utracona. Powoduje to 2k4 obra¿eñ, chyba ¿e cel wykona udany rzut obronny przeciw czarom.~
+
+@589    = ~Polimorfowanie innego~
+@590    = ~Polimorfowanie innego
+Poziom: 4
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: sta³y
+Czas rzucania: 4
+Obszar dzia³ania: 1 istota
+Rzut obronny: polimorfia, neguje
+
+Polimorfowanie innego jest potê¿nym czarem, który na sta³e zmienia cielesn¹ formê poddanej mu istoty. Cechy umys³u nie ulegaj¹ zmianie i ofiara nie otrzymuje ¿adnych specjalnych zdolnoœci, w³aœciwych jej nowej formie. Odpowiedniej zmianie ulegaj¹ jednak wszystkie cechy fizyczne. Jest to szczególna odmiana tego czaru, która zamienia ofiarê w wiewiórkê, je¿eli nie zostanie wykonany udany rzut obronny przeciw petryfikacji/polimorfii. Skutecznoœæ tego zaklêcia zale¿y od poziomu celu, s³abe stworzenia stosunkowo ³atwo przemieniæ, potê¿ne bardzo trudno. Stworzenia o poziomie mniejszym ni¿ 8 otrzymuj¹ modyfikator -3 do rzutu obronnego, te z poziomów 8 - 14 nie maj¹ modyfikatora, natomiast od poziomu 15 wzwy¿ maj¹ modyfikator +3. Transformacja jest natychmiastowa i trwa³a, a¿ do czasu rzucenia na ofiarê udanego Rozproszenia magii. 
+
+Nale¿y pamiêtaæ, ¿e ca³e ubranie i wyposa¿enie celu stapia siê z now¹ form¹. Wraca ono jednak do poprzedniego stanu, gdy cel zginie lub efekt czaru zostanie rozproszony.~
+
+@591    = ~Polimorfowanie siebie~
+@592    = ~Polimorfowanie siebie
+Poziom: 4
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 4
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego czaru mag mo¿e przybraæ formê innej istoty, takiej jak flind, ogr, galareta musztardowa, paj¹k mieczowiec lub œnie¿ny wilk. Rzucaj¹cy mo¿e poruszaæ siê w sposób naturalny dla nowej formy i oddychaæ tak, jak ona. Czar nie przekazuje jednak innych zdolnoœci nowej formy, takich jak specjalne ataki i magia, nie grozi równie¿ magowi zmian¹ osobowoœci i zdolnoœci umys³owych.
+
+Po rzuceniu czaru i podczas jego trwania, mag mo¿e w ka¿dej chwili przybraæ dowoln¹ now¹ formê i zmieniaæ j¹ tyle razy, ile sobie ¿yczy. W niektórych przypadkach mag zyskuje mo¿noœæ pos³ugiwania siê naturalnymi dla nowej formy sposobami ataku, zaœ w innych mo¿e pos³ugiwaæ siê broni¹. Jego zdolnoœci umys³owe nie ulegaj¹ zmianie, odpowiednio zmieniaj¹ siê jednak jego cechy fizyczne. Mag zyskuje równie¿ wszelkie naturalne dla nowej formy sposoby ochrony.
+
+Flind
+SI£A 17, ZRÊCZNOŒÆ 17, KONDYCJA 16, KP 1, TraKo 10
+2 ataki na rundê, 1k10+3 obra¿eñ k³utych + 1k6 obra¿eñ od ognia (Halabarda +2)
+
+
+Ogr
+SI£A 18/00, ZRÊCZNOŒÆ 9, KONDYCJA 18, KP 3, TraKo 8
+2 ataki na rundê, 1k10+8 obra¿eñ obuchowych (Morgensztern +2)
+
+
+Galareta musztardowa
+SI£A 14, ZRÊCZNOŒÆ 9, KONDYCJA 16, KP 4, TraKo 10
+1 atak na rundê, 5k5 obra¿eñ od kwasu + spowolnienie (¯r¹cy zarodnik +2)
+Spowolnienie: cel zostaje spowolniony na 3 rundy (rzut obronny przeciw polimorfii neguje)
+Odpornoœæ na cios w plecy oraz efekty trucizny, zauroczenia, zamêtu i unieruchomienia
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na elektrycznoœæ 100%, odpornoœæ na zimno 50%
+
+
+Paj¹k mieczowiec
+SI£A 17, ZRÊCZNOŒÆ 10, KONDYCJA 15, KP 3, TraKo 14
+4 ataki na rundê, 1k6+3 obra¿eñ k³utych + trucizna (Odnó¿a i ugryzienie +1)
+Trucizna: 4 P¯/rundê przez 4 rundy (rzut obronny przeciw truciznom neguje)
+Odpornoœæ na efekty pajêczyny i trucizny
+
+
+Œnie¿ny wilk
+SI£A 18, ZRÊCZNOŒÆ 17, KONDYCJA 15, KP 2, TraKo 10
+2 ataki na rundê, 1k6+3 obra¿eñ k³utych + 1k6 obra¿eñ od zimna (Odmro¿enie +2)
+Odpornoœæ na zimno 100%~
+
+@593    = ~Zaklêta broñ~
+@594    = ~Zaklêta broñ
+Poziom: 4
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 dzieñ
+Czas rzucania: 4
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten przywo³uje zaklêty orê¿ (+3), który mo¿e byæ u¿ywany przez ka¿dego. Mo¿e to byæ broñ dowolnego typu, ewentualnie czarodziej mo¿e zdecydowaæ siê na stworzenie 40 magicznych strza³, be³tów lub pocisków do procy. Broñ istnieje nie d³u¿ej ni¿ 1 dzieñ. ~
+
+@595    = ~Ognista tarcza (czerwona)~
+@596    = ~Ognista tarcza (czerwona)
+Poziom: 4
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 3 rundy + 1 runda/poziom
+Czas rzucania: 4
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten chroni rzucaj¹cego, otaczaj¹c go kolist¹ œcian¹ p³omieni. Tarcza nie tylko daje 40% odpornoœci na ogieñ i zimno, ale te¿ chroni przed atakami w promieniu 5 stóp. Przeciwnicy, którzy z tej odleg³oœci trafi¹ rzucaj¹cego broni¹ lub czarem, otrzymuj¹ 1k6 obra¿eñ od ognia plus 1 na ka¿de dwa poziomy rzucaj¹cego (maksymalnie 1k6+10). Wielokrotne rzucenie tego czaru nie kumuluje siê, ale mo¿na go ³¹czyæ z podobnymi zaklêciami. Maleñkie i ma³e stworzenia lataj¹ce nie mog¹ przenikn¹æ przez p³omienie. Odpornoœæ na magiê nie ma wp³ywu na ten czar.~
+
+@597    = ~Tajemne s³owo~
+@598    = ~Tajemne s³owo
+Poziom: 4
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Z chwil¹, kiedy czar ten zaczyna oddzia³ywaæ, likwiduje dzia³anie jednego zaklêcia ochronnego do 7 poziomu w³¹cznie. Zawsze najpierw rozprasza czar ochronny o najwy¿szym poziomie. Jeœli cel jest pod wp³ywem dwóch lub wiêcej czarów o takim samym najwy¿szym poziomie, rozpraszany czar wybierany jest losowo. Odpornoœæ celu na magiê, jeœli nawet istnieje, nie ma znaczenia w przypadku tego zaklêcia. 
+
+Czary ochronne rozpraszane przez Tajemne s³owo to: Mniejsze odbicie czaru, Niewykrywalnoœæ, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary, Tarcza przeciw czarom, Klosz niewra¿liwoœci, Wiêksze odbicie czaru oraz Tarcza Archonów.~
+
+@599    = ~Mniejszy sekwencer~
+@600    = ~Mniejszy sekwencer
+Poziom: 4
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten pozwala magowi przechowywaæ inne zaklêcia i uaktywniaæ je ikon¹ zdolnoœci specjalnych. Po wybraniu czarów, mag tworzy zdolnoœæ specjaln¹, która powoduje jednoczesne wyzwolenie wszystkich zaklêæ. Zdolnoœæ ta, zwana sekwencerem, mo¿e byæ wykorzystana do przechowywania dwóch czarów, maksymalnie 2 poziomu. Mag mo¿e posiadaæ tylko jeden sekwencer na raz i nie mo¿e go przekazaæ innym postaciom. Po u¿yciu sekwencera jego ikona znika.~
+
+@601    = ~Pole teleportacyjne~
+@602    = ~Pole teleportacyjne
+Poziom: 4
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 4
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: przeciw czarom neguje
+
+Za pomoc¹ tego zaklêcia czarodziej wywo³uje efekt teleportacji w obszarze tak dalekim, jak siêga jego wzrok. Wszyscy wrogowie w tym obszarze s¹ losowo teleportowani przez czas dzia³ania czaru, chyba ¿e wykonaj¹ rzut obronny przeciw czarom z modyfikatorem -4. Odpornoœæ na magiê nie ma wp³ywu na to zaklêcie. Najlepiej u¿ywaæ go przeciw wielu wrogom, aby ich zdezorientowaæ, a samemu skupiæ siê na uruchomieniu swoich zabezpieczeñ.~
+
+@603    = ~Przywo³anie potwora IV~
+@604    = ~Przywo³anie potwora IV
+Poziom: 4
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa okreœlon¹ iloœæ potworów, które bezwzglêdnie mu s³u¿¹. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿y od poziomu rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+Poziom 7: 2 olbrzymie paj¹ki
+Poziom 9: 3 olbrzymie paj¹ki
+Poziom 12+: 3 olbrzymie paj¹ki, 1 paj¹k mieczowiec
+
+Olbrzymi paj¹k (4 kostki):
+SI£A 15, ZRÊCZNOŒÆ 17, KONDYCJA 12, INTELIGENCJA -, M¥DROŒÆ 10, CHARYZMA 2, Neutralny
+P¯ 32, KP 6, TraKo 16, Rzuty obronne 10/13/10/13/13
+1 atak na rundê, 1k8 obra¿eñ k³utych (Ugryzienie +1)
+
+
+Paj¹k mieczowiec (5 kostek):
+SI£A 17, ZRÊCZNOŒÆ 10, KONDYCJA 15, INTELIGENCJA -, M¥DROŒÆ 11, CHARYZMA 3, Neutralny
+P¯ 45, KP 3, TraKo 14, Rzuty obronne 9/12/9/12/12
+4 ataki na rundê, 1k8+2 obra¿eñ k³utych (Odnó¿a i ugryzienie +1)
+
+Zdolnoœci bojowe (wszystkie paj¹ki):
+Trucizna: uk¹szenie paj¹ka wstrzykuje jad, który zadaje 3 P¯/rundê przez 1 turê (rzut obronny przeciw truciznom neguje)
+
+Zdolnoœci specjalne (wszystkie paj¹ki):
+Odpornoœæ na efekty trucizny i pajêczyny~
+
+@605    = ~Dalekowzrocznoœæ~
+@606    = ~Dalekowzrocznoœæ
+Poziom: 4
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 4
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia rzucaj¹cy mo¿e obejrzeæ mapê niezbadanego obszaru. Po prostu kliknij na fragmencie mapy, który chcesz zobaczyæ. Przez czas dzia³ania czaru rzucaj¹cy mo¿e obserwowaæ ten obszar, zauwa¿aj¹c potwory i fortyfikacje.~
+
+@607    = ~Czarodziejskie oko~
+@608    = ~Czarodziejskie oko
+Poziom: 4
+Szko³a: Poznanie
+Zasiêg: krótki
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Poprzez rzucenie tego czaru czarodziej tworzy niewidzialny organ wzroku, który przesy³a mu obraz. Czarodziejskie oko widzi w normalny sposób na odleg³oœæ do 60 stóp w jasno oœwietlonym terenie. Czarodziejskie oko mo¿e poruszaæ siê w dowolnym wskazanym kierunku tak d³ugo jak trwa czar. Jest materialne i mo¿na je wykryæ (na przyk³ad poprzez u¿ycie czaru Wykrycie niewidzialnego). Oko nie mo¿e przenikaæ przez fizyczne bariery. Nie mo¿na wzmacniaæ zdolnoœci oka poprzez inne czary lub przedmioty. Czarodziej który rzuci³ ten czar jest podatny na wszelkie ataki wzrokowe, którym poddane zostanie oko. Udane rzucenie rozproszenia magii przerywa dzia³anie tego czaru. ~
+
+
+/*------------------level 5------------------*/
+
+@611    = ~Przyzwanie cieni~
+@612    = ~Przyzwanie cieni
+Poziom: 5
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Za pomoc¹ tego zaklêcia czarodziej przywo³uje pewn¹ liczbê cieni, nieumar³ych potworów, które bezwarunkowo bêd¹ mu s³u¿yæ. Rodzaj i liczba przyzwanych stworzeñ zale¿y od poziomu czarodzieja rzucaj¹cego zaklêcie.
+
+Poziom 9: 3 cienie
+Poziom 12+: 2 upiory
+
+Nieumar³e istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas dzia³ania czaru.
+
+Cieñ (3 kostki):
+SI£A -, ZRÊCZNOŒÆ 14, KONDYCJA -, INTELIGENCJA 6, M¥DROŒÆ 12, CHARYZMA 11, Chaotyczny z³y
+P¯ 36, KP 5, TraKo 13, Rzuty obronne 11/13/11/13/13
+1 atak na rundê, 1k6+1 obra¿eñ od zimna (Dotyk +1)
+
+Zdolnoœci bojowe: 
+Dotyk ch³odu: nieudany rzut obronny przeciw œmierci powoduje utratê 1 punktu si³y na 1 godzinê
+
+Zdolnoœci specjalne:
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na efekty ciosu w plecy, zauroczenia, zamêtu, unieruchomienia, trucizny, uœpienia, og³uszenia oraz œmierci
+Odpornoœæ na zimno 100%; odpornoœæ na obra¿enia fizyczne 50%
+
+
+Upiór (5 kostek):
+SI£A -, ZRÊCZNOŒÆ 15, KONDYCJA -, INTELIGENCJA 11, M¥DROŒÆ 13, CHARYZMA 12, Praworz¹dny z³y
+P¯ 60, KP 4, TraKo 12, Rzuty obronne 10/13/10/13/13
+1 atak na rundê, 1k8+1 obra¿eñ od zimna (Dotyk +1)
+
+Zdolnoœci bojowe:
+Wyssanie ¿ycia: ka¿de udane trafienie zwiêksza punkty ¿ycia upiora o 5 na 1 turê, a cel musi wykonaæ rzut obronny przeciw œmierci albo straci 1 poziom
+
+Zdolnoœci specjalne:
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na efekty ciosu w plecy, œlepoty, zauroczenia, zamêtu, unieruchomienia, trucizny, uœpienia, og³uszenia oraz œmierci
+Odpornoœæ na zimno 100%; Odpornoœci na obra¿enia fizyczne 50%~
+
+@3611=~Cieñ~
+@3612=~Widmo~
+
+@613    = ~Zabójcza chmura~
+@614    = ~Zabójcza chmura
+Poziom: 5
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+To zaklêcie tworzy faluj¹c¹ chmurê zielono-¿ó³tych oparów, tak toksycznych, ¿e zabijaj¹ ka¿d¹ istotê z liczb¹ Kostek mniejsz¹ ni¿ 4. Istoty z liczb¹ Kostek od 4 do 6 mog¹ wykonaæ rzut obronny przeciw truciznom z modyfikatorem -4 i jeœli im siê uda, nie gin¹. Wstrzymywanie oddechu nie wp³ywa na dzia³anie czaru. Istoty z liczb¹ kostek wy¿sz¹ ni¿ 6 musz¹ natychmiast opuœciæ chmurê, lub otrzymaj¹ 1k10 punktów obra¿eñ od trucizny na ka¿d¹ rundê przebywania w obszarze dzia³ania zaklêcia. ~
+
+@615    = ~Sto¿ek zimna~
+@616    = ~Sto¿ek zimna
+Poziom: 5
+Szko³a: Wywo³ywanie
+Zasiêg: specjalny
+Czas trwania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: specjalny
+Rzut obronny: zioniêcia 1/2
+
+Rzucaj¹c to zaklêcie, mag sprawia, ¿e z jego d³oni wystrzeliwuje sto¿ek przeraŸliwego zimna. Sto¿ek ma d³ugoœæ 30 stóp i rozpoœciera siê przed czarodziejem w poziomym ³uku o k¹cie 60 stopni. Wysysa on ciep³o, zadaj¹c 1k4+1 obra¿eñ na ka¿dy poziom doœwiadczenia czarodzieja (maksymalnie 15k4+15 na 15. poziomie); udany rzut obronny przeciw zioniêciom z modyfikatorem -4 zmniejsza obra¿enia o po³owê.~
+
+@617    = ~Przywo³anie potwora V~
+@618    = ~Przywo³anie potwora V
+Poziom: 5
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa okreœlon¹ iloœæ potworów, które bezwzglêdnie mu s³u¿¹. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿y od poziomu rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+Poziom 9: 2 ogry
+Poziom 12+: 2 ogry, 1 ogrzy mag
+
+Ogr berserker (5 kostek):
+SI£A 18/00, ZRÊCZNOŒÆ 9, KONDYCJA 18, INTELIGENCJA 8, M¥DROŒÆ 10, CHARYZMA 7, Chaotyczny z³y
+P¯ 60, KP 3, TraKo 11, Rzuty obronne 11/13/12/13/14
+1 atak na rundê, 1k10+9 obra¿eñ obuchowych (Morgensztern +1)
+
+Zdolnoœci specjalne:
+Wœciek³oœæ (raz na dzieñ)
+
+Ogrzy mag (6 kostek):
+SI£A 18/00, ZRÊCZNOŒÆ 9, KONDYCJA 17, INTELIGENCJA 15, M¥DROŒÆ 11, CHARYZMA 13, Praworz¹dny z³y
+P¯ 56, KP 2, TraKo 11, Rzuty obronne 11/13/12/13/14
+1 atak na rundê, 1k10+9 obra¿eñ ciêtych (Katana +1)
+
+Zdolnoœci specjalne:
+Niewidzialnoœæ (do woli)
+Regeneracja: 1 P¯/rundê
+
+Zapamiêtane zaklêcia:
+1. Nieprzenikniona mg³a, Magiczny pocisk (x2), Tarcza
+2. Groza, Lustrzane obrazy
+3. Okropne zauroczenie, Spowolnienie~
+
+@619    = ~Drzwi z cienia~
+@620    = ~Drzwi z cienia
+Poziom: 5
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 1
+Obszar dzia³ania: specjalny
+Rzut obronny: specjalny
+
+Moc¹ tego zaklêcia czarodziej tworzy iluzjê drzwi, przez które mo¿e przejœæ i znikn¹æ. W rzeczywistoœci jednak mag odskakuje na bok, dziêki czemu mo¿e uciec, gdy¿ przez czas dzia³ania czaru jest ca³kowicie niewidzialny. Przeciwnicy w promieniu 5 stóp od czarodzieja musz¹ wykonaæ rzut obronny przeciw czarom albo daj¹c siê nabraæ przejd¹ przez drzwi znajduj¹c siê w pu³apce stworzonej przez czar na 4 rundy. Stworzenia o du¿ej inteligencji mog¹ przejrzeæ iluzjê szybciej. Czar nie ma wp³ywu na istoty, które widz¹ iluzje takie jak smoki, lisze i demony albo bêd¹ce pod wp³ywem prawdziwego widzenia.~
+
+@621    = ~Dominacja~
+@622    = ~Dominacja
+Poziom: 5
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: przeciw czarom neguje
+
+Ten czar umo¿liwia rzucaj¹cemu kontrolowanie wszystkich dzia³añ istoty, bêd¹cej pod jego wp³ywem. Kontrola ta jest sprawowana poprzez telepatyczn¹ wiêŸ pomiêdzy rzucaj¹cym a ofiar¹. W odró¿nieniu od efektów kap³añskiego zaklêcia Dominacja umys³owa, czar ten powoduje, ¿e jego ofiara nie ma mo¿liwoœci uwolnienia siê, nawet jeœli zostanie zmuszona do zrobienia czegoœ g³êboko przeciwnego jej naturze. Obrona przed tym zaklêciem wymaga udanego rzutu obronnego przeciw czarom (modyfikator -2). ~
+
+@623    = ~Unieruchomienie potwora~
+@624    = ~Unieruchomienie potwora
+Poziom: 5
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: cel i przeciwnicy w promieniu 5 stóp
+Rzut obronny: przeciw czarom neguje
+
+Ten czar unieruchamia istoty, które na jedn¹ turê sztywniej¹ i nie mog¹ siê poruszaæ. Centrum dzia³ania tego czaru znajduje siê w miejscu, gdzie stoi wybrana przez czaruj¹cego ofiara. Zaklêcie zadzia³a równie¿ na ka¿dego przeciwnika, znajduj¹cego siê w odleg³oœci 5 stóp od niej. Czar nie dzia³a na istoty, którym powiedzie siê rzut obronny przeciw czarom z modyfikatorem -2. Nieumar³ych nie mo¿na unieruchomiæ za pomoc¹ tego zaklêcia.
+
+Unieruchomione istoty nie mog¹ siê poruszaæ ani mówiæ, ale pozostaj¹ œwiadome tego, co dzieje siê wokó³ nich, choæ nie s¹ w stanie nic zmieniæ. Czas p³ynie dla nich normalnie, dlatego unieruchomienie nie powstrzymuje pogarszania siê ich stanu w wyniku ran, chorób czy trucizn.~
+
+@625    = ~Fala zmêczenia~
+@626    = ~Fala zmêczenia
+Poziom: 5
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 5 rund
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Fale negatywnej energii sprawiaj¹, ¿e wszystkie wrogie ¿ywe istoty w obszarze dzia³ania czaru staj¹ siê zmêczone, jakby nie odpoczywa³y od doby. Wielokrotne rzucenie tego czaru kumuluje siê.~
+
+@627    = ~Og³upienie~
+@628    = ~Og³upienie
+Poziom: 5
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: sta³y
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: przeciw czarom neguje
+
+Og³upienie wywo³uje degeneracjê umys³ow¹ ofiary do stanu porównywalnego ze stanem umys³u imbecyla o inteligencji 3. Pozostaje ona w takim stanie do chwili rzucenia na ni¹ rozproszenia magii. Je¿eli ofiara chce unikn¹æ og³upienia, musi wykonaæ rzut obronny przeciw czarom z modyfikatorem -4.~
+
+@629    = ~Niepodatnoœæ na czary~
+@630=~Ochrona przed rozpraszaniem
+Poziom: 5
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 5
+Obszar dzia³ania: rzucaj¹cy and nearby allies
+Rzut obronny: brak
+
+Czar ten zapewnia ochronê przed jedn¹, wybran¹ szko³¹ magii. Po rzuceniu tego czaru mag musi zadecydowaæ przed jak¹ szko³¹ magii ma go chroniæ. ¯aden czar z wybranej szko³y nie bêdzie móg³ zaszkodziæ czarodziejowi ani te¿ pomóc mu. Wlicza siê w to tak¿e czary kap³anów nale¿¹ce do wybranej szko³y magii, nawet te, które mog¹ wspieraæ czarodzieja. ~
+
+@631    = ~Ochrona przed zwyk³ymi broniami~
+@632    = ~Ochrona przed zwyk³ymi broniami
+Poziom: 5
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 5
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Czar ten tworzy wokó³ rzucaj¹cego nieruchom¹, lekko migocz¹c¹ magiczn¹ kulê, przez któr¹ nie mog¹ przenikn¹æ niemagiczne bronie; wszystkie takie bronie s¹ nieszkodliwie odbijane (pociski uderzaj¹ w kulê i natychmiast spadaj¹ na ziemiê). Nie dotyczy to broni pob³ogos³awionych ani zaklêtych. Efekt utrzymuje siê przez czas dzia³ania czaru lub do chwili jego rozproszenia.~
+
+@633    = ~Ochrona przed elektrycznoœci¹~
+@634    = ~Ochrona przed elektrycznoœci¹
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/poziom
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy zaklêcie Ochrona przed elektrycznoœci¹ zostaje rzucone, cel otrzymuje pe³n¹ ochronê przed wszystkimi atakami opartymi na elektrycznoœci, magicznego i niemagicznego pochodzenia. 100% obra¿eñ z ataków jak elektryczny oddech smoka zostanie wch³oniêtych, cel staje siê ca³kowicie odporny na efekty takich czarów jak B³yskawica, Glif stra¿niczy, Wezwanie b³yskawic i Wy³adowanie ³añcuchowe. ~
+
+@635    = ~Wy³om~
+@636    = ~Wy³om
+Poziom: 5
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy zaklêcie to zostaje rzucone na jak¹œ istotê, rozprasza i pozbawia j¹ wszelkiej specjalnej oraz bojowej ochrony. Odpornoœæ na magiê nie ma wp³ywu na ten czar.
+
+Specjalne zaklêcia ochronne rozpraszane przez Wy³om to: Odpornoœæ na strach, Odpornoœæ na ¿ywio³y, Os³ona przed œmierci¹, Swoboda dzia³ania, Ochrona przed kwasem, Ochrona przed zimnem, Ochrona przed elektrycznoœci¹, Ochrona przed ogniem, Chaotyczne rozkazy, Ochrona przed magiczn¹ energi¹, Ochrona przed ¿ywio³ami, Ochrona przed energi¹ i Pustka umys³u.
+
+Bojowe zaklêcia ochronne rozpraszane przez Wy³om to: Zbroja maga, Tarcza, Zbroja wiary, Korowa skóra, Ochrona przed pociskami, Eteralny pancerz, Kamienna skóra, Ochrona przed zwyk³ymi broniami, Ochrona przed magicznymi broniami, Lustro materii, Pryzmatyczna opoñcza, Moment przewidywania i Ca³kowita niewra¿liwoœæ.~
+
+@637    = ~Obni¿enie odpornoœci~
+@638    = ~Obni¿enie odpornoœci
+Poziom: 5
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Po rzuceniu tego czaru na jak¹œ istotê, mo¿na u niej zaobserwowaæ obni¿enie odpornoœci na magiê o 2% na poziom czaruj¹cego (maksymalnie 40% na poziomie 20). Nie ma mo¿liwoœci wykonania rzutu obronnego, zaœ odpornoœæ na magie w ogóle nie jest brana pod uwagê. Czar ten nie podlega równie¿ rozproszeniu magii, jeœli ju¿ zosta³ rzucony nie ma sposobu unikniêcia jego dzia³ania, a¿ sam wygaœnie.
+
+Przyk³adowo, je¿eli dana istota dysponuje 50%-ow¹ odpornoœci¹ na magiê i dostanie siê pod wp³yw tego czaru rzuconego przez czarodzieja 15-ego poziomu, wówczas jej odpornoœæ na magiê obni¿y siê automatycznie o 30%. Efekt ten jest kumulowany przy ka¿dym rzuceniu tego czaru. Je¿eli ten czar zostanie rzucony na tê sam¹ istotê raz jeszcze, wówczas jej odpornoœæ na magiê wyniesie 50%-30% (pierwszy czar)-30%(drugi czar), co sprawi, ¿e dana istota posiadaæ bêdzie pod koniec 0% odpornoœci na magiê.~
+
+@639    = ~Wyrocznia~
+@640    = ~Wyrocznia
+Poziom: 5
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia dzia³a ono na obszar o promieniu oko³o 30 stóp wokó³ rzucaj¹cego. Wszystkie wrogie czary iluzji/urojeñ w tym obszarze zostaj¹ rozproszone. Zaklêcie dzia³a wy³¹cznie na wrogów.
+
+Czary, na które ma wp³yw Wyrocznia to: Odbity obraz, Niewidzialnoœæ, Rozmycie, Lustrzane obrazy, Duchowy pancerz, Sfera niewidzialnoœci, Ulepszona niewidzialnoœæ, Drzwi z cienia, Py³ skrzatów, Zwodniczy sobowtór, Projekcja duplikatu i Grupowa niewidzialnoœæ.~
+
+@641    = ~Sprowadzenie pomniejszego ¿ywio³aka ognia~
+@642    = ~Sprowadzenie pomniejszego ¿ywio³aka ognia
+Poziom: 5
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 8
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Rzucaj¹cy to zaklêcie mag przywo³uje mniejszego ¿ywio³aka ognia, który wype³nia jego polecenia. ¯ywio³ak ma 8 Kostek i bêdzie spe³nia³ ka¿d¹ zachciankê osoby rzucaj¹cej zaklêcie, a¿ do chwili odes³ania do swej macierzystej sfery, zakoñczenia dzia³ania czaru, lub swojej œmierci. Jednak za ka¿dym razem, gdy to zaklêcie jest rzucane istnieje 15% szans na to, ¿e portal otwarty przez rzucaj¹cego zapadnie siê zanim ¿ywio³ak przejdzie na pierwszy plan materialny.
+
+Pomniejszy ¿ywio³ak ognia (8 kostek):
+SI£A 14, ZRÊCZNOŒÆ 16, KONDYCJA 16, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 80, KP 2, TraKo 10, Rzuty obronne 10/12/11/11/13
+2 ataki na rundê, 2k4+2 obra¿eñ ciêtych + 2k4 obra¿eñ od ognia (Piêœæ +2)
+
+Zdolnoœci specjalne:
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na efekty unieruchomienia, trucizny, polimorfii, uœpienia i og³uszenia
+Odpornoœæ na ogieñ 100%
+Odpornoœæ na obra¿enia ciête, obuchowe, k³ute i od pocisków 20%~
+
+@3641=~Pomniejszy ¿ywio³ak ognia~
+
+@643    = ~Ochrona przed kwasem~
+@644    = ~Ochrona przed kwasem
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/poziom
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy zaklêcie Ochrona przed kwasem zostaje rzucone, cel otrzymuje pe³n¹ ochronê przed wszystkimi atakami opartymi na kwasie, magicznego i niemagicznego pochodzenia. 100% obra¿eñ z ataków jak kwasowy oddech smoka zostanie wch³oniêtych, cel staje siê ca³kowicie odporny na efekty takich czarów jak Kwasowa strza³a Melfa oraz Kwasowa mg³a.~
+
+@645    = ~Widmowe ostrze~
+@646    = ~Widmowe ostrze
+Poziom: 5
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten tworzy pó³przeŸroczysty, podobny do cienia obszar si³ magicznych. Rozpoœciera siê on z palców d³oni czarodzieja na d³ugosæ 3 stóp. Ma kszta³t ostrza. Zadaje takie same obra¿enia jak prawdziwy miecz. Czarodziej w³ada widmowym ostrzem tak, jakby mia³ w nim bieg³oœæ i ze swym normalnym TraKo. Miecz zadaje 1k12+4 obra¿eñ od magii oraz dodatkowo 10 punktów obra¿eñ nieumar³ym. Ze wzglêdu na eteryczny charakter ostrza premie do si³y nie maj¹ zastosowania, ale ataki tym ostrzem uzyskuj¹ premiê +4 do trafienia oraz dodatkowo powoduj¹, i¿ w nastêpnej rundzie cel nie bêdzie móg³ rzuciæ ¿adnych czarów (rzut obronny przeciw czarom z modyfikatorem -4 neguje). Widomowe ostrze traktowane jest jako broñ +4, nie mo¿e jednak zadaæ obra¿eñ rzeczom nieorganicznym, poniewa¿ nie jest materialne. Widmowe ostrze mo¿e byæ u¿ywane tylko przez czarodzieja i pozostaje w jego rêku do czasu wygaœniêcia czaru lub jego rozproszenia.~
+
+@647    = ~Tarcza przeciw czarom~
+@648    = ~Tarcza przeciw czarom
+Poziom: 5
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 5
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej jest chroniony przed nastêpnym magicznym atakiem wymierzonym w niego. Jeœli któryœ z wymienionych ni¿ej czarów zostanie rzucony na czarodzieja, zaklêcie aktywuje siê i poch³ania atak. Dzia³a to jednak tylko raz, poniewa¿ czar zostaje przy tym zu¿yty.
+
+Zaklêcia, przed którymi Tarcza przeciw czarom chroni maga, to: Zbicie czaru, Tajemne s³owo, Przeszywaj¹ca magia, Rubinowy promieñ odwrócenia, Bicz ochronny Khelbena, Przebicie tarczy i Uderzenie czaru.~
+
+@649    = ~Sprowadzenie pomniejszego ¿ywio³aka powietrza~
+@650    = ~Sprowadzenie pomniejszego ¿ywio³aka powietrza
+Poziom: 5
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 8
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Rzucaj¹cy to zaklêcie mag przywo³uje mniejszego ¿ywio³aka powietrza, który wype³nia jego polecenia. ¯ywio³ak ma 8 Kostek i bêdzie spe³nia³ ka¿d¹ zachciankê osoby rzucaj¹cej zaklêcie, a¿ do chwili odes³ania do swej macierzystej sfery, zakoñczenia dzia³ania czaru, lub swojej œmierci. Jednak za ka¿dym razem, gdy to zaklêcie jest rzucane istnieje 15% szans na to, ¿e portal otwarty przez rzucaj¹cego zapadnie siê zanim ¿ywio³ak przejdzie na pierwszy plan materialny.
+
+Pomniejszy ¿ywio³ak powietrza (8 kostek):
+SI£A 14, ZRÊCZNOŒÆ 17, KONDYCJA 16, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 80, KP 0, TraKo 8, Rzuty obronne 10/12/11/11/13
+3 ataki na rundê, 1k6+2 obra¿eñ k³utych (Piêœæ +2)
+
+Zdolnoœci specjalne:
+Odpornoœæ przed zwyk³ymi broniami
+Odpornoœæ na efekty unieruchomienia, trucizny, uœpienia i og³uszenia
+Odpornoœæ na obra¿enia ciête, obuchowe i k³ute 20%; od pocisków 60%~
+
+@3649=~Pomniejszy ¿ywio³ak powietrza~
+
+@651    = ~Sprowadzenie pomniejszego ¿ywio³aka ziemi~
+@652    = ~Sprowadzenie pomniejszego ¿ywio³aka ziemi
+Poziom: 5
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 8
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Rzucaj¹cy to zaklêcie mag przywo³uje mniejszego ¿ywio³aka ziemi, który wype³nia jego polecenia. ¯ywio³ak ma 8 Kostek i bêdzie spe³nia³ ka¿d¹ zachciankê osoby rzucaj¹cej zaklêcie, a¿ do chwili odes³ania do swej macierzystej sfery, zakoñczenia dzia³ania czaru, lub swojej œmierci. Jednak za ka¿dym razem, gdy to zaklêcie jest rzucane istnieje 15% szans na to, ¿e portal otwarty przez rzucaj¹cego zapadnie siê zanim ¿ywio³ak przejdzie na pierwszy plan materialny.
+
+Pomniejszy ¿ywio³ak ziemi (8 kostek):
+SI£A 19, ZRÊCZNOŒÆ 8, KONDYCJA 18, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 96, KP 4, TraKo 8, Rzuty obronne 10/12/11/11/13
+2 ataki na rundê, 2k6+9 obra¿eñ obuchowych (Piêœæ +2)
+
+Zdolnoœci specjalne:
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na efekty unieruchomienia, trucizny, polimorfii, uœpienia i og³uszenia
+Odpornoœæ na obra¿enia ciête, k³ute i od pocisków 40%~
+
+@3651=~Pomniejszy ¿ywio³ak ziemi~
+
+@653    = ~Odbicie czaru~
+@654    = ~Odbicie czaru
+Poziom: 5
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 5
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie sprawia, ¿e wszelkie czary rzucone na czarodzieja zostaj¹ poch³oniête i zniweczone. Ochrona obejmuje ³¹cznie 9 poziomów czarów, przy czym nawet jeœli pozosta³ tylko 1 poziom ochrony, poch³oniêty zostanie zarówno czar 1. poziomu, jak i 7. poziomu. Czary powy¿ej 7. poziomu nie s¹ poch³aniane. Zaklêcie to nie chroni rzucaj¹cego przed Rozproszeniem magii, ale te¿ nie jest przez nie usuwane.
+
+Zaklêcie to poch³ania czary rzucone ze zwojów i wrodzonych zdolnoœci podobnych do zaklêæ, ale nie chroni przed czarami obszarowymi, których centrum nie znajduje siê bezpoœrednio na magu (jak Ognista kula), ani przed nieruchomymi czarami obszarowymi (jak Zabójcza chmura i Œmierdz¹ca chmura).~
+
+@655    = ~Ogieñ s³oñce~
+@656    = ~Ogieñ s³oñce
+Poziom: 5
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: w promieniu 15 stóp
+Rzut obronny: zioniêcia 1/2
+
+Zaklêcie Ogieñ sloñce tworzy wybuchow¹ kulê ognia, eksploduj¹c¹ z niskim rykiem, zadaj¹c¹ obra¿enia proporcjonalnie do poziomu rzucaj¹cego czar, podobnie jak Ognista kula. Czarodziej wykonuje gest rêk¹ i wszystko wokó³ niego wybucha p³omieniami i rani wszystkich oprócz niego, zadaj¹c 1k6 obra¿eñ na poziom (maksymalnie 15k6). Stworzenia, które wykonaj¹ udany rzut obronny przeciw zioniêciom z modyfikatorem -4 otrzymaj¹ po³owê obra¿eñ. ~
+
+
+/*------------------level 6------------------*/
+
+@661    = ~Niewidzialny myœliwy~
+@662    = ~Niewidzialny myœliwy
+Poziom: 6
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 8 godzin
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Zaklêcie to przyzywa niewidzialnego myœliwego ze Sfery ¯ywio³u Powietrza. Ten stwór o 8 Kostkach s³ucha i s³u¿y magowi przy wykonywaniu wszelakich prac - nawet jeœli oznaczaj¹ one pewn¹ œmieræ. Istota pozostaje pod kontrol¹ rzucaj¹cego przez 8 godzin lub do chwili œmierci, w którym to przypadku powraca do swojej ojczystej sfery, lekko zdenerwowana faktem, ¿e musia³a s³u¿yæ œmiertelnikowi.
+
+Niewidzialny myœliwy (8 kostek):
+SI£A 18, ZRÊCZNOŒÆ 19, KONDYCJA 14, INTELIGENCJA 11, M¥DROŒÆ 14, CHARYZMA 11, Neutralny
+P¯ 64, KP -2, TraKo 7, Rzuty obronne 10/12/11/12/13
+2 ataki na rundê, 2k6+4 obra¿eñ obuchowych (Piêœæ +2)
+
+Zdolnoœci bojowe:
+Zdradziecki atak: mo¿e zadaæ cios w plecy ze wspó³czynnikiem x2
+
+Zdolnoœci specjalne:
+Krycie siê w cieniu: 120%
+Naturalna niewidzialnoœæ: stale niewidzialny, jak pod wp³ywem ulepszonej niewidzialnoœci
+Odpornoœæ na efekty zauroczenia, zamêtu, unieruchomienia, trucizny, uœpienia i og³uszenia
+Odpornoœæ na obra¿enia ciête, obuchowe i k³ute 20%; od pocisków 60%~
+
+@663    = ~Klosz niewra¿liwoœci~
+@664    = ~Klosz niewra¿liwoœci
+Poziom: 6
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 tury
+Czas rzucania: 6
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Czar ten tworzy wokó³ rzucaj¹cego nieruchom¹, lekko migocz¹c¹ magiczn¹ kulê, przez któr¹ nie przenikaj¹ efekty czarów pierwszego, drugiego, trzeciego i czwartego poziomu (tzn. obszar dzia³ania takich czarów nie obejmuje obszaru klosza niewra¿liwoœci). Dotyczy to tak¿e zdolnoœci wrodzonych i efektów dzia³ania przedmiotów. Z wnêtrza kuli mo¿na jednak rzucaæ czary dowolnego rodzaju, które przechodz¹ od rzucaj¹cego do celu bez wp³ywu na klosz. Klosz nie chroni przed czarami pi¹tego i wy¿szych poziomów. Mo¿e zostaæ zniszczony udanym Rozproszeniem magii, jak równie¿ innymi formami magicznych ataków, takimi jak Przeszywaj¹ca magia i Uderzenie czaru.~
+
+@665    = ~Przemiana Tensera~
+@666    = ~Przemiana Tensera
+Poziom: 6
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 6
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Przemiana Tensera to widok, który z pewnoœci¹ zadziwi ka¿dego, kto nie zna jej mocy. Po rzuceniu tego czaru mag przechodzi bowiem zdumiewaj¹c¹ przemianê, która zmienia jego cia³o i umys³ w cia³o i umys³ wojownika. Czarodziej zyskuje 2 punkty ¿ycia na poziom (maksymalnie 40), a wszelkie otrzymywane obra¿enia s¹ najpierw odejmowane od magicznie uzyskanych punktów. Klasa Pancerza rzucaj¹cego polepsza siê o 4 wzglêdem tej, któr¹ mia³ przed rzuceniem czaru, a wszystkie rzuty na trafienie wykonuje on z TraKo wojownika tego samego poziomu. Mag zyskuje dodatkowe ataki jak wojownik tego samego poziomu, czyli dodatkowe pó³ ataku na rundê na 7. poziomie i kolejne pó³ ataku na rundê na 13. poziomie. Ponadto ka¿dy atak wykonywany jest z premi¹ +2, ka¿de udane trafienie zadaje dodatkowe 2 punkty obra¿eñ, a rzuty obronne przeciw œmierci/truciznom wykonywane s¹ z premi¹ +4, jednak szybkoœæ rzucania czarów pogarsza siê o 2, a rzuty obronne przeciw czarom wykonywane s¹ z kar¹ -2.
+
+Uwaga: to zaklêcie nie daje ¿adnych dodatkowych ataków wieloklasowym ani dual-klasowym wojownikom/magom, poniewa¿ normalnie otrzymuj¹ oni dodatkowe ataki na rundê dziêki poziomom wojownika.~
+
+@667    = ~Zamiana cia³a w kamieñ~
+@668    = ~Zamiana cia³a w kamieñ
+Poziom: 6
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Zamiana cia³a w kamieñ to potê¿na magia, która na sta³e zamienia cia³o ofiary w kamieñ. Trafiony tym czarem cel zostaje spowolniony na 3 rundy, gdy jego cia³o zaczyna twardnieæ. W nastêpnej rundzie ofiara musi wykonaæ rzut obronny przeciw petryfikacji z modyfikatorem -4 albo zamieni siê w pos¹g. Rozproszenie magii nie przywróci ofierze naturalnej formy, ale mog¹ to zrobiæ niektóre potê¿ne czary, takie jak Zamiana kamienia w cia³o czy Uwolnienie. Czar nie dzia³a na nieumar³ych, konstrukty ani istoty bezcielesne.~
+
+@6670=~Skutki petryfikacji odwrócone~
+
+@669    = ~Wygnanie~
+@670    = ~Wygnanie
+Poziom: 6
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 6
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+To zaklêcie odsy³a wrogie przyzwane istoty znajduj¹ce siê w obszarze dzia³ania z powrotem na ich w³aœciwy plan. Odpornoœæ na magiê nie ma wp³ywu na to zaklêcie.~
+
+@671    = ~Ochrona przed magiczn¹ energi¹~
+@672    = ~Ochrona przed magiczn¹ energi¹
+Poziom: 6
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/poziom
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Rzucenie tego czaru daje odpornoœæ na wszelkie ataki oparte na magii. 100% obra¿eñ zostanie zaabsorobowanych, ponadto istota bêdzie ca³kowicie odporna na efekty takich czarów jak Magiczne pociski, Eksploduj¹ca czaszka, Dezintegracja czy Plugawy uwi¹d Abi Dhalzima. Ochrona dzia³a przez czas dzia³ania czaru lub do chwili gdy zostanie rozproszona. ~
+
+@673    = ~Zwodniczy sobowtór~
+@674    = ~Zwodniczy sobowtór
+Poziom: 6
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia na czarodzieja zaczyna dzia³aæ Ulepszona niewidzialnoœæ, a on sam zostaje teleportowany kilka stóp od miejsca, w którym sta³. W tym samym momencie w jego dawnym miejscu powstaje dok³adny obraz czarodzieja, maj¹cy dok³adnie tyle samo punktów ¿ycia co on. Iluzoryczny sobowtór znika po 6 rundach i nie mo¿e wykonywaæ ¿adnych czynnoœci, takich jak atakowanie czy rzucanie czarów. Mo¿e jednak siê przemieszczaæ i s³u¿yæ jako przynêta odci¹gaj¹ca uwagê od niewidzialnego maga. Dopóki obraz nie zostanie zniszczony, czarodziej mo¿e atakowaæ i rzucaæ czary, pozostaj¹c ca³kowicie ukrytym. Obraz pozostaje pod kontrol¹ czarodzieja, dopóki nie straci wszystkich punktów ¿ycia albo nie zostanie poddany dzia³aniu Rozproszenia magii lub czaru niszcz¹cego iluzje.~
+
+@675    = ~Przeszywaj¹ca magia~
+@676    = ~Przeszywaj¹ca magia
+Poziom: 6
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Gdy zaklêcie to zostanie rzucone na istotê, wywo³uje dwa g³ówne efekty. Po pierwsze, rozprasza z niej jeden czar ochronny 8. poziomu lub ni¿szego. Zawsze w pierwszej kolejnoœci rozprasza czar ochronny o najwy¿szym poziomie; jeœli cel posiada dwa lub wiêcej czarów ochronnych o tym samym najwy¿szym poziomie, rozpraszany czar wybierany jest losowo. Po drugie, odpornoœæ istoty na magiê zostaje tymczasowo zniesiona. Odpornoœæ pozostaje obni¿ona przez 2 rundy i tego efektu nie mo¿na w ¿aden sposób zneutralizowaæ. Odpornoœæ celu na magiê, jeœli j¹ posiada, nie ma wp³ywu na to zaklêcie.
+
+Zaklêcia ochronne rozpraszane przez czar Przeszywaj¹ca magia to: Mniejsze odbicie czaru, Niewykrywalnoœæ, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary, Tarcza przeciw czarom, Klosz niewra¿liwoœci, Wiêksze odbicie czaru i Tarcza Archonów.~
+
+@677    = ~Prawdziwe widzenie~
+@678    = ~Prawdziwe widzenie
+Poziom: 6
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej zyskuje zdolnoœæ dostrzegania dok³adnego po³o¿enia istot i przedmiotów pod wp³ywem efektów przemieszczenia lub niewidzialnoœci, a tak¿e widzenia przez iluzje. W praktyce neutralizuje to czary takie jak Rozmycie i Lustrzane obrazy, pozwala rzucaj¹cemu normalnie widzieæ niewidzialne istoty i obieraæ je za cel, a tak¿e czyni go niewra¿liwym na wrogie czary iluzji, takie jak Przera¿enie. Rzucaj¹cy zostaje równie¿ wyleczony z wszelkich form œlepoty i jest na ni¹ odporny przez czas dzia³ania czaru.
+
+Uwaga: Prawdziwe widzenie nie rozprasza iluzorycznych klonów, takich jak te stworzone przez Zwodniczego sobowtóra lub Mamid³o, lecz wyraŸnie je wyró¿nia, ujawniaj¹c je jako z³udzenia.~
+
+@679    = ~Ochrona przed magicznymi broniami~
+@680    = ~Ochrona przed magicznymi broniami
+Poziom: 6
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 4 rundy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Zaklêcie to tworzy wokó³ czarodzieja nieruchom¹, lekko po³yskuj¹c¹ magiczn¹ sferê, której nie mo¿e przebiæ ¿adna magiczna broñ; wszelka taka broñ zostaje nieszkodliwie odbita (pociski uderzaj¹ w sferê i natychmiast spadaj¹ na ziemiê). Dotyczy to tak¿e broni pob³ogos³awionej lub zaklêtej, jak równie¿ ataków szczególnie potê¿nych potworów. Z powodu krótkiego czasu rzucania i dzia³ania tego czaru u¿ywa siê go g³ównie po to, by zapewniæ czarodziejowi kilka rund wytchnienia w samym œrodku walki. Ochrona utrzymuje siê przez czas dzia³ania czaru lub do chwili jego rozproszenia.~
+
+@681    = ~S³owo mocy: cisza~
+@682    = ~S³owo mocy: cisza
+Poziom: 6
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Korzystaj¹c z tego czaru czarodziej wskazuje na istotê i wypowiada s³owo mocy. Przez najbli¿sz¹ turê ofiara nie jest w stanie wydaæ ¿adnego dŸwiêku. Cisza udaremnia wszelkie czary, które wymagaj¹ u¿ycia s³ów. Jedyny sposób aby przerwaæ ten czar to u¿ycie Rozproszenia magii lub Ug³osowienia. Nie ma rzutu obronnego. ~
+
+@683    = ~Ulepszone przyspieszenie ruchów~
+@684    = ~Ulepszone przyspieszenie ruchów
+Poziom: 6
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 6
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Po rzuceniu tego czaru ka¿da istota znajduj¹ca siê pod jego wp³ywem porusza siê z podwójn¹ szybkoœci¹, zyskuje premiê +2 do rzutów na atak, Klasy Pancerza i rzutów obronnych przeciw zioniêciom, a tak¿e mo¿e wykonaæ jeden dodatkowy atak w ka¿dej rundzie. Czar nie wp³ywa na rzucanie czarów ani na dzia³anie zaklêæ. Miêdzy trzeciopoziomowym czarem Przyspieszenie a tym czarem istniej¹ dwie zasadnicze ró¿nice. Po pierwsze, po wygaœniêciu tego czaru nie nastêpuje okres zmêczenia. Po drugie, Ulepszonego przyspieszenia ruchów nie mo¿na zneutralizowaæ Spowolnieniem.~
+
+@685    = ~Kwasowa mg³a~
+@686    = ~Kwasowa mg³a
+Poziom: 6
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 6
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Zaklêcie to tworzy gêst¹, przywieraj¹c¹, zielonkaw¹ chmurê. Wszystkie istoty, który nie s¹ odporne na kwas otrzymuj¹ 10 obra¿eñ na rundê jeœli s¹ wystawione na dzia³anie oparów Kwasowej mg³y. Ponadto, ze wzglêdu na ograniczenie widocznoœci, stworzenia wewn¹trz chmury maj¹ obni¿on¹ prêdkoœæ poruszania siê do 50%.~
+
+@687    = ~Wy³adowanie ³añcuchowe~
+@688    = ~Wy³adowanie ³añcuchowe
+Poziom: 6
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 6
+Obszar dzia³ania: cel i przeciwnicy w promieniu 30 stóp
+Rzut obronny: zioniêcia 1/2
+
+Zaklêcie to tworzy wy³adowanie elektryczne, wystrzeliwuj¹ce z palców czarodzieja. W przeciwieñstwie do B³yskawicy i Wezwania b³yskawic pocz¹tkowo uderza w jedno stworzenie, nastêpnie rozchodzi siê do innych celów. £uki elektryczne rozchodz¹ siê do wszystkich wrogów na obszarze dzia³ania czaru, zadaj¹c obra¿enia od elektrycznoœci. Zaklêcie zadaje pierwszemu celowi 1k6 obra¿eñ na poziom czarodzieja (maksymalnie 20k6) oraz 1k6 obra¿eñ na dwa poziomy pozosta³ym celom (maksymalnie 10k6). Udany rzut obronny przeciw zioniêciom z modyfikatorem -4 powoduje otrzymanie po³owy obra¿eñ.~
+
+@689    = ~Dezintegracja~
+@690    = ~Dezintegracja
+Poziom: 6
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: zioniêcia, czêœciowy
+
+Po rzuceniu tego czaru na inn¹ istotê z palca czarodzieja wystrzeliwuje w¹ski, zielony promieñ, który bezb³êdnie trafia w cel. Przy zetkniêciu z nim istota musi wykonaæ rzut obronny przeciw zioniêciom z modyfikatorem -2 albo otrzyma 2k6 obra¿eñ od magii na poziom czarodzieja (maksymalnie 40k6). Istota, której rzut obronny siê powiedzie, podlega czêœciowemu dzia³aniu czaru i otrzymuje tylko 5k6 obra¿eñ. Promieñ dzia³a nawet na obiekty utworzone wy³¹cznie z energii, takie jak Miecz Mordenkainena, który po trafieniu zostaje automatycznie zniszczony. Zaklêcie to nie ma wp³ywu na ubrania ani sprzêt noszony przez cel.~
+
+@691    = ~Warunkowanie~
+@692    = ~Warunkowanie
+Poziom: 6
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia czarodziej mo¿e wybraæ ze swojego repertuaru jakiœ czar. Zaklêcie mo¿e byæ z poziomu ni¿szego lub równego poziomowi czarodzieja podzielonemu przez 3. Po dokonaniu wyboru, czarodziej okreœla warunki z za³¹czonej listy. Te warunki to na przyk³ad: zmniejszenie liczby w³asnych Punktów ¯ycia do 10%, czy zauwa¿enie przeciwnika. Po wype³nieniu wybranego warunku czar ten zostanie automatycznie rzucony. Na przyk³ad, 12 poziomowy mag mo¿e umieœciæ w Warunkowaniu Kamienn¹ skórê z za³o¿eniem uaktywnienia w chwili, gdy iloœæ jego punktów ¿ycia spadnie do 50% lub poni¿ej. Jeœli warunek ten bêdzie spe³niony, na maga natychmiast zostaje rzucone zaklêcie Kamienna skóra. Czarodziej nie musi nic robiæ, dokonuje siê to automatycznie. Istnieje jedno ograniczenie - celem zaklêcia poddanego uwarunkowaniu musi byæ sam czarodziej. Dlatego nie mo¿na zastosowaæ w ten sposób czaru ofensywnego ani chroni¹cego innych cz³onków dru¿yny. ~
+
+@693    = ~Odbicie czaru~
+@694    = ~Odbicie czaru
+Poziom: 6
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 5
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie z dziedziny odrzucania sprawia, ¿e wszelkie czary rzucone na czarodzieja zostaj¹ poch³oniête i zniweczone. Ochrona obejmuje ³¹cznie 9 poziomów czarów, przy czym nawet jeœli pozosta³ tylko 1 poziom ochrony, poch³oniêty zostanie zarówno czar 1. poziomu, jak i 7. poziomu. Czary powy¿ej 7. poziomu nie s¹ poch³aniane. Zaklêcie to nie chroni rzucaj¹cego przed Rozproszeniem magii, ale te¿ nie jest przez nie usuwane.
+
+Zaklêcie to poch³ania czary rzucone ze zwojów i wrodzonych zdolnoœci podobnych do zaklêæ, ale nie chroni przed czarami obszarowymi, których centrum nie znajduje siê bezpoœrednio na magu (jak Ognista kula), ani przed nieruchomymi czarami obszarowymi (jak Zabójcza chmura i Œmierdz¹ca chmura).~
+
+@695    = ~Przywo³anie potwora VI~
+@696    = ~Przywo³anie potwora VI
+Poziom: 6
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa okreœlon¹ iloœæ potworów, które bezwzglêdnie mu s³u¿¹. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿y od poziomu rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+Poziom 11: 2 m³ode wiwerny
+Poziom 15+: 2 m³ode wiwerny, 1 wiwerna
+
+M³oda wiwerna (6 kostek):
+SI£A 17, ZRÊCZNOŒÆ 12, KONDYCJA 15, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 9, Neutralny z³y
+P¯ 78, KP 3, TraKo 12, Rzuty obronne 11/15/11/13/15
+4 ataki na rundê, 2k6+3 obra¿eñ k³utych (Ugryzienie, pazury i ¿¹d³o +1)
+
+Wiwerna (7 kostek):
+SI£A 19, ZRÊCZNOŒÆ 12, KONDYCJA 15, INTELIGENCJA 6, M¥DROŒÆ 12, CHARYZMA 9, Neutralny z³y
+P¯ 91, KP 2, TraKo 8, Rzuty obronne 10/14/10/12/14
+4 ataki na rundê, 2k6+9 obra¿eñ k³utych (Ugryzienie, pazury i ¿¹d³o +2)
+
+Zdolnoœci bojowe:
+Trucizna: ¿¹d³o wiwerny wstrzykuje truciznê, która zadaje 2 P¯/sek. przez 1 turê (rzut obronny przeciw truciznom z modyfikatorem -4 neguje)
+
+Zdolnoœci specjalne:
+Odpornoœæ na efekty opl¹tania, œliskoœci, unieruchomienia, uœpienia, spowolnienia, og³uszenia i pajêczyny~
+
+@697    = ~Sprowadzenie ¿ywio³aka ognia~
+@698    = ~Sprowadzenie ¿ywio³aka ognia
+Poziom: 6
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu zaklêcia Sprowadzenie ¿ywio³aka ognia, czarodziej otwiera specjalny portal do planu ¿ywio³u ognia, przez który ¿ywio³ak ognia jest wzywany. Normalnie zostaje przywo³any ¿ywio³ak o 12 kostkach, jednak od poziomu 15 czarodziej bêdzie wzywa³ ¿ywio³aka o 16 kostkach. ¯ywio³ak bêdzie spe³nia³ ka¿d¹ zachciankê osoby rzucaj¹cej zaklêcie, a¿ do chwili odes³ania do swej macierzystej sfery, zakoñczenia dzia³ania czaru, lub swojej œmierci. Wszystkie polecenie wydawane s¹ telepatycznie, wiêc nie ma tu miejsca na nieporozumienia. Znajomoœæ jêzyka wezwanego stworzenia nie jest konieczna. Utrzymanie portalu do innego planu jest szczególnie trudne w zwi¹zku z czym, gdy to zaklêcie jest rzucane istnieje 15% szans na to, ¿e portal otwarty przez rzucaj¹cego zapadnie siê zanim ¿ywio³ak przejdzie na pierwszy plan materialny.
+
+¯ywio³ak ognia (12 kostek):
+SI£A 16, ZRÊCZNOŒÆ 17, KONDYCJA 17, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 116, KP 1, TraKo 7, Rzuty obronne 7/9/8/8/10
+2 ataki na rundê, 2k6+4 obra¿eñ ciêtych + 2k6 obra¿eñ od ognia (Piêœæ +3)
+
+Wiêkszy ¿ywio³ak ognia (16 kostek):
+SI£A 18, ZRÊCZNOŒÆ 19, KONDYCJA 18, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 138, KP 0, TraKo 3, Rzuty obronne 4/6/5/4/7
+2 ataki na rundê, 2k8+5 obra¿eñ ciêtych + 2k8 obra¿eñ od ognia (Piêœæ +3)
+
+Zdolnoœci specjalne (12 i 16 kostek):
+Odpornoœæ przed zwyk³ymi broniami
+Odpornoœæ na efekty unieruchomienia, trucizny, polimorfii, uœpienia i og³uszenia
+Odpornoœæ na ogieñ 100%
+Odpornoœæ na obra¿enia ciête, obuchowe, k³ute i od pocisków 20%~
+
+@3697=~¯ywio³ak ognia~
+@3698=~Wiêkszy ¿ywio³ak ognia~
+
+@699    = ~Sprowadzenie ¿ywio³aka powietrza~
+@700    = ~Sprowadzenie ¿ywio³aka powietrza
+Poziom: 6
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu zaklêcia Sprowadzenie ¿ywio³aka powietrza, czarodziej otwiera specjalny portal do planu ¿ywio³u powietrza, przez który ¿ywio³ak powietrza jest wzywany. Normalnie zostaje przywo³any ¿ywio³ak o 12 kostkach, jednak od poziomu 15 czarodziej bêdzie wzywa³ ¿ywio³aka o 16 kostkach. ¯ywio³ak bêdzie spe³nia³ ka¿d¹ zachciankê osoby rzucaj¹cej zaklêcie, a¿ do chwili odes³ania do swej macierzystej sfery, zakoñczenia dzia³ania czaru, lub swojej œmierci. Wszystkie polecenie wydawane s¹ telepatycznie, wiêc nie ma tu miejsca na nieporozumienia. Znajomoœæ jêzyka wezwanego stworzenia nie jest konieczna. Utrzymanie portalu do innego planu jest szczególnie trudne w zwi¹zku z czym, gdy to zaklêcie jest rzucane istnieje 15% szans na to, ¿e portal otwarty przez rzucaj¹cego zapadnie siê zanim ¿ywio³ak przejdzie na pierwszy plan materialny.
+
+¯ywio³ak powietrza (12 kostek):
+SI£A 16, ZRÊCZNOŒÆ 19, KONDYCJA 17, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 116, KP 0, TraKo 5, Rzuty obronne 7/9/8/8/10
+3 ataki na rundê, 1k8+4 obra¿eñ k³utych (Piêœæ +3)
+
+Wiêkszy ¿ywio³ak powietrza (16 kostek):
+SI£A 18, ZRÊCZNOŒÆ 21, KONDYCJA 18, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 138, KP -1, TraKo 1, Rzuty obronne 4/6/5/4/7
+3 ataki na rundê, 1k10+5 obra¿eñ k³utych (Piêœæ +3)
+
+Zdolnoœci specjalne (12 i 16 kostek):
+Odpornoœæ przed zwyk³ymi broniami
+Odpornoœæ na efekty unieruchomienia, trucizny, polimorfii, uœpienia i og³uszenia
+Odpornoœæ na obra¿enia ciête, obuchowe i k³ute 20%; od pocisków 60%~
+
+@3699=~¯ywio³ak powietrza~
+@3700=~Wiêkszy ¿ywio³ak powietrza~
+
+@701    = ~Sprowadzenie ¿ywio³aka ziemi~
+@702    = ~Sprowadzenie ¿ywio³aka ziemi
+Poziom: 6
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu zaklêcia Sprowadzenie ¿ywio³aka ziemi, czarodziej otwiera specjalny portal do planu ¿ywio³u ziemi, przez który ¿ywio³ak ziemi jest wzywany. Normalnie zostaje przywo³any ¿ywio³ak o 12 kostkach, jednak od poziomu 15 czarodziej bêdzie wzywa³ ¿ywio³aka o 16 kostkach. ¯ywio³ak bêdzie spe³nia³ ka¿d¹ zachciankê osoby rzucaj¹cej zaklêcie, a¿ do chwili odes³ania do swej macierzystej sfery, zakoñczenia dzia³ania czaru, lub swojej œmierci. Wszystkie polecenie wydawane s¹ telepatycznie, wiêc nie ma tu miejsca na nieporozumienia. Znajomoœæ jêzyka wezwanego stworzenia nie jest konieczna. Utrzymanie portalu do innego planu jest szczególnie trudne w zwi¹zku z czym, gdy to zaklêcie jest rzucane istnieje 15% szans na to, ¿e portal otwarty przez rzucaj¹cego zapadnie siê zanim ¿ywio³ak przejdzie na pierwszy plan materialny.
+
+¯ywio³ak ziemi (12 kostek):
+SI£A 21, ZRÊCZNOŒÆ 8, KONDYCJA 19, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 126, KP 3, TraKo 4, Rzuty obronne 7/9/8/8/10
+2 ataki na rundê, 2k8+12 obra¿eñ obuchowych (Piêœæ +3)
+
+Wiêkszy ¿ywio³ak ziemi (16 kostek):
+SI£A 23, ZRÊCZNOŒÆ 8, KONDYCJA 21, INTELIGENCJA 6, M¥DROŒÆ 11, CHARYZMA 11, Neutralny
+P¯ 152, KP 2, TraKo 0, Rzuty obronne 4/6/5/4/7
+2 ataki na rundê, 2k10+14 obra¿eñ obuchowych (Piêœæ +3)
+
+Zdolnoœci specjalne (12 i 16 kostek):
+Odpornoœæ przed zwyk³ymi broniami
+Odpornoœæ na efekty unieruchomienia, trucizny, polimorfii, uœpienia i og³uszenia
+Odpornoœæ na obra¿enia ciête, k³ute i od pocisków 40%~
+
+@3701=~¯ywio³ak ziemi~
+@3702=~Wiêkszy ¿ywio³ak ziemi~
+
+@703    = ~O¿ywienie szkieleta wojownika~
+@704    = ~O¿ywienie szkieleta wojownika
+Poziom: 6
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 8 godzin
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+To zaklêcie o¿ywia zw³oki wprawnego wojownika, który powstaje i s³u¿y rzucaj¹cemu. Ten potê¿ny nieumar³y pozostanie pod kontrol¹ rzucaj¹cego, dopóki nie zostanie zniszczony lub nie wygaœnie czas dzia³ania zaklêcia.
+
+Szkielet wojownik (9 kostek):
+SI£A 18/51, ZRÊCZNOŒÆ 14, KONDYCJA -, INTELIGENCJA 15, M¥DROŒÆ 14, CHARYZMA 12, Neutralny z³y
+P¯ 108, KP 2, TraKo 11, Rzuty obronne 5/7/6/5/8
+2 ataki na rundê, 2k6+4 obra¿eñ ciêtych (Miecz dwurêczny +1)
+
+Zdolnoœci specjalne:
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na efekty zauroczenia, zamêtu, unieruchomienia, trucizny, uœpienia, og³uszenia oraz œmierci
+Odpornoœæ na zimno 100%; odpornoœæ na magiê 90%
+Odpornoœæ na obra¿enia ciête i k³ute 40%; od pocisków 60%~
+
+@705    = ~Przywo³anie Nishruu~
+@706    = ~Przywo³anie Nishruu
+Poziom: 7
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej przywo³uje potê¿n¹ magiczn¹ istotê zwan¹ Nishruu. Na pierwszy rzut oka przypomina ona mg³ê, ale bli¿sze oglêdziny pokazuj¹, ¿e to czerwony ob³ok pulsuj¹cy w³asnym ¿yciem. Nishruu przyci¹ga magia otaczaj¹ca czarodziejów jak p³omieñ œwiecy przyci¹ga æmy. Na szczêœcie istota jest pos³uszna rzucaj¹cemu czar i nie zaatakuje go, choæ na pewno chcia³aby to zrobiæ. Nishruu nie atakuje fizycznie, chocia¿ j¹ sam¹ mo¿e zraniæ fizyczny atak. Za ka¿dym razem gdy Nishruu dotyka czarodzieja wysysa magiczn¹ energiê z niego. Za wyj¹tkiem czarów Wygnanie i Rozproszenie magii nishruu s¹ ca³kowicie odporne na magiê, a nawet czary lecz¹ te istoty. Istota pozostanie pod kontrol¹ czarodzieja dopóki nie straci wszystkich punktów ¿ycia lub minie czas dzia³ania czaru.
+
+Nishruu (9 kostek):
+SI£A -, ZRÊCZNOŒÆ 10, KONDYCJA 16, INTELIGENCJA 13, M¥DROŒÆ 15, CHARYZMA 13, Chaotyczny neutralny
+P¯ 90, KP 10, TraKo 7, Rzuty obronne 8/8/8/8/8
+1 atak na rundê, wyssanie magii (Dotyk +3)
+
+Zdolnoœci bojowe:
+Wyssanie magii:
+- czarodziej traci jeden zapamiêtany czar, losowo wybrany spoœród czarów o najwy¿szym poziomie
+- ka¿da dotkniêta istota musi wykonaæ rzut obronny przeciw czarom albo zostanie og³upiona na 3 rundy
+
+Zdolnoœci specjalne:
+Absorpcja magii: odpornoœæ na magiê, ka¿dy czar rzucony na Nishruu przywraca mu 1k8+1 P¯
+Odpornoœæ na obra¿enia fizyczne 50%~
+
+@3705=~Nishruu~
+
+@707    = ~Zamiana kamienia w cia³o~
+@708    = ~Zamiana kamienia w cia³o
+Poziom: 6
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: sta³y
+Czas rzucania: 6
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+To zaklêcie jest przeciwieñstwem Zamiany cia³a w kamieñ i przywraca do normalnej postaci ka¿d¹ istotê zamienion¹ w kamieñ. Wszystkie przedmioty posiadane przez istotê równie¿ powracaj¹ do normalnego stanu. Efekt jest natychmiastowy i nie wymaga rzutu obronnego ani testu wstrz¹su organizmu.~
+
+
+/*------------------level 7------------------*/
+
+@721    = ~Wiêksze odbicie czaru~
+@722    = ~Wiêksze odbicie czaru
+Poziom: 7
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 7
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie sprawia, ¿e wszelkie czary rzucone na czarodzieja zostaj¹ poch³oniête i zniweczone. Ochrona obejmuje ³¹cznie 12 poziomów czarów, przy czym nawet jeœli pozosta³ tylko 1 poziom ochrony, poch³oniêty zostanie zarówno czar 1. poziomu, jak i 9. poziomu. Zaklêcie to nie chroni rzucaj¹cego przed Rozproszeniem magii, ale te¿ nie jest przez nie usuwane.
+
+Zaklêcie to poch³ania czary rzucone ze zwojów i wrodzonych zdolnoœci podobnych do zaklêæ, ale nie chroni przed czarami obszarowymi, których centrum nie znajduje siê bezpoœrednio na magu (jak Ognista kula), ani przed nieruchomymi czarami obszarowymi (jak Zabójcza chmura i Œmierdz¹ca chmura).~
+
+@723    = ~Ochrona przed ¿ywio³ami~
+@724    = ~Ochrona przed ¿ywio³ami
+Poziom: 7
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/2 poziomy
+Czas rzucania: 7
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy zaklêcie zostaje rzucone, daje pe³n¹ ochronê przed wszystkimi atakami opartymi na kwasie, zimnie, elektrycznoœci oraz ogniu, czy to magicznego czy niemagicznego pochodzenia. 100% obra¿eñ od ¿ywio³ów z ataków broni¹, ró¿d¿kami itd. zostanie poch³oniêtych a istota zostaje ca³kowicie odporna na dzia³anie czarów ¿ywio³ów. Efekt utrzymuje siê przez czas dzia³ania czaru lub do rozproszenia. ~
+
+@725    = ~Projekcja duplikatu~
+@726    = ~Projekcja duplikatu
+Poziom: 7
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego czaru, z cia³a czarodzieja wychodzi jego iluzoryczna kopia, mag w tym czasie staje siê niewidzialny. Mo¿e siê ona poruszaæ, ma tyle samo punktów ¿ycia co czarodziej i mo¿e rzucaæ takie same jak on zaklêcia. Nie mo¿e jednak atakowaæ fizycznie. Czarodziej kontroluj¹c duplikat musi w tym czasie utrzymaæ koncentracjê, w zwi¹zku z czym nie mo¿e podejmowaæ ¿adnych innych dzia³añ. Kiedy iluzja zostanie zniszczona, czar koñczy siê, a czarodziej mo¿e ponownie sam siê poruszaæ. Ponadto czar zniknie, jeœli mag zostanie zraniony w trakcie jego dzia³ania. W innym wypadku kopia bêdzie istnieæ dopóki nie minie czas dzia³ania czaru, lub nie zostanie poddana rozproszeniu magii lub innemu zaklêciu, które niszczy iluzje, jak na przyk³ad Prawdziwe widzenie. ~
+
+@727    = ~Rubinowy promieñ odwrócenia~
+@728    = ~Rubinowy promieñ odwrócenia
+Poziom: 7
+Szko³a: Przemiany
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Z chwil¹, kiedy czar ten zaczyna oddzia³ywaæ, likwiduje on dzia³anie jednego zaklêcia ochronnego u wszystkich przeciwników na obszarze swojego dzia³ania. Zawsze najpierw rozprasza czar ochronny o najwy¿szym poziomie. Jeœli cel jest pod wp³ywem dwóch lub wiêcej czarów o takim samym najwy¿szym poziomie, rozpraszany czar wybierany jest losowo. Odpornoœæ celu na magiê, jeœli nawet istnieje, nie ma znaczenia w przypadku tego zaklêcia.
+
+Czary ochronne rozpraszane przez Rubinowy promieñ odwrócenia to: Mniejsze odbicie czaru, Niewykrywalnoœæ, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary, Klosz niewra¿liwoœci, Wiêksze odbicie czaru, Tarcza Archonów oraz Pu³apka na czary.~
+
+@729    = ~Bicz ochronny Khelbena~
+@730    = ~Bicz ochronny Khelbena
+Poziom: 7
+Szko³a: Wywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 rundy
+Czas rzucania: 7
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+W chwili rzucenia tego czaru ofiara traci jedno zaklêcie ochronne do 8 poziomu w³¹cznie. W ka¿dej kolejnej rundzie dzia³ania czaru rozproszeniu ulega kolejne zaklêcie. Czar ten rozprasza zawsze zaklêcie ochronne najwy¿szego poziomu. Jeœli ofiarê chroni¹ dwa czary tego samego poziomu, to jeden z nich zostanie wybrany losowo. W przypadku tego czaru, odpornoœæ celu na magiê nie liczy siê.
+
+Czary ochronne rozpraszane przez Bicz ochronny Khelbena to: Mniejsze odbicie czaru, Niewykrywalnoœæ, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary, Klosz niewra¿liwoœci, Wiêksze odbicie czaru oraz Tarcza Archonów.~
+
+@731    = ~Przyzwanie rycerza œmierci~
+@732    = ~Przyzwanie rycerza œmierci
+Poziom: 7
+Szko³a: Nekromancja
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Za pomoc¹ tego zaklêcia czarodziej wzywa z zewnêtrznych planów stworzenie, które atakuje wrogów i jego jeœli nie bêdzie ostro¿ny. Przyzwanym stworzeniem jest rycerz œmierci, potê¿ny nieumar³y demon. Stworzenie nie mo¿e byæ kontrolowane, jednak czarodziej mo¿e próbowaæ zmusiæ demona do s³u¿enia mu przez czas trwania zaklêcia. Charyzmatyczny i potê¿ny czarodziej mo¿e zwi¹zaæ wolê istoty i negocjowaæ z nim, ale zawsze jest to bardzo niebezpieczne i mo¿e czasem doprowadziæ do katastrofy. Magowie s¹ ostrzegani aby uwa¿aæ na to zaklêcie, gdy¿ zwi¹zany demon, mo¿e wykorzystaæ pierwsz¹ nadarzaj¹c¹ siê okazjê do uwolnienia siê i zemsty na magu, który próbowa³ nad nim zaw³adn¹æ. 
+
+Rycerz œmierci (13 kostek):
+SI£A 18/00, ZRÊCZNOŒÆ 12, KONDYCJA -, INTELIGENCJA 17, M¥DROŒÆ 15, CHARYZMA 16, Praworz¹dny z³y
+P¯ 112, KP -4, TraKo 1, Rzuty obronne 5/7/5/9/7
+3 ataki na rundê, 2k6+11 obra¿eñ ciêtych (Miecz dwurêczny +3)
+
+Zdolnoœci specjalne:
+Aura strachu: stworzenia w promieniu 5 stóp musz¹ wykonywaæ rzut obronny przeciw czarom w ka¿dej rundzie, albo ulegn¹ terrowi na 1 rundê
+Odpornoœæ na niemagiczne bronie
+Odpornoœæ na efekty zauroczenia, zamêtu, unieruchomienia, og³uszenia, uœpienia, trucizny i œmierci
+Odpornoœæ na zimno 100%; odpornoœæ fizyczna 20%; odpornoœæ na magiê 75%
+
+Specjalne zdolnoœci:
+Widzenie niewidzialnego (sta³e)
+Rozproszenie magii (raz na 5 rund)
+Przeklêta ognista kula (raz na dzieñ)
+S³owa mocy: oœlepienie, og³uszenie lub œmieræ (raz na dzieñ ka¿de)
+Symbole: s³aboœci lub œmierci (raz na dzieñ ka¿de)~
+
+@3731=~Rycerz œmierci~
+
+@733    = ~Pryzmatyczna opoñcza~
+@734    = ~Pryzmatyczna opoñcza
+Poziom: 7
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 4 rundy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: czêœciowy
+
+Po rzuceniu tego czaru rzucaj¹cego tymczasowo otacza nieprzejrzysta kula migocz¹cego, wielobarwnego œwiat³a. Ta magiczna opoñcza zapewnia ca³kowit¹ niewra¿liwoœæ na wszelkie bronie o zaczarowaniu +3 lub s³abszym. Ponadto przeciwnicy w promieniu 10 stóp, którzy trafi¹ rzucaj¹cego broni¹ lub czarem, raz na rundê podlegaj¹ losowemu efektowi pryzmatycznemu. Mo¿liwe efekty pryzmatycznej opoñczy wymieniono poni¿ej. Z powodu krótkiego czasu rzucania i dzia³ania tego czaru u¿ywa siê go g³ównie po to, by zapewniæ czarodziejowi kilka rund wytchnienia w samym œrodku walki.
+
+Czerwony - 6k6 obra¿eñ od ognia (udany rzut przeciw zioniêciom, po³owa obra¿eñ)
+Pomarañczowy - 6k6 obra¿eñ od kwasu (udany rzut przeciw zioniêciom, po³owa obra¿eñ)
+¯ó³ty - 6k6 obra¿eñ od elektrycznoœci (udany rzut przeciw zioniêciom, po³owa obra¿eñ)
+Zielony - œmieræ od trucizny (udany rzut przeciw truciznom zmniejsza efekt do 3k6 obra¿eñ od trucizny)
+Niebieski - og³uszenie na 5 rund (udany rzut przeciw polimorfii neguje)
+Indygo - og³upienie na 5 rund (udany rzut przeciw ró¿d¿kom neguje)
+Fioletowy - Labirynt (udany rzut przeciw czarom neguje)~
+
+@735    = ~Sekwencer zaklêæ~
+@736    = ~Sekwencer zaklêæ
+Poziom: 7
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten pozwala magowi przechowywaæ inne zaklêcia i uaktywniaæ je ikon¹ zdolnoœci specjalnych. Po wybraniu czarów, mag tworzy zdolnoœæ specjaln¹, która powoduje jednoczesne wyzwolenie wszystkich zaklêæ. Zdolnoœæ ta, zwana sekwencerem, mo¿e byæ wykorzystana do przechowywania trzech czarów, maksymalnie 4 poziomu. Mag mo¿e posiadaæ tylko jeden sekwencer na raz. Pozostanie on aktywny do czasu wykorzystania.~
+
+@737    = ~Sfera chaosu~
+@738    = ~Sfera chaosu
+Poziom: 7
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 7
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: przeciw czarom neguje
+
+Zaklêcie to pozwala czarodziejowi stworzyæ magiczn¹ sferê chaosu. Wszyscy wrogowie na obszarze dzia³ania czaru musz¹ w ka¿dej rundzie pozostawania w sferze wykonywaæ rzut obronny przeciw czarom z modyfikatorem -4, a w przypadku niepowodzenia ulegaj¹ jednemu z nastêpuj¹cych losowych efektów: og³upienie, zamêt, parali¿, utrata przytomnoœci lub ucieczka w panice.~
+
+@739    = ~OpóŸniona ognista kula~
+@740    = ~OpóŸniona ognista kula
+Poziom: 7
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 7
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: zioniêcia 1/2
+
+Czar ten tworzy ognist¹ kulê, która unosi siê w miejscu wybranym przez czarodzieja. Pozostaje ona w miejscu, a¿ ktoœ do niej podejdzie na odleg³oœæ 20 stóp. Kiedy to siê wydarzy wybucha, zadaj¹c obra¿enia w promieniu 30 stóp. Eksplozja zadaje 1k6 obra¿eñ na poziom czarodzieja (maksymalnie 20k6). Udany rzut obronny przeciw zioniêciom z modyfikatorem -4 powoduje po³owê obra¿eñ.~
+
+@741    = ~Palec œmierci~
+@742    = ~Palec œmierci
+Poziom: 7
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: œmieræ, czêœciowy
+
+Palec œmierci wysysa z ofiary si³y ¿yciowe. Po wyrecytowaniu zaklêcia czarodziej wskazuje palcem ofiarê, która natychmiast umiera, chyba ¿e uda siê jej wykonaæ rzut obronny przeciw œmierci z modyfikatorem -2. Istota, której rzut obronny siê powiód³, i tak otrzymuje 2k8 obra¿eñ + 1 na poziom czarodzieja (maksymalnie 2k8+20).~
+
+@743    = ~Têczowe kolory~
+@744    = ~Têczowe kolory
+Poziom: 7
+Szko³a: Przemiany
+Zasiêg: specjalny
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: sto¿ek
+Rzut obronny: specjalny
+
+Po rzuceniu tego zaklêcia, z d³oni czarodzieja wyzwolonych zostaje siedem iskrz¹cych siê promieni œwiat³a. Wœród nich s¹ wszystkie kolory widzialnego spektrum, a ka¿dy promieñ ma inn¹ moc i przeznaczenie. Ka¿da istota trafiona przez promieñ i posiadaj¹ca mniej ni¿ 8 Kostek, zostaje oœlepiona na 5 rund, niezale¿nie od dodatkowych skutków. Ka¿da istota na obszarze dzia³ania czaru mo¿e zostaæ poddana efektowi jednego lub wiêcej promieni œwiat³a. Lista efektów promieni poni¿ej, wszystkie rzuty obronne wykonuje siê z modyfikatorem -4.
+
+Czerwony - 10k6 obra¿eñ od ognia (udany rzut przeciw zioniêciom, po³owa obra¿eñ)
+Pomarañczowy - 10k6 obra¿eñ od kwasu (udany rzut przeciw zioniêciom, po³owa obra¿eñ)
+¯ó³ty - 10k6 obra¿eñ od elektrycznoœci (udany rzut przeciw zioniêciom, po³owa obra¿eñ)
+Zielony - Œmieræ (udany rzut przeciw truciznom zmniejsza efekt do 20 obra¿eñ od trucizny)
+Niebieski - Sta³e og³uszenie (udany rzut przeciw polimorfii neguje)
+Indygo - Og³upienie (udany rzut przeciw ró¿d¿kom neguje)
+Fioletowy - Labirynt (udany rzut przeciw czarom neguje)~
+
+@745    = ~S³owo mocy: og³uszenie~
+@746    = ~S³owo mocy: og³uszenie
+Poziom: 7
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Gdy zostanie wypowiedziane S³owo mocy: og³uszenie, dowolna wybrana przez maga istota w zasiêgu wzroku zostaje og³uszona na czas zale¿ny od jej aktualnej liczby punktów ¿ycia. Istoty maj¹ce od 1 do 29 punktów ¿ycia zostaj¹ og³uszone na 4k4 rundy, od 30 do 59 na 2k4 rundy, od 60 do 89 na 1k4 rundy, a maj¹ce 90 lub wiêcej punktów ¿ycia na 1 rundê. Nale¿y pamiêtaæ, ¿e jeœli istota jest os³abiona i ma mniej punktów ¿ycia ni¿ wynosi jej zwyk³e maksimum, o efekcie czaru decyduje jej aktualna liczba punktów ¿ycia.~
+
+@747    = ~Miecz Mordenkainena~
+@748    = ~Miecz Mordenkainena
+Poziom: 7
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 7
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej powo³uje do istnienia lœni¹ce, podobne do miecza pole energii. Miecz unosi siê w powietrzu, pozostaj¹c ca³kowicie pod kontrol¹ czarodzieja a¿ do wygaœniêcia czaru lub rozproszenia miecza. Pod ka¿dym wzglêdem dzia³a jak broñ +4 i sam atakuje raz na rundê, zadaj¹c 5k4 obra¿eñ przy trafieniu. Ma 100% odpornoœci na niemal wszystkie rodzaje obra¿eñ (od kwasu, zimna, ognia, elektrycznoœci, trucizny itd.) i 95% odpornoœci na obra¿enia fizyczne, ale jest podatny na obra¿enia od czystej magii. Miecz jest odporny na czary wp³ywaj¹ce na umys³, ma 36 P¯, KP 5 i TraKo 2. Zaklêcie to nie przeszkadza rzucaj¹cemu w wykonywaniu innych czynnoœci podczas jego dzia³ania.~
+
+@3747=~Magiczny miecz~
+
+@749    = ~Przyzwanie Ifrita~
+@750    = ~Przyzwanie Ifrita
+Poziom: 7
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 8 rund + 1 na poziom
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej przywo³uje Ifrita. To potê¿ny geniusz o wielkich zdolnoœciach, który opuœci³ Plan ¯ywio³u Ognia i przyby³ na Pierwszy Plan Materialny. Przyzwany geniusz jest odporny na Wygnanie oraz zna kilka zaklêæ, które mo¿e natychmiast rzuciæ jak mag 10 poziomu. Raz dziennie Ifrit mo¿e przybraæ formê gazow¹, staj¹c siê odpornym na niemal wszystkie formy obra¿eñ. Zazwyczaj korzysta z tej umiejêtnoœci, gdy jest ciê¿ko ranny i chce zregenerowaæ siê przed kolejnym atakiem albo opuœciæ pole bitwy unikaj¹c dalszych uszkodzeñ. Ifrit bêdzie s³u¿y³ czarodziejowi przez czas dzia³ania czaru.
+
+Ifrit (10 kostek):
+SI£A 19, ZRÊCZNOŒÆ 17, KONDYCJA 16, INTELIGENCJA 13, M¥DROŒÆ 14, CHARYZMA 15, Praworz¹dny z³y
+P¯ 98, KP 1, TraKo 5, Rzuty obronne 8/11/8/11/11
+2 ataki na rundê, 1k8+10 obra¿eñ ciêtych + 1k6 obra¿eñ od ognia (Sejmitar +2)
+
+Zdolnoœci specjalne:
+Odpornoœæ na ogieñ 100%
+
+Zapamiêtane zaklêcia:
+1. P³on¹ce d³onie, Magiczny pocisk (x2), Tarcza
+2. P³omienie Agannazara, Niewidzialnoœæ (x2)
+3. Ognista kula (x3)
+4. Ognista tarcza (czerwona) (x2)
+5. Sprowadzenie pomniejszego ¿ywio³aka ognia~
+
+@3749=~Ifrit~
+
+@751    = ~Przyzwanie D¿ina~
+@752    = ~Przyzwanie D¿ina
+Poziom: 7
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 8 rund + 1 na poziom
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej przywo³uje D¿ina. To potê¿ny geniusz o wielkich zdolnoœciach, który opuœci³ Plan ¯ywio³u Powietrza i przyby³ na Pierwszy Plan Materialny. Przyzwany geniusz jest odporny na Wygnanie oraz zna kilka zaklêæ, które mo¿e natychmiast rzuciæ jak mag 10 poziomu. Raz dziennie D¿in mo¿e przybraæ formê gazow¹, staj¹c siê odpornym na niemal wszystkie formy obra¿eñ. Zazwyczaj korzysta z tej umiejêtnoœci, gdy jest ciê¿ko ranny i chce zregenerowaæ siê przed kolejnym atakiem albo opuœciæ pole bitwy unikaj¹c dalszych uszkodzeñ. D¿in bêdzie s³u¿y³ czarodziejowi przez czas dzia³ania czaru.
+
+D¿in (10 kostek):
+SI£A 17, ZRÊCZNOŒÆ 19, KONDYCJA 15, INTELIGENCJA 14, M¥DROŒÆ 14, CHARYZMA 15, Chaotyczny dobry
+P¯ 89, KP 0, TraKo 7, Rzuty obronne 11/7/11/7/7
+3 ataki na rundê, 1k8+5 obra¿eñ ciêtych (Sejmitar +2)
+
+Zapamiêtane zaklêcia:
+1. Magiczny pocisk (x3), Tarcza
+2. Niewidzialnoœæ (x2), Lustrzane obrazy
+3. Przyspieszenie, B³yskawica (x2)
+4. Ulepszona niewidzialnoœæ, Klosz niewra¿liwoœci mniejszej
+5. Sprowadzenie pomniejszego ¿ywio³aka powietrza~
+
+@3751=~D¿in~
+
+@753    = ~Przyzwanie Hakeshara~
+@754    = ~Przyzwanie Hakeshara
+Poziom: 7
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 8 rund + 1 na poziom
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego czaru czarodziej przywo³uje potê¿n¹ magiczn¹ istotê zwan¹ Hakeshar. Hakeshar to potê¿niejsza odmiana Nishruu, ma wiêcej punktów ¿ycia, lepsze ataki i jest odporny na niemagiczne bronie. Na pierwszy rzut oka przypomina ona mg³ê, ale bli¿sze oglêdziny pokazuj¹, ¿e to szary ob³ok pulsuj¹cy w³asnym ¿yciem. Hakeshar przyci¹ga magia otaczaj¹ca czarodziejów jak p³omieñ œwiecy przyci¹ga æmy. Na szczêœcie istota jest pos³uszna rzucaj¹cemu czar i nie zaatakuje go, choæ na pewno chcia³aby to zrobiæ. Hakeshar nie atakuje fizycznie, chocia¿ jego samego mo¿e zraniæ fizyczny atak. Za ka¿dym razem gdy Hakeshar dotyka czarodzieja wysysa magiczn¹ energiê z niego. Za wyj¹tkiem czarów Wygnanie i Rozproszenie magii Hakeshary s¹ ca³kowicie odporne na magiê, a nawet czary lecz¹ te istoty. Istota pozostanie pod kontrol¹ czarodzieja dopóki nie straci wszystkich punktów ¿ycia lub minie czas dzia³ania czaru.
+
+Hakeshar (12 kostek):
+SI£A -, ZRÊCZNOŒÆ 10, KONDYCJA 16, INTELIGENCJA 13, M¥DROŒÆ 15, CHARYZMA 13, Chaotyczny neutralny
+P¯ 114, KP 10, TraKo 2, Rzuty obronne 6/6/6/6/6
+1 atak na rundê, wyssanie magii (Dotyk +2)
+
+Zdolnoœci bojowe:
+Wyssanie magii:
+- czarodziej traci jeden zapamiêtany czar, losowo wybrany spoœród czarów o najwy¿szym poziomie
+- powoduje og³upienie (rzut obronny przeciw czarom neguje)
+
+Zdolnoœci specjalne:
+Absorpcja magii: odpornoœæ na magiê, ka¿dy czar rzucony na Hakeshara przywraca mu 1k8+1 P¯
+Odpornoœæ na zwyk³e bronie
+Odpornoœæ na obra¿enia fizyczne 50%~
+
+@3753=~Hakeashar~
+
+@755    = ~Kontrolowanie nieumar³ych~
+@756    = ~Kontrolowanie nieumar³ych
+Poziom: 7
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: 5 tur
+Czas rzucania: 7
+Obszar dzia³ania: cel i przeciwnicy w promieni 5 stóp
+Rzut obronny: specjalny
+
+Czar Kontrolowanie nieumar³ych pozwala czaruj¹cemu na objêcie kontroli nad nieumar³ymi istotami na obszarze dzia³ania. Dziêki niemu wytwarza siê telepatyczna niæ pomiêdzy czaruj¹cym a nieumar³ymi, przez co kontrola jest zupe³na. Je¿eli nieumarli maj¹ 5 lub wiêcej poziomów mniej od czarodzieja rzut obronny nie wchodzi w rachubê; w przeciwnym wypadku wolno im ratowaæ siê rzutami obronnymi przeciwko czarom z modyfikatorem -6 dla zanegowania skutków czaru. Nieumarli pozostaj¹ pod kontrol¹ czaruj¹cego na czas trwania czaru lub do momentu, gdy zastosowany zostanie czar Rozproszenie magii.~
+
+@757    = ~Grupowa niewidzialnoœæ~
+@758    = ~Grupowa niewidzialnoœæ
+Poziom: 7
+Szko³a: Iluzje/Urojenia
+Zasiêg: daleki
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 7
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: brak
+
+Po rzuceniu zaklêcia, czarodziej obejmuje wszystkie przyjazne stworzenia, na obszarze dzia³ania zaklêcia, Ulepszon¹ niewidzialnoœci¹. Stworzenia, które opuszcz¹ obszar na którym zosta³o rzucone zaklêcie pozostan¹ niewidzialne. ~
+
+@759    = ~Ograniczone ¿yczenie~
+@760    = ~Ograniczone ¿yczenie
+Poziom: 7
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Ograniczone ¿yczenie to bardzo potê¿ny, ale trudny czar. Dos³ownie spe³nia on ¿yczenie czarodzieja, ale tylko czêœciowo albo na jakiœ czas. Dlatego mo¿na w ograniczonym stopniu zmieniæ rzeczywistoœæ, przysz³¹ lub teraŸniejsz¹ (ale mo¿liwe, ¿e tylko dla czarodzieja jeœli nie okreœli siê precyzyjnie dzia³ania). Zastosowanie Ograniczonego ¿yczenia nie zmieni w znacz¹cym stopniu g³ównych elementów œwiata. Czar ten mo¿e na przyk³ad wyleczyæ czêœæ obra¿eñ czarodzieja. Chciwe ¿yczenia zazwyczaj koñcz¹ siê dla czarodzieja tragicznie. Ponadto im czarodziej jest m¹drzejszy, tym wiêksza szansa, ¿e dobrze wypowie swoje ¿yczenie. Rzucenie tego zaklêcia przez czarodzieja z nisk¹ M¹droœci¹ bardzo czêsto zamiast spe³nienia ¿yczenia koñczy siê katastrof¹. ~
+
+@761    = ~Ulepszona tarcza chaosu~
+@762    = ~Ulepszona tarcza chaosu
+Poziom: 7
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 tury
+Czas rzucania: 7
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Ulepszona tarcza chaosu zwiêksza szansê dzikiego maga na osi¹gniêcie korzystnego rezultatu w przypadku wyst¹pienia fali dzikiej energii. Do ka¿dego rzutu kostk¹ w tabeli dzikiej energii jest dodawana premia w wysokoœci 25 punktów. Przy rzuceniu Lekkomyœlnego zaklêcia Nahala, premia pochodz¹ca z Ulepszonej tarczy chaosu jest dodawana do premii zwi¹zanej z poziomem dzikiego maga. Czarodziej mo¿e posiadaæ tylko jedn¹ tarczê chaosu w danym momencie.~
+
+
+/*------------------level 8------------------*/
+
+@767    = ~Manifestacja ducha~
+@768    = ~Manifestacja ducha
+Poziom: 8
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 8
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Kiedy zaklêcie zostaje rzucone czarodziej przybiera niematerialn¹ formê, podobn¹ jak duch. Podlega tylko atakom magicznym lub specjalnym, w³¹czaj¹c w to ataki broni¹ +1 lub lepsz¹ oraz ataki stworzeñ zadaj¹cych obra¿enia jak broni¹ magiczn¹. Jednak nawet wtedy, gdy atak jest wykonany broni¹ magiczn¹ czarodziej otrzymuje tylko 50% obra¿eñ, ze wzglêdu na swoj¹ eteryczn¹ postaæ. Czary nie zadaj¹ce obra¿eñ dzia³aj¹ na maga normalnie, chyba ¿e wymagaj¹ cielesnej formy do swojego funkcjonowania (np. Polimorfowanie innego, Zamiana cia³a w kamieñ, Dezintegracja czy Implozja) lub nie maj¹ wp³ywu na istoty bezcielesne (np. Opl¹tanie, Œliskoœæ czy Pajêczyna).
+
+Bed¹c istot¹ bezcielesn¹ czarodziej porusza siê cicho i nie mo¿e byæ us³yszany (+100% do Cichego poruszania siê) ani otrzymaæ ciosu w plecy. W postaci ducha czarodziej ma bazowe KP 0 oraz jest odporny na efekty chorób i trucizn. Ka¿dy atak fizyczny w niematerialnej postaci jest traktowany jak fizyczny kontakt i otrzymuje bonus +4 do ataku, pociski po wystrzeleniu staj¹ siê materialne. Przemiana trwa do czasu rozproszenia lub wygaœniêcia czaru i nie mo¿e byæ u¿ywana w po³¹czeniu z innymi zaklêciami, takimi jak Polimorfowanie siebie i Zmiana kszta³tu.~
+
+@769    = ~Pustka umys³u~
+@770    = ~Pustka umys³u
+Poziom: 8
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 8 godzin
+Czas rzucania: 8
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Istota objêta dzia³aniem czaru jest chroniona przed wszelkimi przedmiotami i czarami, które wykrywaj¹, kontroluj¹ lub odczytuj¹ emocje b¹dŸ myœli. Zaklêcie to chroni przed wszystkimi czarami i efektami wp³ywaj¹cymi na umys³, a tak¿e przed zdobywaniem informacji za pomoc¹ czarów lub efektów poznania.~
+
+@771    = ~Ochrona przed energi¹~
+@772    = ~Ochrona przed energi¹
+Poziom: 8
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 2 rundy na poziom
+Czas rzucania: 8
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy zaklêcie zostaje rzucone, daje pe³n¹ ochronê przed wszystkimi atakami opartymi na kwasie, zimnie, elektrycznoœci, ogniu, czy to magicznego czy niemagicznego pochodzenia. Chroni równie¿ przed obra¿eniami zadanymi przez magiczn¹ energiê. 100% obra¿eñ z ataków broni¹, ró¿d¿kami itd. zostanie poch³oniêtych a istota zostaje ca³kowicie odporna na dzia³anie czarów atakuj¹cych za pomoc¹ energii. Efekt utrzymuje siê przez czas dzia³ania czaru lub do rozproszenia. ~
+
+@773    = ~Mamid³o~
+@774    = ~Mamid³o
+Poziom: 8
+Szko³a: Iluzje/Urojenia
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 1 runda
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Po rzuceniu tego czaru strumieñ energii z Planu Cienii tworzy pó³realn¹, iluzoryczn¹ wersjê czarodzieja. Duplikat jest prawie idealn¹ kopi¹ maga, co czyni go bardzo potê¿nym sprzymierzeñcem. Mamid³o posiada poziom równy 60% poziomu czarodzieja w chwili rzucenia czaru. Posiada wszystkie czary i zdolnoœci jakie mia³by czarodziej na tym poziomie. Ma te¿ 60% Punktów ¯ycia czarodzieja. Mamid³o znajduje siê pod pe³n¹ kontrol¹ czarodzieja, który je stworzy³. Czarodziej mo¿e posiadaæ tylko jedno mamid³o na raz.~
+
+@775    = ~Przebicie tarczy~
+@776    = ~Przebicie tarczy
+Poziom: 8
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 8
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Za pomoc¹ tego zaklêcia czarodziej mo¿e przypuœciæ gwa³towny atak na fizyczne i magiczne os³ony celu. Przebicie tarczy rozprasza z istoty jeden czar ochronny dowolnego poziomu. Zawsze w pierwszej kolejnoœci rozprasza czar ochronny o najwy¿szym poziomie. Jeœli cel jest pod wp³ywem dwóch lub wiêcej czarów ochronnych o tym samym najwy¿szym poziomie, rozpraszany czar wybierany jest losowo. Po przebiciu siê przez ochrony magiczne to potê¿ne zaklêcie usuwa z celu wszystkie bez wyj¹tku bojowe czary ochronne. Odpornoœæ celu na magiê, jeœli j¹ posiada, nie ma wp³ywu na to zaklêcie.
+
+Czary ochronne przed magi¹ rozpraszane przez Przebicie tarczy to: Mniejsze odbicie czaru, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary, Klosz niewra¿liwoœci, Wiêksze odbicie czaru, Tarcza Archonów i Pu³apka na czary.
+
+Bojowe czary ochronne rozpraszane przez Przebicie tarczy to: Zbroja maga, Tarcza, Zbroja wiary, Korowa skóra, Ochrona przed pociskami, Eteralny pancerz, Kamienna skóra, Ochrona przed zwyk³ymi broniami, Ochrona przed magicznymi broniami, Lustro materii, Pryzmatyczna opoñcza, Moment przewidywania i Ca³kowita niewra¿liwoœæ.~
+
+@777    = ~Przyzwanie biesa~
+@778    = ~Przyzwanie biesa
+Poziom: 8
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Za pomoc¹ tego zaklêcia czarodziej wzywa z zewnêtrznych planów stworzenie, które atakuje wrogów i jego jeœli nie bêdzie ostro¿ny. Przyzwanym stworzeniem jest Glabrezu, jeden z najpotê¿niejszych przedstawicieli Tanar'ri. Stworzenie nie mo¿e byæ kontrolowane, jednak czarodziej mo¿e próbowaæ zmusiæ demona do s³u¿enia mu przez czas trwania zaklêcia. Charyzmatyczny i potê¿ny czarodziej mo¿e zwi¹zaæ wolê istoty i negocjowaæ z nim, ale zawsze jest to bardzo niebezpieczne i mo¿e czasem doprowadziæ do katastrofy. Magowie s¹ ostrzegani aby uwa¿aæ na to zaklêcie, gdy¿ zwi¹zany demon, mo¿e wykorzystaæ pierwsz¹ nadarzaj¹c¹ siê okazjê do uwolnienia siê i zemsty na magu, który próbowa³ nad nim zaw³adn¹æ. 
+
+Glabrezu (15 kostek):
+SI£A 20, ZRÊCZNOŒÆ 10, KONDYCJA 21, INTELIGENCJA 16, M¥DROŒÆ 17, CHARYZMA 16, Chaotyczny z³y
+P¯ 160, KP -6, TraKo 1, Rzuty obronne 6/8/6/10/8
+4 ataki na rundê, 2k6+12 obra¿eñ k³utych (Szczypce i pazury +4)
+
+Zdolnoœci specjalne:
+Odpornoœæ przed broniami s³abszymi ni¿ +2
+Odpornoœæ na efekty zamêtu, strachu, trucizny i og³uszenia
+Odpornoœæ na elektrycznoœæ 100%; kwas, zimno i ogieñ 50%
+Odpornoœæ na magiê 50%
+
+Specjalne zdolnoœci:
+Prawdziwe widzenie (sta³e)
+Lustrzane obrazy (raz na 5 rund)
+Rozproszenie magii (raz na 5 rund)
+Przeklêta strefa (raz na 5 rund)
+Zamêt (raz na 5 rund)
+S³owo mocy: og³uszenie (raz na 5 rund)~
+
+@3777=~Glabrezu~
+
+@779    = ~Moment przewidywania~
+@780    = ~Moment przewidywania
+Poziom: 8
+Szko³a: Poznanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 4 rundy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie zapewnia niemal wszechwiedz¹ce przeczucie tego, co ma nast¹piæ. Przez czas dzia³ania czaru Klasa Pancerza maga polepsza siê o 20 punktów, a wszystkie rzuty obronne wykonuje on z premi¹ +20. Z powodu krótkiego czasu rzucania i dzia³ania tego czaru u¿ywa siê go g³ównie po to, by zapewniæ czarodziejowi kilka rund wytchnienia w samym œrodku zaciêtej walki.~
+
+@781    = ~Wyzwalacz zaklêæ~
+@782    = ~Wyzwalacz zaklêæ
+Poziom: 8
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten pozwala magowi przechowywaæ inne zaklêcia i uaktywniaæ je ikon¹ zdolnoœci specjalnych. Po wybraniu czarów, mag tworzy zdolnoœæ specjaln¹, która powoduje jednoczesne wyzwolenie wszystkich zaklêæ. Zdolnoœæ ta, zwana sekwencerem, mo¿e byæ wykorzystana do przechowywania trzech czarów, maksymalnie 6 poziomu. Mag mo¿e posiadaæ tylko jeden sekwencer na raz. Pozostanie on aktywny do czasu wykorzystania.~
+
+@783    = ~Zapalaj¹ca chmura~
+@784    = ~Zapalaj¹ca chmura
+Poziom: 8
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 8
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: specjalny
+
+Zaklêcie Zapalaj¹ca chmura tworzy chmurê k³êbi¹cego siê dymu i rycz¹cych p³omieni. Dym ogranicza pole widzenia do 15 stóp, w³¹cznie z infrawizj¹. Stworzenia na obszarze dzia³ania czaru otrzymuj¹ karê -4 do ataku oraz KP. Dodatkowo p³omienie zadaj¹ 4k6 obra¿eñ od ognia w ka¿dej rundzie pozostawania w chmurze, rzut obronny przeciw zioniêciom z modyfikatorem -4 powoduje otrzymanie po³owy obra¿eñ. Stworzenia wywodz¹ce siê ze sfery ognia, takie jak ogniste salamandry, ¿ywio³aki ognia czy ogniste olbrzymy s¹ odporne na efekty tego czaru. ~
+
+@785    = ~Symbol: s³aboœæ~
+@786    = ~Symbol: s³aboœæ
+Poziom: 8
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: przeciw czarom neguje
+
+Symbol: s³aboœæ to potê¿ny czar, który pozwala rzucaj¹cemu wyrysowaæ symbol na ziemi lub innej powierzchni. Pozostanie on tam do czasu, a¿ wrogie stworzenie podejdzie na odleg³oœæ 15 stóp, wtedy eksploduje, powoduj¹c u wszystkich wrogów w promieniu 20 stóp karê -4 do si³y, zrêcznoœci i kondycji, jeœli nie uda siê rzut obronny przeciw czarom z modyfikatorem -4. Efekt bêdzie siê utrzymywa³, a¿ do rzucenia czaru Leczenie chorób.~
+
+@787    = ~Plugawy uwi¹d Abi-Dalzima~
+@788    = ~Plugawy uwi¹d Abi-Dalzima
+Poziom: 8
+Szko³a: Nekromancja
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 8
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: œmieræ, 1/2
+
+Ten czar odparowuje wilgoæ z cia³ wszystkich ¿ywych istot na obszarze dzia³ania, zadaj¹c 1k6 obra¿eñ na poziom czarodzieja (maksymalnie 20k6). Ofiary mog¹ wykonaæ rzut obronny przeciw œmierci z modyfikatorem -2, aby otrzymaæ po³owê obra¿eñ. Czar nie dzia³a na nieumar³ych ani na inne istoty pozbawione cia³a, takie jak ¿ywio³aki.~
+
+@789    = ~Labirynt~
+@790    = ~Labirynt
+Poziom: 8
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: specjalny
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Po wypowiedzeniu formu³y tego zaklêcia tworzy siê przestrzeñ miêdzy wymiarami. Ofiara czaru znika w zmiennym labiryncie miêdzysferowym. Pozostaje tam przez pewien czas, œciœle uzale¿niony od jej inteligencji.
+
+Inteligencja ofiary - Czas uwiêzienia w labiryncie
+poni¿ej 3 -- wiecznoœæ
+3 do 5 -- 10k4 rund
+6 do 8 -- 5k4 rund
+9 do 11 -- 4k4 rund
+12 do 14 -- 3k4 rund
+15 do 17 -- 2k4 rund
+18 i wiêcej -- 1k4 rund
+
+Nale¿y zauwa¿yæ, ¿e jeœli na obszar labiryntu zostanie rzucone zaklêcie 9-go poziomu, 'Wolnoœæ', to ofiara zostanie uwolniona a labirynt zniknie. W innym przypadku trwaæ on bêdzie do koñca dzia³ania zaklêcia. Istota w labiryncie nie mo¿e zostaæ uwolniona przez rozproszenie magii. ~
+
+@791    = ~S³owo mocy: oœlepienie~
+@792    = ~S³owo mocy: oœlepienie
+Poziom: 8
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Po rzucenia zaklêcia S³owo mocy: oœlepienie, stworzenie wybrane przez czrodzieja zostaje oœlepione. Efekt trwa przez 1 turê lub do rozproszenia. Stworzenia o 6 kostkach lub mniej zostaj¹ oœlepione na sta³e. Ofiary podlegaj¹ wszelkim efektom oœlepienia, takim jak ograniczenie widocznoœci oraz kara -10 do TraKo.~
+
+@793    = ~Symbol: og³uszenie~
+@794    = ~Symbol: og³uszenie
+Poziom: 8
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: przeciw czarom neguje
+
+Symbol: og³uszenie to potê¿ny czar, który pozwala rzucaj¹cemu wyrysowaæ symbol na ziemi lub innej powierzchni. Pozostanie on tam do czasu, a¿ wrogie stworzenie podejdzie na odleg³oœæ 15 stóp, wtedy eksploduje, powoduj¹c u wszystkich wrogów w promieniu 20 stóp og³uszenie na 4 rundy, jeœli nie uda siê rzut obronny przeciw czarom z modyfikatorem -4.~
+
+@795    = ~Symbol: œmieræ~
+@796    = ~Symbol: œmieræ
+Poziom: 8
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: w promieniu 20 stóp
+Rzut obronny: œmieræ, neguje
+
+Symbol: œmieræ to potê¿ny czar, który pozwala rzucaj¹cemu wyrysowaæ symbol na ziemi lub innej powierzchni. Pozostanie on tam do czasu, a¿ wrogie stworzenie podejdzie na odleg³oœæ 15 stóp, wtedy eksploduje, powoduj¹c œmieræ wszystkich wrogów w promieniu 20 stóp, jeœli rzut obronny przeciw œmierci z modyfikatorem -4 zakoñczy siê niepowodzeniem. Stworzenia, które posiadaj¹ w danej chwili wiêcej ni¿ 60 P¯ s¹ odporne na ten czar.~
+
+@797    = ~Lodowy uœcisk Bigby'ego~
+@798    = ~Lodowy uœcisk Bigby'ego
+Poziom: 8
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: 8 rund
+Czas rzucania: 8
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Zaklêcie to powo³uje do istnienia ogromn¹, pozbawion¹ cia³a d³oñ, która mia¿d¿y cel i przygwa¿d¿a go do ziemi. W ka¿dej rundzie ogromna d³oñ uderza cel, zadaj¹c mu 2k8 obra¿eñ od zimna, i unieruchamia go na 1 rundê, chyba ¿e rzut obronny przeciw zioniêciom z modyfikatorem -2 zakoñczy siê powodzeniem. ¯ywio³aki i inne istoty pozbawione cia³a, takie jak cienie i upiory, s¹ odporne na efekt unieruchomienia. Po 8 rundach czar wygasa.~
+
+
+/*------------------level 9------------------*/
+
+@811    = ~Pu³apka na czary~
+@812    = ~Pu³apka na czary
+Poziom: 9
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+To zaklêcie sprawia, ¿e wszelkie czary rzucone na czarodzieja zostaj¹ poch³oniête i zniweczone. Ochrona obejmuje ³¹cznie 99 poziomów czarów, przy czym nawet jeœli pozosta³ tylko 1 poziom ochrony, poch³oniêty zostanie zarówno czar 1. poziomu, jak i 9. poziomu. Zaklêcie to nie chroni rzucaj¹cego przed Rozproszeniem magii, ale te¿ nie jest przez nie usuwane.~
+
+@813    = ~Uderzenie czaru~
+@814    = ~Uderzenie czaru
+Poziom: 9
+Szko³a: Odrzucanie
+Zasiêg: daleki
+Czas trwania: specjalny
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Rzucone zaklêcie rozprasza wszystkie czary ochronne celu. Ponadto istota objêta jego dzia³aniem ma w pierwszej rundzie 100% szansy na nieudane rzucenie czaru, a w drugiej 50%. Odpornoœæ na magiê nie ma wp³ywu na ten czar.
+
+Czary ochronne rozpraszane przez Uderzenie czaru to: Mniejsze odbicie czaru, Niewykrywalnoœæ, Klosz niewra¿liwoœci mniejszej, Odbicie czaru, Niepodatnoœæ na czary, Klosz niewra¿liwoœci, Wiêksze odbicie czaru, Tarcza Archonów, Pustka umys³u i Pu³apka na czary.~
+
+@815    = ~Brama~
+@816    = ~Brama
+Poziom: 9
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Za pomoc¹ tego zaklêcia czarodziej wzywa z zewnêtrznych planów stworzenie, które atakuje wrogów i jego jeœli nie bêdzie ostro¿ny. Przyzwanym stworzeniem jest Bies z otch³ani, jeden z najpotê¿niejszych przedstawicieli Baatezu. Stworzenie nie mo¿e byæ kontrolowane, jednak czarodziej mo¿e próbowaæ zmusiæ demona do s³u¿enia mu przez czas trwania zaklêcia. Charyzmatyczny i potê¿ny czarodziej mo¿e zwi¹zaæ wolê istoty i negocjowaæ z nim, ale zawsze jest to bardzo niebezpieczne i mo¿e czasem doprowadziæ do katastrofy. Magowie s¹ ostrzegani aby uwa¿aæ na to zaklêcie, gdy¿ zwi¹zany demon, mo¿e wykorzystaæ pierwsz¹ nadarzaj¹c¹ siê okazjê do uwolnienia siê i zemsty na magu, który próbowa³ nad nim zaw³adn¹æ. 
+
+Bies z otch³ani (20 kostek):
+SI£A 24, ZRÊCZNOŒÆ 16, KONDYCJA 19, INTELIGENCJA 20, M¥DROŒÆ 16, CHARYZMA 25, Praworz¹dny z³y
+P¯ 170, KP -8, TraKo -7, Rzuty obronne 4/6/4/8/6
+5 ataków na rundê, 2k6+16 obra¿eñ k³utych (Pazury, ugryzienie i ogon +4)
+
+Zdolnoœci bojowe (ka¿da z szans¹ 20%):
+Choroba: stworzenie ugryzione przez Biesa z otch³ani musi wykonaæ rzut obronny przeciw œmierci z modyfikatorem -4 lub zostanie zainfekowane okropn¹ chorob¹ zwan¹ dreszczami diab³a, trac¹c 2 punkty si³y po 12 godzinnej inkubacji.
+Trucizna: ugryzienie biesa z otch³ani zatruwa trucizn¹, która zadaje 10 punktów obra¿eñ na sekundê przez 2 rundy, chyba ¿e rzut obronny przeciw truciznom z modyfikatorem - 4 zakoñczy siê powodzeniem.
+Duszenie: istota uderzona ogonem biesa z otch³ani musi wykonaæ rzut obronny przeciw œmierci z modyfikatorem -4, aby unikn¹æ og³uszenia na 1 rundê
+
+Zdolnoœci specjalne:
+Odpornoœæ przed broniami s³abszymi ni¿ +3
+Odpornoœæ na efekty zamêtu, strachu, trucizny i og³uszenia
+Regeneracja: 2 P¯/rundê
+Odpornoœæ na ogieñ 100%; zimno 50%; magiê 65%
+
+Specjalne zdolnoœci:
+Widzenie niewidzialnego (sta³e)
+Ulepszona niewidzialnoœæ (do woli)
+Ognista kula (raz na 5 rund)
+Rozproszenie magii (raz na 5 rund)
+Symbol: s³aboœæ (raz na 5 rund)
+Przeklête s³owo (raz na dzieñ)
+Rój meteorytów (raz na dzieñ)~
+
+@3815=~Pit Fiend~
+
+@817    = ~Ca³kowita niewra¿liwoœæ~
+@818    = ~Ca³kowita niewra¿liwoœæ
+Poziom: 9
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 4 rundy
+Czas rzucania: 1
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Czar ten zapewnia ca³kowit¹ odpornoœæ na ataki broni¹. Czar ten jest niewiarygodnie potê¿ny, chocia¿ dzia³a przez krótki czas. Z powodu krótkiego czasu rzucenia i dzia³ania tego czaru najlepiej stosowaæ go ju¿ w czasie walki, kiedy kilka sekund mo¿e stanowiæ ró¿nicê miêdzy ¿yciem a œmierci¹.~
+
+@819    = ~£añcuch czarów~
+@820    = ~£añcuch czarów
+Poziom: 9
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+£añcuch czarów skupia magiczn¹ energiê czarodzieja i wyzwala j¹ tylko w pewnych okolicznoœciach. Mag po prostu wybiera trzy czary, które zostan¹ wyzwolone w pewnych sytuacjach (np. trafienie czarodzieja). Kiedy nast¹pi odpowiednie zdarzenie, wszystkie trzy czary zostaj¹ natychmiast wyzwolone. W ³añcuch czarów mo¿na wpleœæ zaklêcia z poziomów od 1-ego do 8-ego.~
+
+@821    = ~Zatrzymanie czasu~
+@822    = ~Zatrzymanie czasu
+Poziom: 9
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 3 rundy
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia, czarodziej przerywa up³yw czasu na obszarze jego dzia³ania. Wewn¹trz powsta³ej sfery czarodziej mo¿e swobodnie dzia³aæ przez trzy rundy. Mo¿e przemieszczaæ siê wewn¹trz tej sfery, a wszystkie pozosta³e istoty s¹ zamkniête w czasie. Czas dzia³ania czaru jest postrzegany przez czarodzieja subiektywnie. Jeœli coœ wejdzie na obszar dzia³ania Zatrzymania czasu, tak¿e zostanie poddane jego dzia³aniu. Gdy czar ten przestanie dzia³aæ, czarodziej z powrotem zacznie dzia³aæ w czasie rzeczywistym. Nale¿y zwróciæ uwagê, ¿e wszystkie czary jakie czarodziej rzuci³ w tym czasie zostaj¹ uwolnione w chwili gdy czas zaczyna biec normalnie. ~
+
+@823    = ~Uwiêzienie~
+@824    = ~Uwiêzienie
+Poziom: 9
+Szko³a: Odrzucanie
+Zasiêg: krótki
+Czas trwania: sta³y
+Czas rzucania: 1 runda
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia istota bêd¹ca jego celem zostaje uwiêziona w ma³ej kuli g³êboko pod powierzchni¹ ziemi, w stanie zawieszenia funkcji ¿yciowych, lecz œwiadoma swojego losu. Ofiara pozostaje tam, dopóki nie zostanie rzucona odwrotna wersja tego czaru, Uwolnienie. W przeciwnym razie pozostanie uwiêziona przez 1 turê, po której up³ywie umrze straszliw¹, pe³n¹ rozpaczy œmierci¹ przez uduszenie. Jeœli w miejscu uwiêzienia istoty zostanie rzucony czar Uwolnienie, pojawi siê ona dok³adnie tam, gdzie sta³a po raz ostatni. Rozproszenie magii nie uwolni istoty uwiêzionej w ten sposób. Odpornoœæ celu na magiê, jeœli j¹ posiada, nie ma wp³ywu na to zaklêcie.~
+
+@825    = ~Rój meteorytów~
+@826    = ~Rój meteorytów
+Poziom: 9
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 1 runda
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: zioniêcia 1/2
+
+Po rzuceniu tego zaklêcia, na wszystkich znajduj¹cych siê w obszarze jego dzia³ania, przyjació³ i wrogów, spada rój meteorytów, zadaj¹c ogromne obra¿enia. Ka¿da istota trafiona meteorytem otrzymuje 40k4 obra¿eñ od ognia lub po³owê po udanym rzucie obronnym przeciw zioniêciom z modyfikatorem -4. Czarodziejom zaleca siê, aby byli ostro¿ni przy u¿ywaniu tego czaru. Odpornoœæ na magiê nie ma wp³ywu na ten czar. ~
+
+@827    = ~S³owo mocy: giñ~
+@828    = ~S³owo mocy: giñ
+Poziom: 9
+Szko³a: Zaczarowania/Zauroczenia
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 1
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Gdy zostanie wypowiedziane S³owo mocy: giñ, jedna wskazana przez rzucaj¹cego istota ginie. Istoty maj¹ce w danej chwili 60 lub wiêcej punktów ¿ycia mog¹ wykonaæ rzut obronny przeciw czarom, aby unikn¹æ efektu, ale te, które maj¹ od 1 do 59 punktów ¿ycia, nie mog¹ siê mu oprzeæ. Nawet jeœli maksymalna liczba punktów ¿ycia istoty przekracza 60, decyduje jej aktualna liczba punktów ¿ycia.~
+
+@829    = ~Zawodzenie Banshee~
+@830    = ~Zawodzenie Banshee
+Poziom: 9
+Szko³a: Nekromancja
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 1 runda
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: œmieræ, neguje
+
+Po rzuceniu tego zaklêcia czarodziej wydaje okrzyk jak banshee (wyj¹cy duch). Ka¿dy na obszarze dzia³ania s³yszy ten przeraŸliwy krzyk. Wrogowie, którym nie uda siê rzut obronny przeciw œmierci z modyfikatorem -2, natychmiast umieraj¹, a ci, którzy prze¿yj¹ zawodzenie, trac¹ s³uch na 2 rundy. Czarodziej i jego towarzysze s¹ odporni na zawodzenie.~
+
+@831    = ~Wyssanie energii Larlocha~
+@832    = ~Wyssanie energii Larlocha
+Poziom: 9
+Szko³a: Nekromancja
+Zasiêg: krótki
+Czas trwania: specjalny
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Rzucenie tego zaklêcia otwiera kana³ pomiêdzy planem na którym znajduje siê czarodziej a Planem Negatywnej Energii. Czarodziej dzia³a jak ³¹cznik pomiêdzy dwoma planami, powoduj¹c wyssanie energii z ¿ywej istoty i przeniesienie jej do Planu Negatywnej Energii. Stworzenie traci 4 poziomy doœwiadczenia, mog¹ one byæ przywrócone jedynie kap³añskim czarem przywrócenia. Si³y ¿yciowe przechodz¹c przez czarodzieja daj¹ mu tymczasowo dodatkowe 20 P¯, premiê +4 do ataku i rzutów obronnych oraz 20% bonus do ka¿dej umiejêtnoœci. Efekty trwaj¹ 1 turê. Odpornoœæ na magiê celu nie ma wp³ywu na ten czar.~
+
+@833    = ~Czarne ostrze klêski~
+@834    = ~Czarne ostrze klêski
+Poziom: 9
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 1 runda na poziom rzucaj¹cego
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Czar ten pozwala stworzyæ czarn¹ szczelinê miêdzyplanarn¹ w kszta³cie ostrza, d³ug¹ na oko³o 5 stóp. Pojawia siê ona w rêce rzucaj¹cego, który mo¿e jej u¿ywaæ jak zwyk³ego miecza a¿ do wygaœniêcia czaru. Rzucaj¹cy w³ada ostrzem tak, jakby by³ bieg³y w pos³ugiwaniu siê t¹ broni¹, a jego bazowe TraKo wynosi 0. Miecz zadaje 2k12 obra¿eñ przy ka¿dym trafieniu i pod ka¿dym wzglêdem dzia³a jak magiczna broñ +5, ³¹cznie z premiami do trafienia i obra¿eñ. Przy ka¿dym trafieniu istnieje 15% szansy, ¿e ofiara musi wykonaæ rzut obronny przeciw czarom z modyfikatorem -2 albo zostanie zdezintegrowana (40k6 obra¿eñ od magii, 5k6 po udanym rzucie obronnym).~
+
+@835    = ~Zmiana kszta³tu~
+@836    = ~Zmiana kszta³tu
+Poziom: 9
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 1 runda
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Dziêki temu zaklêciu, czarodziej mo¿e przybraæ postaæ potê¿nej istoty (³upie¿cy umys³u, ¿elaznego golema, wiêkszego ³akowilka lub duchowego trolla). Czarodziej staje siê istot¹ jak¹ sobie za¿yczy i uzyskuje niemal wszystkie jej zdolnoœci. Psychiczne atrybuty czarodzieja nie ulegaj¹ zmianie, ale cechy fizyczne s¹ dostosowane do przybranej formy. Wszystkie noszone przedmioty dostosowuj¹ siê do nowej formy i nadal dzia³aj¹. Ka¿da przemiana zajmuje tylko sekundê i nie wywo³uje oszo³omienia.
+
+¯elazny golem
+SI£A 24, ZRÊCZNOŒÆ 9, KONDYCJA 9, KP 3, TraKo -2
+2 ataki na rundê, 2k10+16 obra¿eñ obuchowych (Piêœæ +4)
+Odpornoœæ przed broniami s³abszymi ni¿ +3
+Odpornoœæ na efekty ciosu w plecy i trucizny
+Odpornoœæ na magiê 100%
+Odpornoœæ na kwas, zimno i elektrycznoœæ 100%; ogieñ 125%
+Odpornoœæ na obra¿enia ciête, k³ute i pociski 40%, obuchowe 20%
+
+
+Wiêkszy ³akowilk
+SI£A 21, ZRÊCZNOŒÆ 20, KONDYCJA 25, KP -4, TraKo 1
+3 ataki na rundê, 2k8+12 obra¿eñ ciêtych (£apa +3)
+Odpornoœæ przed broniami s³abszymi ni¿ +1
+Regeneracja: 2 P¯/s
+Odpornoœæ na magiê 40%; ¿ywio³y 50%
+
+
+£upie¿ca umys³u
+SI£A 12, ZRÊCZNOŒÆ 14, KONDYCJA 12, KP 3, TraKo 9
+1 atak na rundê, 1k4+2 obra¿eñ + po¿arcie mózgu (Dotyk +2)
+Po¿arcie mózgu: -4 do inteligencji celu
+Psioniczne uderzenie: og³uszenie wrogów w promieniu 15 stóp (rzut przeciw czarom neguje)
+Odpornoœæ na magiê 90%
+Rzucanie czarów w tej formie nie jest wy³¹czone
+
+
+Duchowy troll
+SI£A 19, ZRÊCZNOŒÆ 18, KONDYCJA 2, KP -4, TraKo 8
+2 ataki na rundê, 2k4+9 obra¿eñ ciêtych + wyssanie (Pazur +2)
+Wyssanie cech: -1 do si³y celu (rzut obronny przeciw œmierci neguje)
+Ulepszona niewidzialnoœæ; odpornoœæ na zwyk³e bronie
+Regeneracja: 3 P¯/rundê; Odpornoœæ na zimno 100%~
+
+@837    = ~Uwolnienie~
+@838    = ~Uwolnienie
+Poziom: 9
+Szko³a: Odrzucanie
+Zasiêg: rzucaj¹cy
+Czas trwania: natychmiastowy
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Zaklêcie to po rzuceniu uwalnia wszystkie przyjazne stworzenia od efektów, które ograniczaj¹ ich zdolnoœæ poruszania siê oraz wiê¿¹ ich umys³. Efekty te to: zamêt, dominacja, opl¹tanie, og³upienie, unieruchomienie, parali¿, petryfikacja, uœpienie, spowolnienie, og³uszenie oraz pajêczyna. Zaklêcie to równie¿ anuluje dzia³anie czaru Labirynt, uwalniaj¹c stworzenie z labiryntu sfer. Rzucone na obszarze, gdzie wczeœniej uwiêziono istotê za pomoc¹ czaru Uwiêzienie, uwolni j¹. Istota pojawi siê dok³adnie w miejscu, w którym sta³a w chwili uwiêzienia.~
+
+@839    = ~Mia¿d¿¹ca rêka Bigby'ego~
+@840    = ~Mia¿d¿¹ca rêka Bigby'ego
+Poziom: 9
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: 1 tura
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Zaklêcie to powo³uje do istnienia ogromn¹, pozbawion¹ cia³a d³oñ, która mia¿d¿y cel i przygwa¿d¿a go do ziemi. W ka¿dej rundzie ogromna d³oñ uderza cel, zadaj¹c mu 2k10 obra¿eñ obuchowych, i og³usza go na 1 rundê, chyba ¿e rzut obronny przeciw parali¿owi z modyfikatorem -4 zakoñczy siê powodzeniem. Po 10 rundach czar wygasa.~
+
+@841    = ~¯yczenie~
+@842    = ~¯yczenie
+Poziom: 9
+Szko³a: Uniwersalna
+Zasiêg: rzucaj¹cy
+Czas trwania: specjalny
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+¯yczenie to bardziej skuteczna wersja zaklêcia Ograniczone ¿yczenie. Dos³ownie spe³nia ono ¿yczenie czarodzieja, dlatego mo¿na w ograniczonym stopniu zmieniæ rzeczywistoœæ, przysz³¹ lub teraŸniejsz¹ (ale jeœli nie okreœli siê precyzyjnie dzia³ania, to mo¿liwe, ¿e tylko dla czarodzieja). Chciwe ¿yczenia zazwyczaj koñcz¹ siê dla czarodzieja tragicznie. Ponadto im czarodziej jest m¹drzejszy, tym wiêksza szansa, ¿e dobrze wypowie swoje ¿yczenie. Rzucenie tego zaklêcia przez maga z nisk¹ M¹droœci¹, zamiast spe³nienia ¿yczenia bardzo czêsto koñczy siê katastrof¹.~
+
+
+/*------------------level 10------------------*/
+
+@851    = ~Ostrza energii~
+@852    = ~Ostrza energii
+Poziom: Epic
+Szko³a: Wywo³ywanie
+Zasiêg: rzucaj¹cy
+Czas trwania: 5 tur
+Czas rzucania: 5
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Ostrze energii to dysk utworzony z czystej energii, który dodaje +10 punktów do TraKo. Po rzuceniu we wroga, zadaje mu 1k4+5 obra¿eñ od pocisków, a tak¿e 1k10 dodatkowych obra¿eñ od elektrycznoœci. Traktowane s¹ jak broñ +5. Zaklêcie to tworzy 20 dysków energii i ustala liczbê ataków na 9 na rundê, dopóki dyski istniej¹.~
+
+@853    = ~Akceleracja~
+@854    = ~Akceleracja
+Poziom: Epic
+Szko³a: Przemiany
+Zasiêg: rzucaj¹cy
+Czas trwania: 2 rundy
+Czas rzucania: 1 runda
+Obszar dzia³ania: rzucaj¹cy
+Rzut obronny: brak
+
+Akceleracja powoduje usuniêcie przerwy pomiêdzy rzucaniem zaklêæ. Po rzuceniu tego czaru, mag mo¿e rozpocz¹æ rzucanie nowego zaklêcia natychmiast po zakoñczeniu poprzedniego. Efekt trwa przez dwie rundy.~
+
+@855    = ~Oddech smoka~
+@856    = ~Oddech smoka
+Poziom: Epic
+Szko³a: Wywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: zioniêcia, czêœciowy
+
+Po rzuceniu tego zaklêcia pojawia siê pozbawiona reszty cia³a g³owa czerwonego smoka, która zionie ogniem z si³¹ doros³ego czerwonego smoka. Oprócz ogromnej kuli ognia, zadaj¹cej 24k6 obra¿eñ, si³a oddechu smoka odrzuca przeciwników od rzucaj¹cego i pozostawia ich nieprzytomnych na 1 rundê. Ofiary mog¹ wykonaæ rzut obronny przeciw zioniêciom z modyfikatorem -2, aby otrzymaæ tylko po³owê obra¿eñ i nie zostaæ odrzucone. Zaklêcie to nie rani cz³onków dru¿yny. Odpornoœæ na magiê nie ma wp³ywu na ten czar.~
+
+@857    = ~Przyzwanie planetara~
+@858    = ~Przyzwanie planetara
+Poziom: Epic
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 2 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Zaklêcie to powoduje otworzenie bram nieba i przywo³anie planetara, który bêdzie walczyæ przy boku rzucaj¹cego czar, do czasu a¿ zaklêcie wygaœnie lub jego ziemskie wcielenie zostanie zabite.
+
+Planetar (18 kostek):
+SI£A 19, ZRÊCZNOŒÆ 19, KONDYCJA 18, INTELIGENCJA 18, M¥DROŒÆ 21, CHARYZMA 22, Chaotyczny dobry
+P¯ 152, KP -7, TraKo 1, Rzuty obronne 3/5/4/4/6
+3 ataki na rundê, 2k6+10 obra¿eñ ciêtych (Wielki miecz +3)
+Zdolnoœci bojowe:
+Uderzenie vorpalne: 15% szansy, ¿e cel musi wykonaæ rzut obronny przeciw œmierci z modyfikatorem -2 albo zginie
+
+Zdolnoœci specjalne:
+Odpornoœæ przed broniami s³abszymi ni¿ +3
+Odpornoœæ na efekty zauroczenia, zamêtu, og³upienia, wyssania poziomów, œmierci, uwiêzienia, labiryntu, petryfikacji i trucizn
+Regeneracja: 2 P¯/rundê
+Odpornoœæ na zimno i elektrycznoœæ 100%; ogieñ 50%; magiê 75%
+Odpornoœæ na obra¿enia ciête, obuchowe, k³ute i pociski 20%
+
+Zapamiêtane zaklêcia:
+1. B³ogos³awieñstwo (x3), Odpornoœæ na strach (x3)
+2. Pomoc (x3), Szukanie pu³apek, Poznanie przeciwnika, Przywo³anie boskiej mocy
+3. Leczenie chorób (x2), Œwiête uderzenie (x2), Zdjêcie kl¹twy (x2)
+4. Leczenie krytycznych ran (x2), Os³ona przed œmierci¹ (x2), Neutralizacja trucizny (x2), Ochrona przed z³em, promieñ 3 metry (x2)
+5. Chaotyczne rozkazy (x2), Wskrzeszenie (x2), Prawdziwe widzenie (x2)
+6. Bariera ostrzy, Pocisk chwa³y, Uzdrowienie
+7. Wiêksze przywrócenie, Œwiête s³owo~
+
+@3857=~Planetar~
+
+@859    = ~Przyzwanie mrocznego planetara~
+@860    = ~Przyzwanie mrocznego planetara
+Poziom: Epic
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: 2 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Zaklêcie to powoduje otworzenie bram Otch³ani i przywo³anie mrocznego planetara, który bêdzie walczyæ przy boku rzucaj¹cego czar, do czasu a¿ zaklêcie wygaœnie lub jego ziemskie wcielenie zostanie zabite.
+
+Mroczny planetar (18 kostek):
+SI£A 19, ZRÊCZNOŒÆ 19, KONDYCJA 18, INTELIGENCJA 18, M¥DROŒÆ 21, CHARYZMA 22, Chaotyczny z³y
+P¯ 152, KP -7, TraKo 1, Rzuty obronne 3/5/4/4/6
+3 ataki na rundê, 2k6+10 obra¿eñ ciêtych (Wielki miecz +3)
+Zdolnoœci bojowe:
+Uderzenie vorpalne: 15% szansy, ¿e cel musi wykonaæ rzut obronny przeciw œmierci z modyfikatorem -2 albo zginie
+
+Zdolnoœci specjalne:
+Odpornoœæ przed broniami s³abszymi ni¿ +3
+Odpornoœæ na efekty zauroczenia, zamêtu, og³upienia, wyssania poziomów, œmierci, uwiêzienia, labiryntu, petryfikacji i trucizn
+Regeneracja: 2 P¯/rundê
+Odpornoœæ na ogieñ i elektrycznoœæ 100%; kwas 50%; magiê 75%
+Odpornoœæ na obra¿enia ciête, obuchowe, k³ute i pociski 20%
+
+Zapamiêtane zaklêcia:
+1. Zag³ada (x3), Odpornoœæ na strach (x3)
+2. Unieruchomienie osoby (x3), Szukanie pu³apek, Poznanie przeciwnika, Uciszenie
+3. Zaraza (x2), Przeklêta strefa (x2), Zdjêcie kl¹twy (x2)
+4. Zadawanie krytycznych ran (x2), Dominacja umys³owa (x2), Trucizna (x2), P³aszcz strachu (x2)
+5. S³up ognia (x2), Potê¿niejszy rozkaz (x2), Prawdziwe widzenie (x2)
+6. Bariera ostrzy, Bolesny rozk³ad, Krzywdzenie
+7. Burza ognia, Przeklête s³owo~
+
+@3859=~Upad³y planetar~
+
+@861    = ~Kometa~
+@862    = ~Kometa
+Poziom: Epic
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: daleki
+Czas trwania: natychmiastowy
+Czas rzucania: 1 runda
+Obszar dzia³ania: w promieniu 30 stóp
+Rzut obronny: parali¿, czêœciowy
+
+Po rzuceniu czaru, w ziemiê uderza ogromny meteor lub kometa, zadaj¹c obra¿enia wszystkim wrogom, którzy znajd¹ siê na drodze. Kometa przy uderzeniu wysy³a falê uderzeniow¹, która zwala z nóg i odrzuca w ty³ wszystkich nieprzyjació³ znajduj¹cych siê w obszarze dzia³ania zaklêcia. Powaleni wrogowie musz¹ wykonaæ rzut obronny przeciwko parali¿owi z modyfikatorem -4 albo strac¹ przytomnoœæ na 3 rundy. Sama kometa wyrz¹dza 10k10 obra¿eñ obuchowych. Zaklêcie to nie powoduje obra¿eñ u cz³onków dru¿yny. Odpornoœæ na magiê nie ma wp³ywu na ten czar.~
+
+
+@1024   = ~Dysk stworzony przez zaklêcie Ostrza energii. Kiedy zostanie rzucony w przeciwnika zadaje 1k4+5 obra¿eñ od pocisków oraz dodatkowo 1k10 obra¿eñ od elektrycznoœci.~
+
+
+/*------------------ New Spells for V4 ------------------*/
+
+@863=~Tarcza przeciw czarom rozproszona~
+
+@864=~Odpornoœæ na ¿ywio³y~
+@865=~Odpornoœæ na ¿ywio³y
+Poziom: 2
+Szko³a: Odrzucanie
+Sfera: Ochrona
+Zasiêg: dotyk
+Czas trwania: 1 tura + 1 runda/poziom
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Po rzuceniu tego zaklêcia odpornoœæ celu na wszelkie obra¿enia od ¿ywio³ów wzrasta o 25%. Efekt trwa przez ca³y czas dzia³ania czaru lub do jego rozproszenia. Wielokrotne rzucenie tego zaklêcia nie kumuluje siê~
+
+@866=~Przywo³anie potwora VII~
+@867=~Przywo³anie potwora VII
+Poziom: 7
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa pewn¹ liczbê potworów, które s³u¿¹ mu bez wzglêdu na okolicznoœci. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿¹ od poziomu maga rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+13. poziom: 2 otyughi
+15. poziom+: 3 otyughi
+
+Otyugh (7 Kostek):
+SI£A 14, ZRÊCZNOŒÆ 10, KONDYCJA 13, INTELIGENCJA 5, M¥DROŒÆ 12, CHARYZMA 5;  charakter neutralny
+P¯ 70, KP 3, TraKo 10, rzuty obronne 10/12/12/14/12
+3 ataki na rundê, 1k6+3 obra¿eñ k³utych lub obuchowych (Ugryzienie i macki +3)
+
+Zdolnoœci bojowe:
+Choroba: trafione stworzenia poruszaj¹ siê z po³ow¹ szybkoœci i otrzymuj¹ 1 punkt obra¿eñ na rundê przez 1 turê
+
+Zdolnoœci specjalne:
+Odpornoœæ na efekty choroby
+Odpornoœæ na obra¿enia ciête, obuchowe i k³ute 5%; Odpornoœæ na pociski 100%~
+
+@3866=~Otyugh~
+
+@868=~Przywo³anie potwora VIII~
+@869=~Przywo³anie potwora VIII
+Poziom: 8
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa pewn¹ liczbê potworów, które s³u¿¹ mu bez wzglêdu na okolicznoœci. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿¹ od poziomu maga rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+15. poziom: 2 umber hulki
+17. poziom+: 3 umber hulki
+
+Umber Hulk (8 Kostek):
+SI£A 20, ZRÊCZNOŒÆ 13, KONDYCJA 18, INTELIGENCJA 11, M¥DROŒÆ 11, CHARYZMA 9;  charakter neutralny
+P¯ 96, KP 2, TraKo 6, rzuty obronne 10/12/12/14/12
+3 ataki na rundê, 1k8+11 obra¿eñ ciêtych i k³utych (Pazury i ugryzienie +3)
+
+Zdolnoœci bojowe:
+Spojrzenie wywo³uj¹ce zamêt
+
+Zdolnoœci specjalne:
+Odpornoœæ na efekty zamêtu~
+
+@3868=~Umber Hulk~
+
+@870=~Przywo³anie potwora IX~
+@871=~Przywo³anie potwora IX
+Poziom: 9
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: 3 tury
+Czas rzucania: 1 runda
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Moc¹ tego zaklêcia czarodziej przyzywa pewn¹ liczbê potworów, które s³u¿¹ mu bez wzglêdu na okolicznoœci. Rodzaj i liczba pojawiaj¹cych siê stworzeñ zale¿¹ od poziomu maga rzucaj¹cego zaklêcie. Przywo³ane istoty pozostan¹ pod kontrol¹ czarodzieja, dopóki nie zostan¹ zabite lub nie up³ynie czas trwania zaklêcia.
+
+17. poziom+: 2 wiêksze bazyliszki
+
+Wiêkszy bazyliszek (9 Kostek):
+SI£A 15, ZRÊCZNOŒÆ 13, KONDYCJA 17, INTELIGENCJA 11, M¥DROŒÆ 11, CHARYZMA 9;  charakter neutralny
+P¯ 90, KP 2, TraKo 6, rzuty obronne 9/11/11/13/11
+3 ataki na rundê, 1k8+11 obra¿eñ ciêtych i k³utych (Pazury i ugryzienie +3)
+
+Zdolnoœci bojowe:
+Petryfikuj¹ce spojrzenie
+Trucizna~
+
+@872=~Plugawa ognista kula~
+
+@873=~Ochrona przed energi¹ ¿ywio³ów~
+@874=~Ochrona przed energi¹ ¿ywio³ów
+Poziom: 4
+Szko³a: Odrzucanie
+Zasiêg: dotyk
+Czas trwania: 1 tura/poziom
+Czas rzucania: 5
+Obszar dzia³ania: 1 istota
+Rzut obronny: brak
+
+Kiedy zaklêcie zostaje rzucone, cel otrzymuje ca³kowit¹ ochronê przed jednym rodzajem obra¿eñ: kwasem, zimnem, ogniem albo elektrycznoœci¹. 100% obra¿eñ z wybranego Ÿród³a energii zostanie poch³oniête, a chroniona istota stanie siê ca³kowicie odporna na dzia³anie czarów opartych na tym ¿ywiole. Wielokrotne rzucenie tego zaklêcia nie kumuluje siê, lecz za ka¿dym razem mo¿na wybraæ inny rodzaj obra¿eñ.~
+
+@875=~Lodowa lanca~
+@876=~Lodowa lanca
+Poziom: 3
+Szko³a: Wywo³ywanie
+Zasiêg: krótki
+Czas trwania: specjalny
+Czas rzucania: 3
+Obszar dzia³ania: 1 istota
+Rzut obronny: parali¿, czêœciowy
+
+Kiedy zaklêcie zostaje rzucone, ostra lodowa w³ócznia przebija cel, zadaj¹c 5k6 obra¿eñ. Cel musi wykonaæ rzut obronny przeciw parali¿owi albo zostanie unieruchomiony na 3 rundy.~
+
+@877=~Witriolowa sfera~
+@878=~Witriolowa sfera
+Poziom: 4
+Szko³a: Sprowadzanie/Przywo³ywanie
+Zasiêg: œredni
+Czas trwania: specjalny
+Czas rzucania: 3
+Obszar dzia³ania: cel i wszyscy w promieniu 10 stóp
+Rzut obronny: zioniêcia 1/2
+
+Kiedy zaklêcie zostaje rzucone, œwiec¹ca kula szmaragdowego kwasu pêdzi ku celowi i eksploduje w promieniu 10 stóp. Ka¿da istota na obszarze dzia³ania musi wykonaæ rzut obronny przeciw zioniêciom. Przy nieudanym rzucie otrzymuje 10k4 obra¿eñ od kwasu oraz 4k4 obra¿eñ od kwasu pod koniec ka¿dej z nastêpnych 2 rund. Przy udanym rzucie otrzymuje po³owê pocz¹tkowych obra¿eñ i po³owê obra¿eñ pod koniec ka¿dej rundy.~
+
+@879=~~
+
+
+/*------------------ Familiars ------------------*/
+
+@1042=~Kot~
+@1008   = ~To Twój chowaniec - kot, obecnie zwiniêty i bezpieczny w Twoim plecaku. Jest œwietnym zwiadowc¹, mo¿e wyœmienicie, podobnie jak z³odziej, poruszaæ siê w cieniu. Trudno równie¿ trafiæ go w walce, jego magia powoduje, i¿ jest odporny na ataki fizyczne i magiczne. 
+
+Statystyki:
+  KP: -4
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k3
+  Liczba ataków na rundê: 3
+  Rzuty obronne: 13/15/14/16/16
+
+Odpornoœci:
+  Magia: 50%
+
+Umiejêtnoœci specjalne:
+  Krycie siê w cieniu/Ciche chodzenie: 99%
+  Szukanie/Rozbrajanie Pu³apek: 20%
+  Kradzie¿ kieszonkowa: 40%~
+
+@1009   = ~To Twój chowaniec - kot, obecnie zwiniêty i bezpieczny w Twoim plecaku. Jest œwietnym zwiadowc¹, mo¿e wyœmienicie, podobnie jak z³odziej, poruszaæ siê w cieniu. Trudno równie¿ trafiæ go w walce, jego magia powoduje, i¿ jest odporny na ataki fizyczne i magiczne. 
+
+Statystyki:
+  KP: -8
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k3
+  Liczba ataków na rundê: 3
+  Rzuty obronne: 10/12/11/13/13
+
+Odpornoœci:
+  Magia: 65%
+
+Umiejêtnoœci specjalne:
+  Krycie siê w cieniu/Ciche chodzenie: 99%
+  Szukanie/Rozbrajanie Pu³apek: 40%
+  Kradzie¿ kieszonkowa: 60%
+  Wykrycie iluzji: 60%
+  Szczêœcie (5% bonus do wszystkiego)~
+
+@1043=~Mefit py³u~
+@1010   = ~To jest Twój chowaniec, mefit py³u. Obecnie jest bezpieczny w twoim plecaku. Mefit py³u nie jest dobry w walce w zwarciu, nieznacznie jest odporny na obra¿enia fizyczne oraz potrafi dwa razy dziennie rzucaæ czar B³yszcz¹cy py³, aby pomóc swojemu Panu.
+
+Statystyki:
+  KP: 2
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k3+1 od ognia
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 13/15/14/16/16
+
+Odpornoœci:
+  Magia: 20%
+  Ogieñ: 100%
+  Bronie sieczne/k³uj¹ce/pociski: 50%
+
+Umiejêtnoœci specjalne:
+  Regeneracja: 1 P¯/runda
+  B³yszcz¹cy py³: 2/dzieñ~
+
+@1011   = ~To jest Twój chowaniec, mefit py³u. Obecnie jest bezpieczny w twoim plecaku. Mefit py³u nie jest dobry w walce w zwarciu, nieznacznie jest odporny na obra¿enia fizyczne oraz zna kilka czarów, aby pomóc swojemu Panu.
+
+Statystyki:
+  KP: -2
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k3+1 od ognia
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/13/13
+
+Odpornoœci:
+  Magia: 35%
+  Ogieñ: 100%
+  Bronie sieczne/k³uj¹ce/pociski: 50%
+
+Umiejêtnoœci specjalne:
+  Regeneracja: 1 P¯/runda
+  B³yszcz¹cy py³: 2/dzieñ
+  Kamienna skóra: 1/dzieñ
+  Têczowe kolory: 1/dzieñ~
+
+@1044=~Baœniowy smok~
+@1012   = ~To jest twój chowaniec, baœniowy smok, obecnie zwiniêty i bezpieczny w plecaku. Ten psotny smok jest doœæ odporny na magiê i potrafi zarówno chroniæ siê, jak i ukrywaæ za pomoc¹ w³asnej magii iluzji.
+
+Statystyki:
+  KP: 0
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k3+1 od elektrycznoœci
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 13/15/14/16/16
+
+Odpornoœci:
+  Magia: 35%
+  Elektrycznoœæ: 125%
+
+Umiejêtnoœci specjalne:
+  Lustrzane obrazy: 1/dzieñ
+  Sfera niewidzialnoœci: 1/dzieñ~
+
+@1013   = ~To jest twój chowaniec, baœniowy smok, obecnie zwiniêty i bezpieczny w plecaku. Ten psotny smok jest doœæ odporny na magiê i potrafi zarówno chroniæ siê, jak i ukrywaæ za pomoc¹ w³asnej magii iluzji.
+
+Statystyki:
+  KP: -4
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k3+1 od elektrycznoœci
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/13/13
+
+Odpornoœci:
+  Magia: 50%
+  Elektrycznoœæ: 125%
+
+Umiejêtnoœci specjalne:
+  Lustrzane obrazy: 1/dzieñ
+  Sfera niewidzialnoœci: 1/dzieñ
+  Ulepszona niewidzialnoœæ: 1/dzieñ~
+
+@1045=~Fretka~
+@1014   = ~To jest twój chowaniec, fretka, obecnie zwiniêta i bezpieczna w plecaku. Fretka jest niezwykle szybkim i zwinnym zwierz¹tkiem, trudno j¹ trafiæ, jest równie¿ znacznie odporna na magiê. Fretki maj¹ niesamowit¹ zdolnoœæ wchodzenia nawet w trudno dostêpne miejsca, s¹ œwietnymi kieszonkowcami. 
+
+Statystyki:
+  KP: -4
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k3
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 13/15/14/16/16
+
+Odpornoœci:
+  Magia: 50%
+
+Umiejêtnoœci specjalne:
+  Krycie siê w cieniu/Ciche chodzenie: 40%
+  Szukanie/Rozbrajanie Pu³apek: 20%
+  Kradzie¿ kieszonkowa: 75%~
+
+@1015   = ~To jest twój chowaniec, fretka, obecnie zwiniêta i bezpieczna w plecaku. Fretka jest niezwykle szybkim i zwinnym zwierz¹tkiem, trudno j¹ trafiæ, jest równie¿ znacznie odporna na magiê. Fretki maj¹ niesamowit¹ zdolnoœæ wchodzenia nawet w trudno dostêpne miejsca, s¹ œwietnymi kieszonkowcami. 
+
+Statystyki:
+  KP: -8
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k3
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/13/13
+
+Odpornoœci:
+  Magia: 65%
+
+Umiejêtnoœci specjalne:
+  Krycie siê w cieniu/Ciche chodzenie: 60%
+  Szukanie/Rozbrajanie Pu³apek: 40%
+  Kradzie¿ kieszonkowa: 95%~
+
+@1046=~Chochlik~
+@1016   = ~To jest twój chowaniec, chochlik, obecnie w z³ym humorze, ale bezpieczny w twoim plecaku. Chochlik to niezwyk³e stworzenie, doœæ szybkie i odporne na magiê, maj¹ce zdolnoœæ rzucania zaklêæ.
+
+Statystyki:
+  KP: 2
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k3+1 od trucizny
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/12/13
+
+Odpornoœci:
+  Magia: 20%
+  Ogieñ/Zimno/Elektrycznoœæ: 100%
+
+Umiejêtnoœci specjalne:
+  Regeneracja: 1 P¯/runda
+  Polimorfowanie siebie: 1/dzieñ~
+
+@1017   = ~To jest twój chowaniec, chochlik, obecnie w z³ym humorze, ale bezpieczny w twoim plecaku. Chochlik to niezwyk³e stworzenie, doœæ szybkie i odporne na magiê, maj¹ce zdolnoœæ rzucania zaklêæ.
+
+Statystyki:
+  KP: -2
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k3+1 od trucizny
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 7/9/8/9/10
+
+Odpornoœci:
+  Magia: 35%
+  Ogieñ/Zimno/Elektrycznoœæ: 100%
+
+Umiejêtnoœci specjalne:
+  Regeneracja: 1 P¯/runda
+  Polimorfowanie siebie: 1/dzieñ
+  Odpornoœæ na zwyk³e bronie~
+
+@1047=~Pseudosmok~
+@1018   = ~To jest twój chowaniec, pseudosmok, obecnie zwiniêty i bezpieczny w plecaku. Jaszczur jest bardzo inteligentny, doœæ dobrze opancerzony i szybki. Nie jest zbyt dobry w walce w zwarciu, ale jego magiczne pazury mog¹ daæ siê wrogom we znaki. Jest równie¿ doœæ odporny na magiê.
+
+Statystyki:
+  KP: 0
+  P¯: 24
+  TraKo: 13
+  Obra¿enia: 1k6
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 13/15/14/16/16
+
+Odpornoœci:
+  Magia: 35%
+
+Umiejêtnoœci specjalne:
+  Ka¿de trafienie: uœpienie (1 tura, rzut obronny przeciw œmierci neguje)
+  Regeneracja: 1 P¯/runda
+  Rozmycie: 1/dzieñ~
+
+@1019   = ~To jest twój chowaniec, pseudosmok, obecnie zwiniêty i bezpieczny w plecaku. Jaszczur jest bardzo inteligentny, doœæ dobrze opancerzony i szybki. Nie jest zbyt dobry w walce w zwarciu, ale jego magiczne pazury mog¹ daæ siê wrogom we znaki. Jest równie¿ doœæ odporny na magiê.
+
+Statystyki:
+  KP: -4
+  P¯: 48
+  TraKo: 8
+  Obra¿enia: 1k6
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/13/13
+
+Odpornoœci:
+  Magia: 50%
+
+Umiejêtnoœci specjalne:
+  Ka¿de trafienie: uœpienie (1 tura, rzut obronny przeciw œmierci neguje)
+  Regeneracja: 1 P¯/runda
+  Rozmycie: 1/dzieñ
+  Wykrycie iluzji 2/dzieñ~
+
+@1048=~Quasit~
+@1020   = ~To jest twój chowaniec, quasit, obecnie w z³ym humorze, ale bezpieczny w plecaku. Quasit jest ma³ym, piekielnym stworzeniem, doœæ szybkim i odpornym na magiê. Ma zdolnoœæ rzucania czarów.
+
+Statystyki:
+  KP: 2
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k6
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/12/13
+
+Odpornoœci:
+  Magia: 20%
+  Ogieñ/Zimno/Elektrycznoœæ: 100%
+
+Umiejêtnoœci specjalne:
+  Ka¿de trafienie: -1 zrêcznoœæ (6 rund, rzut obronny przeciw œmierci neguje)
+  Regeneracja: 1 P¯/runda
+  Groza: 1/dzieñ
+  Rozmycie: 1/dzieñ~
+
+@1021   = ~To jest twój chowaniec, quasit, obecnie w z³ym humorze, ale bezpieczny w plecaku. Quasit jest ma³ym, piekielnym stworzeniem, doœæ szybkim i bardzo odpornym na czary, które potrafi rzucaæ w³asne czary na rzecz swojego pana.
+
+Statystyki:
+  KP: -2
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k6
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 7/9/8/9/10
+
+Odpornoœci:
+  Magia: 35%
+  Ogieñ/Zimno/Elektrycznoœæ: 100%
+
+Umiejêtnoœci specjalne:
+  Ka¿de trafienie: -1 zrêcznoœæ (6 rund, rzut obronny przeciw œmierci neguje)
+  Regeneracja: 1 P¯/rundê
+  Groza: 2/dzieñ
+  Rozmycie: 1/dzieñ
+  Odpornoœæ na zwyk³e bronie~
+
+@1049=~Królik~
+@1022   = ~To jest twój chowaniec, królik, obecnie zwiniêty i bezpieczny w plecaku. To stworzenie jest niesamowicie szybkie i trudne do trafienia w walce, a dziêki wzmocnieniu magi¹ sta³o siê doœæ odporne zarówno na obra¿enia fizyczne, jak i na czary. Królik ma te¿ czu³y nos, którym wywêszy pu³apki dla swojego pana.
+
+Statystyki:
+  KP: -4
+  P¯: 24
+  TraKo: 17
+  Obra¿enia: 1k2
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 13/15/14/16/16
+
+Odpornoœci:
+  Magia: 50%
+  Ogieñ/Zimno/Elektrycznoœæ/Kwas: 50%
+
+Umiejêtnoœci specjalne:
+  Krycie siê w cieniu/Ciche chodzenie: 40%
+  Szukanie/Rozbrajanie Pu³apek: 60%~
+
+@1023   = ~To jest twój chowaniec, królik, obecnie zwiniêty i bezpieczny w plecaku. To stworzenie jest niesamowicie szybkie i trudne do trafienia w walce, a dziêki wzmocnieniu magi¹ sta³o siê doœæ odporne zarówno na obra¿enia fizyczne, jak i na czary. Królik ma te¿ czu³y nos, którym wywêszy pu³apki dla swojego pana.
+
+Statystyki:
+  KP: -8
+  P¯: 48
+  TraKo: 12
+  Obra¿enia: 1k2
+  Liczba ataków na rundê: 2
+  Rzuty obronne: 10/12/11/13/13
+
+Odpornoœci:
+  Magia: 65%
+  Ogieñ/Zimno/Elektrycznoœæ/Kwas: 75%
+
+Umiejêtnoœci specjalne:
+  Krycie siê w cieniu/Ciche chodzenie: 60%
+  Szukanie/Rozbrajanie Pu³apek: 80%
+  Wykrycie iluzji: 50%~
+
+@1025=~Chowaniec~
+
+@21000=~Ochrona przed rozpraszaniem zanika~
+@21001=~Ochrona przed rozpraszaniem uaktywniona~
+@21002=~Owady rozproszone~
+@21003=~Efekt przyspieszenia usuniêty~
+@21004=~Efekt spowolnienia zneutralizowany~
+@21005=~Skutek petryfikacji odwrócony~
+
+// Shapechange ability names.
+@21006=~Zmiana kszta³tu: duchowy troll~
+@21007=~Zmiana kszta³tu: ¿ywio³ak ziemi~ // original iwdee @36185
+@21008=~Zmiana kszta³tu: ¿ywio³ak ognia~ // original iwdee @36183
+@21009=~Zmiana kszta³tu: ¿elazny golem~ // original iwdee @36177
+@21010=~Zmiana kszta³tu: ³upie¿ca umys³ów~ // original iwdee @36175
+@21011=~Zmiana kszta³tu: wiêkszy wilko³ak~ // original iwdee @36181
+
+//More sectypes.
+@23000 = "Uwiêzienie dobieg³o koñca."
